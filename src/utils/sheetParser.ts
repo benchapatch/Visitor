@@ -103,6 +103,35 @@ export function normalizeDate(input: string): string {
   return trimmed;
 }
 
+export function normalizeBranchName(branchStr: string): string {
+  if (!branchStr) return 'PHUKET';
+  const b = branchStr.trim().toUpperCase().replace(/\s+/g, '');
+  if (b.includes('RAMA') || b.includes('RM9') || b.includes('พระราม')) {
+    return 'RM9';
+  }
+  if (b.includes('SKV') || b.includes('SUKHUMVIT') || b.includes('สุขุมวิท')) {
+    return 'SKV';
+  }
+  if (b.includes('PHUKET') || b.includes('ภูเก็ต') || b.includes('PK')) {
+    return 'PHUKET';
+  }
+  return b;
+}
+
+export function sanitizeSalesperson(raw: string): string {
+  if (!raw) return 'Unassigned';
+  const trimmed = raw.trim();
+  // Filter out any legacy mock names that don't belong to actual staff
+  if (trimmed === 'View') return 'Pui';
+  if (trimmed === 'Mind') return 'Tim';
+  if (trimmed === 'Pook') return 'Kate';
+  if (trimmed === 'Beam') return 'Aliss';
+  if (trimmed === 'Bell') return 'Aom';
+  if (trimmed === 'Nut') return 'Pui';
+  if (trimmed === 'Eve') return 'Tim';
+  return trimmed;
+}
+
 export function normalizeChannel(ch: string): ChannelType {
   if (!ch) return 'Walk in';
   const c = ch.trim().toLowerCase();
@@ -221,12 +250,13 @@ export function parseSheetDataToRecords(csvOrTsvText: string, defaultBranch = 'P
     }
 
     const rawBranch = branchCol >= 0 && row[branchCol] ? row[branchCol].trim() : defaultBranch;
-    const branch = (rawBranch || defaultBranch).toUpperCase().replace(/\s+/g, '');
+    const branch = normalizeBranchName(rawBranch || defaultBranch);
 
     const rawChannel = channelCol >= 0 && row[channelCol] ? row[channelCol] : 'Walk in';
     const channel = normalizeChannel(rawChannel);
 
-    const salesperson = saleCol >= 0 && row[saleCol] ? row[saleCol].trim() : 'Unassigned';
+    const rawSalesperson = saleCol >= 0 && row[saleCol] ? row[saleCol].trim() : 'Unassigned';
+    const salesperson = sanitizeSalesperson(rawSalesperson);
 
     const rawProducts = prodCol >= 0 && row[prodCol] ? row[prodCol] : '';
     const productInterests = normalizeProducts(rawProducts);

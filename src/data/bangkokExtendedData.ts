@@ -7,7 +7,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Thanat (Asoke Condo)",
     "channel": "Walk in",
-    "salesperson": "Mind",
+    "salesperson": "Tim",
     "productInterests": [
       "3 Seater Sofas",
       "Coffee Tables"
@@ -23,7 +23,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Varisara (Krungthep Kreetha)",
     "channel": "Line OA",
-    "salesperson": "Pook",
+    "salesperson": "Kate",
     "productInterests": [
       "L-Shape Sofas",
       "TV Stands"
@@ -37,7 +37,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Natthamon (Rama 9 Penthouse)",
     "channel": "Facebook",
-    "salesperson": "Beam",
+    "salesperson": "Aliss",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -51,7 +51,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Pipat (Pattanakarn House)",
     "channel": "Phone",
-    "salesperson": "Bell",
+    "salesperson": "Aom",
     "productInterests": [
       "Bed",
       "Bedding",
@@ -66,7 +66,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Chonlatee (Ratchada Living)",
     "channel": "Instagram",
-    "salesperson": "Nut",
+    "salesperson": "Pui",
     "productInterests": [
       "Modular Sofas",
       "Lounge Chair"
@@ -82,7 +82,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Benjaporn (Bangna Residence)",
     "channel": "Website",
-    "salesperson": "Eve",
+    "salesperson": "Tim",
     "productInterests": [
       "Marble Dining Table",
       "DINING CHAIRS"
@@ -96,7 +96,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Teerapat (Ekamai-Ramintra)",
     "channel": "Referral",
-    "salesperson": "View",
+    "salesperson": "Pui",
     "productInterests": [
       "Office Chairs",
       "Desks"
@@ -110,7 +110,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Supawan (Srinakarin Home)",
     "channel": "Walk in",
-    "salesperson": "Mind",
+    "salesperson": "Tim",
     "productInterests": [
       "Sideboards",
       "Shelves",
@@ -125,7 +125,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Anuchit (Ladprao Townhome)",
     "channel": "Line OA",
-    "salesperson": "Pook",
+    "salesperson": "Kate",
     "productInterests": [
       "3 Seater Sofas",
       "Coffee Tables"
@@ -141,7 +141,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Nattaya (Huai Khwang)",
     "channel": "Facebook",
-    "salesperson": "Beam",
+    "salesperson": "Aliss",
     "productInterests": [
       "L-Shape Sofas",
       "TV Stands"
@@ -155,7 +155,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Kittisak (Rama 9 Office)",
     "channel": "Phone",
-    "salesperson": "Bell",
+    "salesperson": "Aom",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -169,7 +169,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Ploypailin (Phra Ram 9 Duplex)",
     "channel": "Instagram",
-    "salesperson": "Nut",
+    "salesperson": "Pui",
     "productInterests": [
       "Bed",
       "Bedding",
@@ -184,7 +184,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Watchara (Sathorn-Ratchaphruek)",
     "channel": "Website",
-    "salesperson": "Eve",
+    "salesperson": "Tim",
     "productInterests": [
       "Modular Sofas",
       "Lounge Chair"
@@ -200,7 +200,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Onanong (On Nut Condo)",
     "channel": "Referral",
-    "salesperson": "View",
+    "salesperson": "Pui",
     "productInterests": [
       "Marble Dining Table",
       "DINING CHAIRS"
@@ -214,7 +214,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Tossaporn (Kaset-Nawamin)",
     "channel": "Walk in",
-    "salesperson": "Mind",
+    "salesperson": "Tim",
     "productInterests": [
       "Office Chairs",
       "Desks"
@@ -228,7 +228,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Thanat (Asoke Condo)",
     "channel": "Line OA",
-    "salesperson": "Pook",
+    "salesperson": "Kate",
     "productInterests": [
       "Sideboards",
       "Shelves",
@@ -243,7 +243,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Varisara (Krungthep Kreetha)",
     "channel": "Facebook",
-    "salesperson": "Beam",
+    "salesperson": "Aliss",
     "productInterests": [
       "3 Seater Sofas",
       "Coffee Tables"
@@ -259,7 +259,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Natthamon (Rama 9 Penthouse)",
     "channel": "Phone",
-    "salesperson": "Bell",
+    "salesperson": "Aom",
     "productInterests": [
       "L-Shape Sofas",
       "TV Stands"
@@ -273,7 +273,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Pipat (Pattanakarn House)",
     "channel": "Instagram",
-    "salesperson": "Nut",
+    "salesperson": "Pui",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -287,7 +287,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Chonlatee (Ratchada Living)",
     "channel": "Website",
-    "salesperson": "Eve",
+    "salesperson": "Tim",
     "productInterests": [
       "Bed",
       "Bedding",
@@ -302,7 +302,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Benjaporn (Bangna Residence)",
     "channel": "Referral",
-    "salesperson": "View",
+    "salesperson": "Pui",
     "productInterests": [
       "Modular Sofas",
       "Lounge Chair"
@@ -318,7 +318,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Teerapat (Ekamai-Ramintra)",
     "channel": "Walk in",
-    "salesperson": "Mind",
+    "salesperson": "Tim",
     "productInterests": [
       "Marble Dining Table",
       "DINING CHAIRS"
@@ -332,7 +332,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Supawan (Srinakarin Home)",
     "channel": "Line OA",
-    "salesperson": "Pook",
+    "salesperson": "Kate",
     "productInterests": [
       "Office Chairs",
       "Desks"
@@ -346,7 +346,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Anuchit (Ladprao Townhome)",
     "channel": "Facebook",
-    "salesperson": "Beam",
+    "salesperson": "Aliss",
     "productInterests": [
       "Sideboards",
       "Shelves",
@@ -361,7 +361,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Nattaya (Huai Khwang)",
     "channel": "Phone",
-    "salesperson": "Bell",
+    "salesperson": "Aom",
     "productInterests": [
       "3 Seater Sofas",
       "Coffee Tables"
@@ -377,7 +377,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Kittisak (Rama 9 Office)",
     "channel": "Instagram",
-    "salesperson": "Nut",
+    "salesperson": "Pui",
     "productInterests": [
       "L-Shape Sofas",
       "TV Stands"
@@ -391,7 +391,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Ploypailin (Phra Ram 9 Duplex)",
     "channel": "Website",
-    "salesperson": "Eve",
+    "salesperson": "Tim",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -405,7 +405,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Watchara (Sathorn-Ratchaphruek)",
     "channel": "Referral",
-    "salesperson": "View",
+    "salesperson": "Pui",
     "productInterests": [
       "Bed",
       "Bedding",
@@ -420,7 +420,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Onanong (On Nut Condo)",
     "channel": "Walk in",
-    "salesperson": "Mind",
+    "salesperson": "Tim",
     "productInterests": [
       "Modular Sofas",
       "Lounge Chair"
@@ -436,7 +436,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Tossaporn (Kaset-Nawamin)",
     "channel": "Line OA",
-    "salesperson": "Pook",
+    "salesperson": "Kate",
     "productInterests": [
       "Marble Dining Table",
       "DINING CHAIRS"
@@ -450,7 +450,7 @@ export const BANGKOK_EXTENDED_RM9_RECORDS: VisitorRecord[] = [
     "branch": "RM9",
     "customerName": "Khun Thanat (Asoke Condo)",
     "channel": "Facebook",
-    "salesperson": "Beam",
+    "salesperson": "Aliss",
     "productInterests": [
       "Office Chairs",
       "Desks"
@@ -467,7 +467,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mr. Kenji Sato (Thonglor Penthouse)",
     "channel": "Walk in",
-    "salesperson": "Mind",
+    "salesperson": "Tim",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -483,7 +483,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Pimchanok (Ekkamai Residence)",
     "channel": "Line OA",
-    "salesperson": "Pook",
+    "salesperson": "Kate",
     "productInterests": [
       "Modular Sofas",
       "Coffee Tables"
@@ -497,7 +497,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mr. Hiroshi Tanaka (Phrom Phong)",
     "channel": "Instagram",
-    "salesperson": "Eve",
+    "salesperson": "Tim",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -511,7 +511,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Nutthawut (Sukhumvit 39)",
     "channel": "Facebook",
-    "salesperson": "Nut",
+    "salesperson": "Pui",
     "productInterests": [
       "Swivel Armchair",
       "Floor Lamp"
@@ -525,7 +525,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mrs. Emily Watson (Asoke Suite)",
     "channel": "Phone",
-    "salesperson": "View",
+    "salesperson": "Pui",
     "productInterests": [
       "Bed",
       "Nightstand",
@@ -542,7 +542,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Jantana (Sukhumvit 55)",
     "channel": "Referral",
-    "salesperson": "Beam",
+    "salesperson": "Aliss",
     "productInterests": [
       "Chandelier",
       "Pendant Lamps"
@@ -556,7 +556,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mr. Toshiro Mori (Thonglor 13)",
     "channel": "Website",
-    "salesperson": "Bell",
+    "salesperson": "Aom",
     "productInterests": [
       "Barstools",
       "Bar Table"
@@ -570,7 +570,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Prapas (Sukhumvit 71)",
     "channel": "Walk in",
-    "salesperson": "Mind",
+    "salesperson": "Tim",
     "productInterests": [
       "Lounge Chair",
       "Poufs",
@@ -585,7 +585,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Voranart (Phra Khanong Duplex)",
     "channel": "Line OA",
-    "salesperson": "Pook",
+    "salesperson": "Kate",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -601,7 +601,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mr. David Campbell (Nana Luxury)",
     "channel": "Instagram",
-    "salesperson": "Eve",
+    "salesperson": "Tim",
     "productInterests": [
       "Modular Sofas",
       "Coffee Tables"
@@ -615,7 +615,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Sirinya (Sukhumvit 24 Condo)",
     "channel": "Facebook",
-    "salesperson": "Nut",
+    "salesperson": "Pui",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -629,7 +629,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mr. Takashi Yamada (Ekkamai 10)",
     "channel": "Phone",
-    "salesperson": "View",
+    "salesperson": "Pui",
     "productInterests": [
       "Swivel Armchair",
       "Floor Lamp"
@@ -643,7 +643,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Kanyarat (Sukhumvit 49 Villa)",
     "channel": "Referral",
-    "salesperson": "Beam",
+    "salesperson": "Aliss",
     "productInterests": [
       "Bed",
       "Nightstand",
@@ -660,7 +660,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Peerapong (Ploenchit Condo)",
     "channel": "Website",
-    "salesperson": "Bell",
+    "salesperson": "Aom",
     "productInterests": [
       "Chandelier",
       "Pendant Lamps"
@@ -674,7 +674,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mrs. Sarah Jenkins (Asoke Tower)",
     "channel": "Walk in",
-    "salesperson": "Mind",
+    "salesperson": "Tim",
     "productInterests": [
       "Barstools",
       "Bar Table"
@@ -688,7 +688,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mr. Kenji Sato (Thonglor Penthouse)",
     "channel": "Line OA",
-    "salesperson": "Pook",
+    "salesperson": "Kate",
     "productInterests": [
       "Lounge Chair",
       "Poufs",
@@ -703,7 +703,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Pimchanok (Ekkamai Residence)",
     "channel": "Instagram",
-    "salesperson": "Eve",
+    "salesperson": "Tim",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -719,7 +719,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mr. Hiroshi Tanaka (Phrom Phong)",
     "channel": "Facebook",
-    "salesperson": "Nut",
+    "salesperson": "Pui",
     "productInterests": [
       "Modular Sofas",
       "Coffee Tables"
@@ -733,7 +733,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Nutthawut (Sukhumvit 39)",
     "channel": "Phone",
-    "salesperson": "View",
+    "salesperson": "Pui",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -747,7 +747,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mrs. Emily Watson (Asoke Suite)",
     "channel": "Referral",
-    "salesperson": "Beam",
+    "salesperson": "Aliss",
     "productInterests": [
       "Swivel Armchair",
       "Floor Lamp"
@@ -761,7 +761,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Jantana (Sukhumvit 55)",
     "channel": "Website",
-    "salesperson": "Bell",
+    "salesperson": "Aom",
     "productInterests": [
       "Bed",
       "Nightstand",
@@ -778,7 +778,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mr. Toshiro Mori (Thonglor 13)",
     "channel": "Walk in",
-    "salesperson": "Mind",
+    "salesperson": "Tim",
     "productInterests": [
       "Chandelier",
       "Pendant Lamps"
@@ -792,7 +792,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Prapas (Sukhumvit 71)",
     "channel": "Line OA",
-    "salesperson": "Pook",
+    "salesperson": "Kate",
     "productInterests": [
       "Barstools",
       "Bar Table"
@@ -806,7 +806,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Voranart (Phra Khanong Duplex)",
     "channel": "Instagram",
-    "salesperson": "Eve",
+    "salesperson": "Tim",
     "productInterests": [
       "Lounge Chair",
       "Poufs",
@@ -821,7 +821,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mr. David Campbell (Nana Luxury)",
     "channel": "Facebook",
-    "salesperson": "Nut",
+    "salesperson": "Pui",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -837,7 +837,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Sirinya (Sukhumvit 24 Condo)",
     "channel": "Phone",
-    "salesperson": "View",
+    "salesperson": "Pui",
     "productInterests": [
       "Modular Sofas",
       "Coffee Tables"
@@ -851,7 +851,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mr. Takashi Yamada (Ekkamai 10)",
     "channel": "Referral",
-    "salesperson": "Beam",
+    "salesperson": "Aliss",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -865,7 +865,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Kanyarat (Sukhumvit 49 Villa)",
     "channel": "Website",
-    "salesperson": "Bell",
+    "salesperson": "Aom",
     "productInterests": [
       "Swivel Armchair",
       "Floor Lamp"
@@ -879,7 +879,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Peerapong (Ploenchit Condo)",
     "channel": "Walk in",
-    "salesperson": "Mind",
+    "salesperson": "Tim",
     "productInterests": [
       "Bed",
       "Nightstand",
@@ -896,7 +896,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mrs. Sarah Jenkins (Asoke Tower)",
     "channel": "Line OA",
-    "salesperson": "Pook",
+    "salesperson": "Kate",
     "productInterests": [
       "Chandelier",
       "Pendant Lamps"
@@ -910,7 +910,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mr. Kenji Sato (Thonglor Penthouse)",
     "channel": "Instagram",
-    "salesperson": "Eve",
+    "salesperson": "Tim",
     "productInterests": [
       "Barstools",
       "Bar Table"
@@ -924,7 +924,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Pimchanok (Ekkamai Residence)",
     "channel": "Facebook",
-    "salesperson": "Nut",
+    "salesperson": "Pui",
     "productInterests": [
       "Lounge Chair",
       "Poufs",
@@ -939,7 +939,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mr. Hiroshi Tanaka (Phrom Phong)",
     "channel": "Phone",
-    "salesperson": "View",
+    "salesperson": "Pui",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -955,7 +955,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Nutthawut (Sukhumvit 39)",
     "channel": "Referral",
-    "salesperson": "Beam",
+    "salesperson": "Aliss",
     "productInterests": [
       "Modular Sofas",
       "Coffee Tables"
@@ -969,7 +969,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mrs. Emily Watson (Asoke Suite)",
     "channel": "Website",
-    "salesperson": "Bell",
+    "salesperson": "Aom",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -983,7 +983,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Jantana (Sukhumvit 55)",
     "channel": "Walk in",
-    "salesperson": "Mind",
+    "salesperson": "Tim",
     "productInterests": [
       "Swivel Armchair",
       "Floor Lamp"
@@ -997,7 +997,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mr. Toshiro Mori (Thonglor 13)",
     "channel": "Line OA",
-    "salesperson": "Pook",
+    "salesperson": "Kate",
     "productInterests": [
       "Bed",
       "Nightstand",
@@ -1014,7 +1014,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Prapas (Sukhumvit 71)",
     "channel": "Instagram",
-    "salesperson": "Eve",
+    "salesperson": "Tim",
     "productInterests": [
       "Chandelier",
       "Pendant Lamps"
@@ -1028,7 +1028,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Voranart (Phra Khanong Duplex)",
     "channel": "Facebook",
-    "salesperson": "Nut",
+    "salesperson": "Pui",
     "productInterests": [
       "Barstools",
       "Bar Table"
@@ -1042,7 +1042,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mr. David Campbell (Nana Luxury)",
     "channel": "Phone",
-    "salesperson": "View",
+    "salesperson": "Pui",
     "productInterests": [
       "Lounge Chair",
       "Poufs",
@@ -1057,7 +1057,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Sirinya (Sukhumvit 24 Condo)",
     "channel": "Referral",
-    "salesperson": "Beam",
+    "salesperson": "Aliss",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -1073,7 +1073,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mr. Takashi Yamada (Ekkamai 10)",
     "channel": "Website",
-    "salesperson": "Bell",
+    "salesperson": "Aom",
     "productInterests": [
       "Modular Sofas",
       "Coffee Tables"
@@ -1087,7 +1087,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Kanyarat (Sukhumvit 49 Villa)",
     "channel": "Walk in",
-    "salesperson": "Mind",
+    "salesperson": "Tim",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -1101,7 +1101,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Peerapong (Ploenchit Condo)",
     "channel": "Line OA",
-    "salesperson": "Pook",
+    "salesperson": "Kate",
     "productInterests": [
       "Swivel Armchair",
       "Floor Lamp"
@@ -1115,7 +1115,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mrs. Sarah Jenkins (Asoke Tower)",
     "channel": "Instagram",
-    "salesperson": "Eve",
+    "salesperson": "Tim",
     "productInterests": [
       "Bed",
       "Nightstand",
@@ -1132,7 +1132,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mr. Kenji Sato (Thonglor Penthouse)",
     "channel": "Facebook",
-    "salesperson": "Nut",
+    "salesperson": "Pui",
     "productInterests": [
       "Chandelier",
       "Pendant Lamps"
@@ -1146,7 +1146,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Pimchanok (Ekkamai Residence)",
     "channel": "Phone",
-    "salesperson": "View",
+    "salesperson": "Pui",
     "productInterests": [
       "Barstools",
       "Bar Table"
@@ -1160,7 +1160,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mr. Hiroshi Tanaka (Phrom Phong)",
     "channel": "Referral",
-    "salesperson": "Beam",
+    "salesperson": "Aliss",
     "productInterests": [
       "Lounge Chair",
       "Poufs",
@@ -1175,7 +1175,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Nutthawut (Sukhumvit 39)",
     "channel": "Website",
-    "salesperson": "Bell",
+    "salesperson": "Aom",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -1191,7 +1191,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mrs. Emily Watson (Asoke Suite)",
     "channel": "Walk in",
-    "salesperson": "Mind",
+    "salesperson": "Tim",
     "productInterests": [
       "Modular Sofas",
       "Coffee Tables"
@@ -1205,7 +1205,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Jantana (Sukhumvit 55)",
     "channel": "Line OA",
-    "salesperson": "Pook",
+    "salesperson": "Kate",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -1219,7 +1219,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Mr. Toshiro Mori (Thonglor 13)",
     "channel": "Instagram",
-    "salesperson": "Eve",
+    "salesperson": "Tim",
     "productInterests": [
       "Swivel Armchair",
       "Floor Lamp"
@@ -1233,7 +1233,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Prapas (Sukhumvit 71)",
     "channel": "Facebook",
-    "salesperson": "Nut",
+    "salesperson": "Pui",
     "productInterests": [
       "Bed",
       "Nightstand",
@@ -1250,7 +1250,7 @@ export const BANGKOK_EXTENDED_SKV_RECORDS: VisitorRecord[] = [
     "branch": "SKV",
     "customerName": "Khun Voranart (Phra Khanong Duplex)",
     "channel": "Phone",
-    "salesperson": "View",
+    "salesperson": "Pui",
     "productInterests": [
       "Chandelier",
       "Pendant Lamps"

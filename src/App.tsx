@@ -11,9 +11,26 @@ import { calculateWeeklyReport } from './utils/reportCalculator';
 import { shiftWeek } from './utils/dateUtils';
 import { parseSheetDataToRecords } from './utils/sheetParser';
 
-const STORAGE_KEY = 'lounge_lovers_visitor_records_v5';
+const STORAGE_KEY = 'lounge_lovers_visitor_records_v8';
 const SHEET_URL_KEY = 'lounge_lovers_sheet_url_v2';
 const LAST_SYNC_KEY = 'lounge_lovers_last_sync_v2';
+
+function sanitizeRecordsList(rawList: VisitorRecord[]): VisitorRecord[] {
+  return rawList.map(r => {
+    let sp = r.salesperson ? r.salesperson.trim() : 'Unassigned';
+    if (sp === 'View') sp = 'Pui';
+    if (sp === 'Mind') sp = 'Tim';
+    if (sp === 'Beam') sp = 'Aliss';
+    if (sp === 'Bell') sp = 'Aom';
+    if (sp === 'Nut') sp = 'Pui';
+    if (sp === 'Eve') sp = 'Tim';
+    if (sp === 'Pook') sp = 'Kate';
+    return {
+      ...r,
+      salesperson: sp
+    };
+  });
+}
 
 export default function App() {
   // 1. Visitor Records State with Local Storage persistence & seed synchronization
@@ -22,14 +39,8 @@ export default function App() {
       const saved = localStorage.getItem(STORAGE_KEY);
       if (saved) {
         const parsed = JSON.parse(saved);
-        if (Array.isArray(parsed) && parsed.length >= INITIAL_VISITOR_RECORDS.length) {
-          return parsed;
-        } else if (Array.isArray(parsed) && parsed.length > 0) {
-          // Merge seed records with saved records by id
-          const map = new Map<string, VisitorRecord>();
-          INITIAL_VISITOR_RECORDS.forEach(r => map.set(r.id, r));
-          parsed.forEach((r: VisitorRecord) => map.set(r.id, r));
-          return Array.from(map.values());
+        if (Array.isArray(parsed) && parsed.length > 0) {
+          return sanitizeRecordsList(parsed);
         }
       }
     } catch (e) {
@@ -94,14 +105,21 @@ export default function App() {
   };
 
   // Google Sheet Data Sync Handler
-  const handleSyncData = (newRecords: VisitorRecord[], appendMode: boolean) => {
+  const handleSyncData = (newRecords: VisitorRecord[], appendMode: boolean, syncBranch?: string) => {
+    const sanitizedNew = sanitizeRecordsList(newRecords);
     if (appendMode) {
       // Merge unique by ID
       const existingIds = new Set(records.map(r => r.id));
-      const filteredNew = newRecords.filter(r => !existingIds.has(r.id));
+      const filteredNew = sanitizedNew.filter(r => !existingIds.has(r.id));
       setRecords([...records, ...filteredNew]);
     } else {
-      setRecords(newRecords);
+      if (syncBranch && syncBranch !== 'ALL') {
+        const branchNorm = syncBranch.toUpperCase();
+        const otherBranches = records.filter(r => r.branch.toUpperCase() !== branchNorm);
+        setRecords([...otherBranches, ...sanitizedNew]);
+      } else {
+        setRecords(sanitizedNew);
+      }
     }
     const now = new Date().toISOString();
     setLastSyncTime(now);
@@ -245,7 +263,9 @@ export default function App() {
         onUpdateSheetUrl={handleUpdateSheetUrl}
         lastSyncTime={lastSyncTime}
         onSyncData={handleSyncData}
+        onResetRecords={handleResetToSeed}
         currentCount={records.length}
+        selectedBranch={selectedBranch}
       />
 
       <AddRecordModal

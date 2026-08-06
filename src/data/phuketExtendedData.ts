@@ -37,7 +37,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Elena Rostova",
     "channel": "Walk in",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Bed",
       "Mattress",
@@ -52,7 +52,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. David & Sarah Miller",
     "channel": "Line OA",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Outdoor Furniture",
       "Sunbed"
@@ -66,7 +66,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Thanaporn (Cherngtalay Project)",
     "channel": "Facebook",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "3 Seater Sofas",
       "Coffee Tables"
@@ -80,7 +80,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Maximilian Weber",
     "channel": "Instagram",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "TV Stands",
       "Sideboards"
@@ -96,7 +96,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Voravit (Rawai Beach Resort)",
     "channel": "Phone",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Poufs",
       "Lounge Chair",
@@ -111,7 +111,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Jean-Luc Picard",
     "channel": "Referral (Designer)",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Pendant Lamps",
       "Chandelier"
@@ -154,7 +154,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Kittipong (Bangtao Hills)",
     "channel": "Walk in",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Modular Sofas",
       "Ottoman"
@@ -170,7 +170,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Anders Lindqvist",
     "channel": "Walk in",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Recliner / Swivel Armchair",
       "Floor Lamp"
@@ -184,7 +184,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Sophie & Thomas Martin",
     "channel": "Line OA",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Marble Dining Table",
       "DINING CHAIRS"
@@ -198,7 +198,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Jirapa (Kamala Heights)",
     "channel": "Facebook",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Sectional Sofa",
       "Cushions",
@@ -213,7 +213,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Oleg Kuzmin",
     "channel": "Instagram",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -227,7 +227,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Liam O'Connor",
     "channel": "Phone",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -272,7 +272,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Siriporn (Chalong Villa)",
     "channel": "Walk in",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "3 Seater Sofas",
       "Coffee Tables"
@@ -286,7 +286,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Arthur Pendelton",
     "channel": "Walk in",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "TV Stands",
       "Sideboards"
@@ -300,7 +300,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Anastasia Pavlova",
     "channel": "Walk in",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Poufs",
       "Lounge Chair",
@@ -317,7 +317,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Piyawat (Surin Beach House)",
     "channel": "Line OA",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Pendant Lamps",
       "Chandelier"
@@ -331,7 +331,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Frederik Hansen",
     "channel": "Facebook",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Barstools",
       "Bar Table"
@@ -345,7 +345,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Pornpimol (Patong Penthouse)",
     "channel": "Instagram",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Balcony Set",
       "Outdoor Dining Table",
@@ -390,7 +390,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Chalermpol (Layan Hills)",
     "channel": "Website",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Marble Dining Table",
       "DINING CHAIRS"
@@ -404,7 +404,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Yulia Belova",
     "channel": "Walk in",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Sectional Sofa",
       "Cushions",
@@ -419,7 +419,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Christian & Maria Meyer",
     "channel": "Walk in",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -433,7 +433,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Nalinee (Thalang Private Pool)",
     "channel": "Walk in",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -447,7 +447,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Boris Sokolov",
     "channel": "Line OA",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Bed",
       "Mattress",
@@ -464,7 +464,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Callum Smith",
     "channel": "Facebook",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Outdoor Furniture",
       "Sunbed"
@@ -506,7 +506,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. James Anderson",
     "channel": "Referral (Designer)",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Poufs",
       "Lounge Chair",
@@ -521,7 +521,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Anan (Cape Yamu Estate)",
     "channel": "Website",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Pendant Lamps",
       "Chandelier"
@@ -537,7 +537,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Supaporn (Rawai Sea View)",
     "channel": "Walk in",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Barstools",
       "Bar Table"
@@ -551,7 +551,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Valery Morozov",
     "channel": "Walk in",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Balcony Set",
       "Outdoor Dining Table",
@@ -566,7 +566,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mrs. Olivia Taylor",
     "channel": "Walk in",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Modular Sofas",
       "Ottoman"
@@ -580,7 +580,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Patchara (Ao Po Marina)",
     "channel": "Line OA",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Recliner / Swivel Armchair",
       "Floor Lamp"
@@ -625,7 +625,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Irina Vasileva",
     "channel": "Phone",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -639,7 +639,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Wannapa (Phuket Town)",
     "channel": "Referral (Designer)",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -653,7 +653,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Marco Bellini",
     "channel": "Website",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Bed",
       "Mattress",
@@ -668,7 +668,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Chaiwat (Pasak Villa)",
     "channel": "Walk in",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Outdoor Furniture",
       "Sunbed"
@@ -684,7 +684,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Svetlana Popova",
     "channel": "Walk in",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "3 Seater Sofas",
       "Coffee Tables"
@@ -698,7 +698,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. George Thompson",
     "channel": "Walk in",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "TV Stands",
       "Sideboards"
@@ -741,7 +741,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Henrik Nielsen",
     "channel": "Instagram",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Barstools",
       "Bar Table"
@@ -757,7 +757,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Nattapon (Bangjo Villa)",
     "channel": "Phone",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Balcony Set",
       "Outdoor Dining Table",
@@ -772,7 +772,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Pierre Laurent",
     "channel": "Referral (Designer)",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Modular Sofas",
       "Ottoman"
@@ -786,7 +786,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Sirilak (Chalong Pier)",
     "channel": "Website",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Recliner / Swivel Armchair",
       "Floor Lamp"
@@ -800,7 +800,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Ekaterina Orlova",
     "channel": "Walk in",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Marble Dining Table",
       "DINING CHAIRS"
@@ -814,7 +814,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Lucas Dubois",
     "channel": "Walk in",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Sectional Sofa",
       "Cushions",
@@ -859,7 +859,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Elena Rostova",
     "channel": "Facebook",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Bed",
       "Mattress",
@@ -874,7 +874,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. David & Sarah Miller",
     "channel": "Instagram",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Outdoor Furniture",
       "Sunbed"
@@ -888,7 +888,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Thanaporn (Cherngtalay Project)",
     "channel": "Phone",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "3 Seater Sofas",
       "Coffee Tables"
@@ -904,7 +904,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Maximilian Weber",
     "channel": "Referral (Designer)",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "TV Stands",
       "Sideboards"
@@ -918,7 +918,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Voravit (Rawai Beach Resort)",
     "channel": "Website",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Poufs",
       "Lounge Chair",
@@ -933,7 +933,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Jean-Luc Picard",
     "channel": "Walk in",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Pendant Lamps",
       "Chandelier"
@@ -978,7 +978,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Kittipong (Bangtao Hills)",
     "channel": "Line OA",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Modular Sofas",
       "Ottoman"
@@ -992,7 +992,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Anders Lindqvist",
     "channel": "Facebook",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Recliner / Swivel Armchair",
       "Floor Lamp"
@@ -1006,7 +1006,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Sophie & Thomas Martin",
     "channel": "Instagram",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Marble Dining Table",
       "DINING CHAIRS"
@@ -1020,7 +1020,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Jirapa (Kamala Heights)",
     "channel": "Phone",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Sectional Sofa",
       "Cushions",
@@ -1035,7 +1035,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Oleg Kuzmin",
     "channel": "Referral (Designer)",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -1051,7 +1051,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Liam O'Connor",
     "channel": "Website",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -1094,7 +1094,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Siriporn (Chalong Villa)",
     "channel": "Walk in",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "3 Seater Sofas",
       "Coffee Tables"
@@ -1108,7 +1108,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Arthur Pendelton",
     "channel": "Line OA",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "TV Stands",
       "Sideboards"
@@ -1124,7 +1124,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Anastasia Pavlova",
     "channel": "Facebook",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Poufs",
       "Lounge Chair",
@@ -1139,7 +1139,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Piyawat (Surin Beach House)",
     "channel": "Instagram",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Pendant Lamps",
       "Chandelier"
@@ -1153,7 +1153,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Frederik Hansen",
     "channel": "Phone",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Barstools",
       "Bar Table"
@@ -1167,7 +1167,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Pornpimol (Patong Penthouse)",
     "channel": "Referral (Designer)",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Balcony Set",
       "Outdoor Dining Table",
@@ -1212,7 +1212,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Chalermpol (Layan Hills)",
     "channel": "Walk in",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Marble Dining Table",
       "DINING CHAIRS"
@@ -1226,7 +1226,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Yulia Belova",
     "channel": "Walk in",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Sectional Sofa",
       "Cushions",
@@ -1241,7 +1241,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Christian & Maria Meyer",
     "channel": "Line OA",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -1255,7 +1255,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Nalinee (Thalang Private Pool)",
     "channel": "Facebook",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -1271,7 +1271,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Boris Sokolov",
     "channel": "Instagram",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Bed",
       "Mattress",
@@ -1286,7 +1286,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Callum Smith",
     "channel": "Phone",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Outdoor Furniture",
       "Sunbed"
@@ -1328,7 +1328,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. James Anderson",
     "channel": "Walk in",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Poufs",
       "Lounge Chair",
@@ -1345,7 +1345,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Anan (Cape Yamu Estate)",
     "channel": "Walk in",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Pendant Lamps",
       "Chandelier"
@@ -1359,7 +1359,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Supaporn (Rawai Sea View)",
     "channel": "Walk in",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Barstools",
       "Bar Table"
@@ -1373,7 +1373,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Valery Morozov",
     "channel": "Line OA",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Balcony Set",
       "Outdoor Dining Table",
@@ -1388,7 +1388,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mrs. Olivia Taylor",
     "channel": "Facebook",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Modular Sofas",
       "Ottoman"
@@ -1402,7 +1402,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Patchara (Ao Po Marina)",
     "channel": "Instagram",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Recliner / Swivel Armchair",
       "Floor Lamp"
@@ -1447,7 +1447,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Irina Vasileva",
     "channel": "Website",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -1461,7 +1461,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Wannapa (Phuket Town)",
     "channel": "Walk in",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -1475,7 +1475,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Marco Bellini",
     "channel": "Walk in",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Bed",
       "Mattress",
@@ -1492,7 +1492,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Chaiwat (Pasak Villa)",
     "channel": "Walk in",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Outdoor Furniture",
       "Sunbed"
@@ -1506,7 +1506,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Svetlana Popova",
     "channel": "Line OA",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "3 Seater Sofas",
       "Coffee Tables"
@@ -1520,7 +1520,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. George Thompson",
     "channel": "Facebook",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "TV Stands",
       "Sideboards"
@@ -1565,7 +1565,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Henrik Nielsen",
     "channel": "Referral (Designer)",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Barstools",
       "Bar Table"
@@ -1579,7 +1579,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Nattapon (Bangjo Villa)",
     "channel": "Website",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Balcony Set",
       "Outdoor Dining Table",
@@ -1594,7 +1594,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Pierre Laurent",
     "channel": "Walk in",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Modular Sofas",
       "Ottoman"
@@ -1608,7 +1608,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Sirilak (Chalong Pier)",
     "channel": "Walk in",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Recliner / Swivel Armchair",
       "Floor Lamp"
@@ -1622,7 +1622,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Ekaterina Orlova",
     "channel": "Walk in",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Marble Dining Table",
       "DINING CHAIRS"
@@ -1638,7 +1638,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Lucas Dubois",
     "channel": "Line OA",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Sectional Sofa",
       "Cushions",
@@ -1681,7 +1681,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Elena Rostova",
     "channel": "Phone",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Bed",
       "Mattress",
@@ -1696,7 +1696,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. David & Sarah Miller",
     "channel": "Referral (Designer)",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Outdoor Furniture",
       "Sunbed"
@@ -1712,7 +1712,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Thanaporn (Cherngtalay Project)",
     "channel": "Website",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "3 Seater Sofas",
       "Coffee Tables"
@@ -1726,7 +1726,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Maximilian Weber",
     "channel": "Walk in",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "TV Stands",
       "Sideboards"
@@ -1740,7 +1740,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Voravit (Rawai Beach Resort)",
     "channel": "Walk in",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Poufs",
       "Lounge Chair",
@@ -1755,7 +1755,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Jean-Luc Picard",
     "channel": "Walk in",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Pendant Lamps",
       "Chandelier"
@@ -1800,7 +1800,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Kittipong (Bangtao Hills)",
     "channel": "Instagram",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Modular Sofas",
       "Ottoman"
@@ -1814,7 +1814,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Anders Lindqvist",
     "channel": "Phone",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Recliner / Swivel Armchair",
       "Floor Lamp"
@@ -1828,7 +1828,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Sophie & Thomas Martin",
     "channel": "Referral (Designer)",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Marble Dining Table",
       "DINING CHAIRS"
@@ -1842,7 +1842,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Jirapa (Kamala Heights)",
     "channel": "Website",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Sectional Sofa",
       "Cushions",
@@ -1859,7 +1859,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Oleg Kuzmin",
     "channel": "Walk in",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -1873,7 +1873,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Liam O'Connor",
     "channel": "Walk in",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -1916,7 +1916,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Siriporn (Chalong Villa)",
     "channel": "Facebook",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "3 Seater Sofas",
       "Coffee Tables"
@@ -1932,7 +1932,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Arthur Pendelton",
     "channel": "Instagram",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "TV Stands",
       "Sideboards"
@@ -1946,7 +1946,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Anastasia Pavlova",
     "channel": "Phone",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Poufs",
       "Lounge Chair",
@@ -1961,7 +1961,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Piyawat (Surin Beach House)",
     "channel": "Referral (Designer)",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Pendant Lamps",
       "Chandelier"
@@ -1975,7 +1975,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Frederik Hansen",
     "channel": "Website",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Barstools",
       "Bar Table"
@@ -1989,7 +1989,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Pornpimol (Patong Penthouse)",
     "channel": "Walk in",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Balcony Set",
       "Outdoor Dining Table",
@@ -2034,7 +2034,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Chalermpol (Layan Hills)",
     "channel": "Line OA",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Marble Dining Table",
       "DINING CHAIRS"
@@ -2048,7 +2048,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Yulia Belova",
     "channel": "Facebook",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Sectional Sofa",
       "Cushions",
@@ -2063,7 +2063,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Christian & Maria Meyer",
     "channel": "Instagram",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -2079,7 +2079,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Nalinee (Thalang Private Pool)",
     "channel": "Phone",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -2093,7 +2093,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Boris Sokolov",
     "channel": "Referral (Designer)",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Bed",
       "Mattress",
@@ -2108,7 +2108,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Callum Smith",
     "channel": "Website",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Outdoor Furniture",
       "Sunbed"
@@ -2152,7 +2152,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. James Anderson",
     "channel": "Walk in",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Poufs",
       "Lounge Chair",
@@ -2167,7 +2167,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Anan (Cape Yamu Estate)",
     "channel": "Line OA",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Pendant Lamps",
       "Chandelier"
@@ -2181,7 +2181,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Supaporn (Rawai Sea View)",
     "channel": "Facebook",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Barstools",
       "Bar Table"
@@ -2195,7 +2195,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Valery Morozov",
     "channel": "Instagram",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Balcony Set",
       "Outdoor Dining Table",
@@ -2210,7 +2210,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mrs. Olivia Taylor",
     "channel": "Phone",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Modular Sofas",
       "Ottoman"
@@ -2226,7 +2226,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Patchara (Ao Po Marina)",
     "channel": "Referral (Designer)",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Recliner / Swivel Armchair",
       "Floor Lamp"
@@ -2269,7 +2269,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Irina Vasileva",
     "channel": "Walk in",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -2283,7 +2283,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Wannapa (Phuket Town)",
     "channel": "Walk in",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -2299,7 +2299,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Marco Bellini",
     "channel": "Line OA",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Bed",
       "Mattress",
@@ -2314,7 +2314,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Chaiwat (Pasak Villa)",
     "channel": "Facebook",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Outdoor Furniture",
       "Sunbed"
@@ -2328,7 +2328,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Svetlana Popova",
     "channel": "Instagram",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "3 Seater Sofas",
       "Coffee Tables"
@@ -2342,7 +2342,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. George Thompson",
     "channel": "Phone",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "TV Stands",
       "Sideboards"
@@ -2387,7 +2387,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Henrik Nielsen",
     "channel": "Walk in",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Barstools",
       "Bar Table"
@@ -2401,7 +2401,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Nattapon (Bangjo Villa)",
     "channel": "Walk in",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Balcony Set",
       "Outdoor Dining Table",
@@ -2416,7 +2416,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Pierre Laurent",
     "channel": "Walk in",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Modular Sofas",
       "Ottoman"
@@ -2430,7 +2430,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Sirilak (Chalong Pier)",
     "channel": "Line OA",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Recliner / Swivel Armchair",
       "Floor Lamp"
@@ -2446,7 +2446,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Ekaterina Orlova",
     "channel": "Facebook",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Marble Dining Table",
       "DINING CHAIRS"
@@ -2460,7 +2460,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Lucas Dubois",
     "channel": "Instagram",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Sectional Sofa",
       "Cushions",
@@ -2503,7 +2503,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Elena Rostova",
     "channel": "Website",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Bed",
       "Mattress",
@@ -2520,7 +2520,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. David & Sarah Miller",
     "channel": "Walk in",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Outdoor Furniture",
       "Sunbed"
@@ -2534,7 +2534,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Thanaporn (Cherngtalay Project)",
     "channel": "Walk in",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "3 Seater Sofas",
       "Coffee Tables"
@@ -2548,7 +2548,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Maximilian Weber",
     "channel": "Walk in",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "TV Stands",
       "Sideboards"
@@ -2562,7 +2562,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Voravit (Rawai Beach Resort)",
     "channel": "Line OA",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Poufs",
       "Lounge Chair",
@@ -2577,7 +2577,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Jean-Luc Picard",
     "channel": "Facebook",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Pendant Lamps",
       "Chandelier"
@@ -2622,7 +2622,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Kittipong (Bangtao Hills)",
     "channel": "Referral (Designer)",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Modular Sofas",
       "Ottoman"
@@ -2636,7 +2636,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Anders Lindqvist",
     "channel": "Website",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Recliner / Swivel Armchair",
       "Floor Lamp"
@@ -2650,7 +2650,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Sophie & Thomas Martin",
     "channel": "Walk in",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Marble Dining Table",
       "DINING CHAIRS"
@@ -2666,7 +2666,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Jirapa (Kamala Heights)",
     "channel": "Walk in",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Sectional Sofa",
       "Cushions",
@@ -2681,7 +2681,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Oleg Kuzmin",
     "channel": "Walk in",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -2695,7 +2695,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Liam O'Connor",
     "channel": "Line OA",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -2740,7 +2740,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Siriporn (Chalong Villa)",
     "channel": "Phone",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "3 Seater Sofas",
       "Coffee Tables"
@@ -2754,7 +2754,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Arthur Pendelton",
     "channel": "Referral (Designer)",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "TV Stands",
       "Sideboards"
@@ -2768,7 +2768,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Anastasia Pavlova",
     "channel": "Website",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Poufs",
       "Lounge Chair",
@@ -2783,7 +2783,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Piyawat (Surin Beach House)",
     "channel": "Walk in",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Pendant Lamps",
       "Chandelier"
@@ -2797,7 +2797,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Frederik Hansen",
     "channel": "Walk in",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Barstools",
       "Bar Table"
@@ -2813,7 +2813,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Pornpimol (Patong Penthouse)",
     "channel": "Walk in",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Balcony Set",
       "Outdoor Dining Table",
@@ -2856,7 +2856,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Chalermpol (Layan Hills)",
     "channel": "Instagram",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Marble Dining Table",
       "DINING CHAIRS"
@@ -2870,7 +2870,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Yulia Belova",
     "channel": "Phone",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Sectional Sofa",
       "Cushions",
@@ -2887,7 +2887,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Christian & Maria Meyer",
     "channel": "Referral (Designer)",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -2901,7 +2901,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Nalinee (Thalang Private Pool)",
     "channel": "Website",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -2915,7 +2915,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Boris Sokolov",
     "channel": "Walk in",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Bed",
       "Mattress",
@@ -2930,7 +2930,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Callum Smith",
     "channel": "Walk in",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Outdoor Furniture",
       "Sunbed"
@@ -2974,7 +2974,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. James Anderson",
     "channel": "Facebook",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Poufs",
       "Lounge Chair",
@@ -2989,7 +2989,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Anan (Cape Yamu Estate)",
     "channel": "Instagram",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Pendant Lamps",
       "Chandelier"
@@ -3003,7 +3003,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Supaporn (Rawai Sea View)",
     "channel": "Phone",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Barstools",
       "Bar Table"
@@ -3017,7 +3017,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Valery Morozov",
     "channel": "Referral (Designer)",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Balcony Set",
       "Outdoor Dining Table",
@@ -3034,7 +3034,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mrs. Olivia Taylor",
     "channel": "Website",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Modular Sofas",
       "Ottoman"
@@ -3048,7 +3048,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Patchara (Ao Po Marina)",
     "channel": "Walk in",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Recliner / Swivel Armchair",
       "Floor Lamp"
@@ -3091,7 +3091,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Irina Vasileva",
     "channel": "Line OA",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -3107,7 +3107,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Wannapa (Phuket Town)",
     "channel": "Facebook",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -3121,7 +3121,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Marco Bellini",
     "channel": "Instagram",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Bed",
       "Mattress",
@@ -3136,7 +3136,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Chaiwat (Pasak Villa)",
     "channel": "Phone",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Outdoor Furniture",
       "Sunbed"
@@ -3150,7 +3150,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Svetlana Popova",
     "channel": "Referral (Designer)",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "3 Seater Sofas",
       "Coffee Tables"
@@ -3164,7 +3164,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. George Thompson",
     "channel": "Website",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "TV Stands",
       "Sideboards"
@@ -3209,7 +3209,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Henrik Nielsen",
     "channel": "Walk in",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Barstools",
       "Bar Table"
@@ -3223,7 +3223,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Nattapon (Bangjo Villa)",
     "channel": "Line OA",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Balcony Set",
       "Outdoor Dining Table",
@@ -3238,7 +3238,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Pierre Laurent",
     "channel": "Facebook",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Modular Sofas",
       "Ottoman"
@@ -3254,7 +3254,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Sirilak (Chalong Pier)",
     "channel": "Instagram",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Recliner / Swivel Armchair",
       "Floor Lamp"
@@ -3268,7 +3268,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Ekaterina Orlova",
     "channel": "Phone",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Marble Dining Table",
       "DINING CHAIRS"
@@ -3282,7 +3282,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Lucas Dubois",
     "channel": "Referral (Designer)",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Sectional Sofa",
       "Cushions",
@@ -3327,7 +3327,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Elena Rostova",
     "channel": "Walk in",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Bed",
       "Mattress",
@@ -3342,7 +3342,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. David & Sarah Miller",
     "channel": "Walk in",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Outdoor Furniture",
       "Sunbed"
@@ -3356,7 +3356,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Thanaporn (Cherngtalay Project)",
     "channel": "Line OA",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "3 Seater Sofas",
       "Coffee Tables"
@@ -3370,7 +3370,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Maximilian Weber",
     "channel": "Facebook",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "TV Stands",
       "Sideboards"
@@ -3384,7 +3384,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Voravit (Rawai Beach Resort)",
     "channel": "Instagram",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Poufs",
       "Lounge Chair",
@@ -3401,7 +3401,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Jean-Luc Picard",
     "channel": "Phone",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Pendant Lamps",
       "Chandelier"
@@ -3444,7 +3444,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Kittipong (Bangtao Hills)",
     "channel": "Walk in",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Modular Sofas",
       "Ottoman"
@@ -3458,7 +3458,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Anders Lindqvist",
     "channel": "Walk in",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Recliner / Swivel Armchair",
       "Floor Lamp"
@@ -3474,7 +3474,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Sophie & Thomas Martin",
     "channel": "Walk in",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Marble Dining Table",
       "DINING CHAIRS"
@@ -3488,7 +3488,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Jirapa (Kamala Heights)",
     "channel": "Line OA",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Sectional Sofa",
       "Cushions",
@@ -3503,7 +3503,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Oleg Kuzmin",
     "channel": "Facebook",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -3517,7 +3517,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Liam O'Connor",
     "channel": "Instagram",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -3562,7 +3562,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Siriporn (Chalong Villa)",
     "channel": "Website",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "3 Seater Sofas",
       "Coffee Tables"
@@ -3576,7 +3576,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Arthur Pendelton",
     "channel": "Walk in",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "TV Stands",
       "Sideboards"
@@ -3590,7 +3590,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Anastasia Pavlova",
     "channel": "Walk in",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Poufs",
       "Lounge Chair",
@@ -3605,7 +3605,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Piyawat (Surin Beach House)",
     "channel": "Walk in",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Pendant Lamps",
       "Chandelier"
@@ -3621,7 +3621,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Frederik Hansen",
     "channel": "Line OA",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Barstools",
       "Bar Table"
@@ -3635,7 +3635,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Pornpimol (Patong Penthouse)",
     "channel": "Facebook",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Balcony Set",
       "Outdoor Dining Table",
@@ -3678,7 +3678,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Chalermpol (Layan Hills)",
     "channel": "Referral (Designer)",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Marble Dining Table",
       "DINING CHAIRS"
@@ -3694,7 +3694,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Yulia Belova",
     "channel": "Website",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Sectional Sofa",
       "Cushions",
@@ -3709,7 +3709,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Christian & Maria Meyer",
     "channel": "Walk in",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -3723,7 +3723,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Nalinee (Thalang Private Pool)",
     "channel": "Walk in",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -3737,7 +3737,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Boris Sokolov",
     "channel": "Walk in",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Bed",
       "Mattress",
@@ -3752,7 +3752,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Callum Smith",
     "channel": "Line OA",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Outdoor Furniture",
       "Sunbed"
@@ -3796,7 +3796,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. James Anderson",
     "channel": "Phone",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "Poufs",
       "Lounge Chair",
@@ -3811,7 +3811,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Anan (Cape Yamu Estate)",
     "channel": "Referral (Designer)",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "Pendant Lamps",
       "Chandelier"
@@ -3825,7 +3825,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Supaporn (Rawai Sea View)",
     "channel": "Website",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Barstools",
       "Bar Table"
@@ -3841,7 +3841,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Valery Morozov",
     "channel": "Walk in",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Balcony Set",
       "Outdoor Dining Table",
@@ -3856,7 +3856,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mrs. Olivia Taylor",
     "channel": "Walk in",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "Modular Sofas",
       "Ottoman"
@@ -3870,7 +3870,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Patchara (Ao Po Marina)",
     "channel": "Walk in",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "Recliner / Swivel Armchair",
       "Floor Lamp"
@@ -3915,7 +3915,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Irina Vasileva",
     "channel": "Instagram",
-    "salesperson": "June",
+    "salesperson": "Mar",
     "productInterests": [
       "L-Shape Sofas",
       "Lounge Chair"
@@ -3929,7 +3929,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Wannapa (Phuket Town)",
     "channel": "Phone",
-    "salesperson": "Fah",
+    "salesperson": "Bew",
     "productInterests": [
       "DINING CHAIRS",
       "Dining Tables"
@@ -3943,7 +3943,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. Marco Bellini",
     "channel": "Referral (Designer)",
-    "salesperson": "Golf",
+    "salesperson": "Nong",
     "productInterests": [
       "Bed",
       "Mattress",
@@ -3958,7 +3958,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Khun Chaiwat (Pasak Villa)",
     "channel": "Website",
-    "salesperson": "Ice",
+    "salesperson": "Fon",
     "productInterests": [
       "Outdoor Furniture",
       "Sunbed"
@@ -3972,7 +3972,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Svetlana Popova",
     "channel": "Walk in",
-    "salesperson": "May",
+    "salesperson": "Bee",
     "productInterests": [
       "3 Seater Sofas",
       "Coffee Tables"
@@ -3988,7 +3988,7 @@ export const PHUKET_EXTENDED_RECORDS: VisitorRecord[] = [
     "branch": "PHUKET",
     "customerName": "Mr. George Thompson",
     "channel": "Walk in",
-    "salesperson": "Lookked",
+    "salesperson": "Bew",
     "productInterests": [
       "TV Stands",
       "Sideboards"
