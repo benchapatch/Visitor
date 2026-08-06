@@ -1,0 +1,7 @@
+{
+  "name": "Visitor Log - Weekly Report",
+  "description": "Weekly visitor log and sales analytics dashboard by branch with Google Sheets sync, custom date ranges, and exportable Monday report slides in English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
