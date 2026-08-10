@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import { 
   Building2, 
   Calendar, 
@@ -13,7 +13,12 @@ import {
   CheckCircle2, 
   AlertCircle 
 } from 'lucide-react';
-import { ViewMode } from '../types';
+import { ViewMode, VisitorRecord } from '../types';
+import { 
+  getDynamicWeeklyRanges, 
+  getAvailableMonthsFromRecords, 
+  formatShortDateRange 
+} from '../utils/dateUtils';
 
 interface HeaderProps {
   branches: string[];
@@ -29,6 +34,7 @@ interface HeaderProps {
   lastSyncTime: string | null;
   isSyncing: boolean;
   totalRecordsCount: number;
+  records?: VisitorRecord[];
 }
 
 export const Header: React.FC<HeaderProps> = ({
@@ -44,8 +50,37 @@ export const Header: React.FC<HeaderProps> = ({
   onOpenSyncModal,
   lastSyncTime,
   isSyncing,
-  totalRecordsCount
+  totalRecordsCount,
+  records
 }) => {
+  // Dynamically compute Current Week and Last Week from dataset & calendar
+  const { currentWeek, lastWeek } = useMemo(() => {
+    return getDynamicWeeklyRanges(records);
+  }, [records]);
+
+  // Dynamically compute monthly summaries from records
+  const availableMonths = useMemo(() => {
+    return getAvailableMonthsFromRecords(records);
+  }, [records]);
+
+  // Calculate overall range of all recorded data
+  const allRecordedDatesRange = useMemo(() => {
+    if (!records || records.length === 0) {
+      return { startDate: '2026-05-01', endDate: '2026-08-31' };
+    }
+    let minD = '9999-99-99';
+    let maxD = '0000-00-00';
+    for (const r of records) {
+      if (r.date) {
+        if (r.date < minD) minD = r.date;
+        if (r.date > maxD) maxD = r.date;
+      }
+    }
+    return {
+      startDate: minD !== '9999-99-99' ? minD : '2026-05-01',
+      endDate: maxD !== '0000-00-00' ? maxD : '2026-08-31'
+    };
+  }, [records]);
   return (
     <header className="bg-white border-b border-slate-200 sticky top-0 z-30 shadow-2xs print:hidden">
       {/* Top Bar: Brand & Main Actions */}
@@ -171,122 +206,48 @@ export const Header: React.FC<HeaderProps> = ({
                 <select
                   id="period-month-select"
                   value={(() => {
-                    if (startDate === '2026-05-01' && endDate === '2026-05-31') return 'month-may';
-                    if (startDate === '2026-06-01' && endDate === '2026-06-30') return 'month-jun';
-                    if (startDate === '2026-07-01' && endDate === '2026-07-31') return 'month-jul';
-                    if (startDate === '2026-08-01' && endDate === '2026-08-31') return 'month-aug';
-                    if (startDate === '2026-05-01' && endDate === '2026-08-31') return 'all-months';
-                    if (startDate === '2026-07-27' && endDate === '2026-08-01') return 'report-week';
-                    if (startDate === '2026-08-03' && endDate === '2026-08-08') return 'current-week';
-                    if (startDate === '2026-05-04' && endDate === '2026-05-09') return 'w-may-w1';
-                    if (startDate === '2026-05-11' && endDate === '2026-05-16') return 'w-may-w2';
-                    if (startDate === '2026-05-18' && endDate === '2026-05-23') return 'w-may-w3';
-                    if (startDate === '2026-05-25' && endDate === '2026-05-30') return 'w-may-w4';
-                    if (startDate === '2026-06-01' && endDate === '2026-06-06') return 'w-jun-w1';
-                    if (startDate === '2026-06-08' && endDate === '2026-06-13') return 'w-jun-w2';
-                    if (startDate === '2026-06-15' && endDate === '2026-06-20') return 'w-jun-w3';
-                    if (startDate === '2026-06-22' && endDate === '2026-06-27') return 'w-jun-w4';
-                    if (startDate === '2026-06-29' && endDate === '2026-07-04') return 'w-jul-w1';
-                    if (startDate === '2026-07-06' && endDate === '2026-07-11') return 'w-jul-w2';
-                    if (startDate === '2026-07-13' && endDate === '2026-07-18') return 'w-jul-w3';
-                    if (startDate === '2026-07-20' && endDate === '2026-07-25') return 'w-jul-w4';
+                    if (startDate === currentWeek.startDate && endDate === currentWeek.endDate) return 'current-week';
+                    if (startDate === lastWeek.startDate && endDate === lastWeek.endDate) return 'last-week';
+                    for (const m of availableMonths) {
+                      if (startDate === m.startDate && endDate === m.endDate) return m.key;
+                    }
+                    if (startDate === allRecordedDatesRange.startDate && endDate === allRecordedDatesRange.endDate) return 'all-months';
                     return 'custom';
                   })()}
                   onChange={(e) => {
                     const val = e.target.value;
-                    switch (val) {
-                      case 'report-week':
-                        onDateChange('2026-07-27', '2026-08-01');
-                        break;
-                      case 'current-week':
-                        onDateChange('2026-08-03', '2026-08-08');
-                        break;
-                      case 'month-may':
-                        onDateChange('2026-05-01', '2026-05-31');
-                        break;
-                      case 'month-jun':
-                        onDateChange('2026-06-01', '2026-06-30');
-                        break;
-                      case 'month-jul':
-                        onDateChange('2026-07-01', '2026-07-31');
-                        break;
-                      case 'month-aug':
-                        onDateChange('2026-08-01', '2026-08-31');
-                        break;
-                      case 'all-months':
-                        onDateChange('2026-05-01', '2026-08-31');
-                        break;
-                      case 'w-may-w1':
-                        onDateChange('2026-05-04', '2026-05-09');
-                        break;
-                      case 'w-may-w2':
-                        onDateChange('2026-05-11', '2026-05-16');
-                        break;
-                      case 'w-may-w3':
-                        onDateChange('2026-05-18', '2026-05-23');
-                        break;
-                      case 'w-may-w4':
-                        onDateChange('2026-05-25', '2026-05-30');
-                        break;
-                      case 'w-jun-w1':
-                        onDateChange('2026-06-01', '2026-06-06');
-                        break;
-                      case 'w-jun-w2':
-                        onDateChange('2026-06-08', '2026-06-13');
-                        break;
-                      case 'w-jun-w3':
-                        onDateChange('2026-06-15', '2026-06-20');
-                        break;
-                      case 'w-jun-w4':
-                        onDateChange('2026-06-22', '2026-06-27');
-                        break;
-                      case 'w-jul-w1':
-                        onDateChange('2026-06-29', '2026-07-04');
-                        break;
-                      case 'w-jul-w2':
-                        onDateChange('2026-07-06', '2026-07-11');
-                        break;
-                      case 'w-jul-w3':
-                        onDateChange('2026-07-13', '2026-07-18');
-                        break;
-                      case 'w-jul-w4':
-                        onDateChange('2026-07-20', '2026-07-25');
-                        break;
-                      default:
-                        break;
+                    if (val === 'current-week') {
+                      onDateChange(currentWeek.startDate, currentWeek.endDate);
+                    } else if (val === 'last-week') {
+                      onDateChange(lastWeek.startDate, lastWeek.endDate);
+                    } else if (val === 'all-months') {
+                      onDateChange(allRecordedDatesRange.startDate, allRecordedDatesRange.endDate);
+                    } else if (val.startsWith('month-')) {
+                      const found = availableMonths.find(m => m.key === val);
+                      if (found) {
+                        onDateChange(found.startDate, found.endDate);
+                      }
                     }
                   }}
                   className="bg-white text-slate-800 text-xs font-bold pl-3 pr-8 py-1.5 rounded-lg border border-slate-300 shadow-2xs hover:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/20 cursor-pointer"
                 >
-                  <optgroup label="📅 Monthly Summaries (เลือกรายเดือน)">
-                    <option value="month-may">May 2026 (01 - 31 May)</option>
-                    <option value="month-jun">June 2026 (01 - 30 Jun)</option>
-                    <option value="month-jul">July 2026 (01 - 31 Jul)</option>
-                    <option value="month-aug">August 2026 (01 - 31 Aug)</option>
-                    <option value="all-months">All Months (01 May - 31 Aug 2026)</option>
+                  <optgroup label="Weekly Reports">
+                    <option value="current-week">{currentWeek.label}</option>
+                    <option value="last-week">{lastWeek.label}</option>
                   </optgroup>
 
-                  <optgroup label="📊 Executive Weekly Reports">
-                    <option value="report-week">⭐ Report Week (27 Jul - 01 Aug 2026)</option>
-                    <option value="current-week">Current Week (03 Aug - 08 Aug 2026)</option>
+                  <optgroup label="Monthly Summaries">
+                    {availableMonths.map((m) => (
+                      <option key={m.key} value={m.key}>
+                        {m.display}
+                      </option>
+                    ))}
+                    <option value="all-months">
+                      All Recorded Data ({formatShortDateRange(allRecordedDatesRange.startDate, allRecordedDatesRange.endDate)})
+                    </option>
                   </optgroup>
 
-                  <optgroup label="🗓️ Weekly Breakdown (May - Aug)">
-                    <option value="w-may-w1">May Week 1 (04 - 09 May 2026)</option>
-                    <option value="w-may-w2">May Week 2 (11 - 16 May 2026)</option>
-                    <option value="w-may-w3">May Week 3 (18 - 23 May 2026)</option>
-                    <option value="w-may-w4">May Week 4 (25 - 30 May 2026)</option>
-                    <option value="w-jun-w1">June Week 1 (01 - 06 Jun 2026)</option>
-                    <option value="w-jun-w2">June Week 2 (08 - 13 Jun 2026)</option>
-                    <option value="w-jun-w3">June Week 3 (15 - 20 Jun 2026)</option>
-                    <option value="w-jun-w4">June Week 4 (22 - 27 Jun 2026)</option>
-                    <option value="w-jul-w1">July Week 1 (29 Jun - 04 Jul 2026)</option>
-                    <option value="w-jul-w2">July Week 2 (06 - 11 Jul 2026)</option>
-                    <option value="w-jul-w3">July Week 3 (13 - 18 Jul 2026)</option>
-                    <option value="w-jul-w4">July Week 4 (20 - 25 Jul 2026)</option>
-                  </optgroup>
-
-                  <optgroup label="⚙️ Custom Selection">
+                  <optgroup label="Custom Selection">
                     <option value="custom">Custom Date Range...</option>
                   </optgroup>
                 </select>

@@ -32,8 +32,8 @@ export const CHART_THEME_COLORS = {
     label: 'Visitor by Channel'
   },
   productInterest: {
-    dark: '#003300',
-    light: '#00FFFF',
+    dark: '#064e3b', // Rich Deep Forest Emerald for highest value (ค่ามาก สีเข้ม)
+    light: '#bbf7d0', // Crisp Soft Mint for lowest value (ค่าน้อย สีอ่อน)
     label: 'Top Product Categories of Interest'
   }
 };
@@ -234,18 +234,25 @@ export function calculateWeeklyReport(
   const productEntries = Array.from(productCountMap.entries())
     .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
 
-  const productPalette = generateGradientPalette(
+  // Scale the top 10 items distinctly from darkest (highest mentions) to lightest (lowest mentions)
+  const topCount = Math.min(Math.max(productEntries.length, 1), 10);
+  const topProductPalette = generateGradientPalette(
     CHART_THEME_COLORS.productInterest.dark,
     CHART_THEME_COLORS.productInterest.light,
-    productEntries.length
+    topCount
   );
 
-  const topProducts: ProductInterestStat[] = productEntries.map(([category, mentions], idx) => ({
-    rank: idx + 1,
-    category,
-    mentions,
-    color: productPalette[idx] || CHART_THEME_COLORS.productInterest.dark
-  }));
+  const topProducts: ProductInterestStat[] = productEntries.map(([category, mentions], idx) => {
+    const color = idx < topCount 
+      ? (topProductPalette[idx] || CHART_THEME_COLORS.productInterest.dark)
+      : CHART_THEME_COLORS.productInterest.light;
+    return {
+      rank: idx + 1,
+      category,
+      mentions,
+      color
+    };
+  });
 
   // 6. Closed Orders & Financials
   const closedRecords = filtered.filter(r => r.orderClosed);

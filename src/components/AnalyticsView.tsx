@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { 
   ResponsiveContainer, 
   BarChart, 
@@ -24,16 +24,27 @@ import {
   ShoppingBag, 
   DollarSign, 
   Layers, 
-  CheckCircle2 
+  CheckCircle2,
+  FileDown,
+  Loader2,
+  Check,
+  Printer
 } from 'lucide-react';
+import { exportElementToPDF, printElement } from '../utils/pdfExport';
 
 interface AnalyticsViewProps {
   reportData: WeeklyReportData;
 }
 
 export const AnalyticsView: React.FC<AnalyticsViewProps> = ({ reportData }) => {
+  const [isExportingPdf, setIsExportingPdf] = useState(false);
+  const [exportSuccess, setExportSuccess] = useState(false);
+  const [isPrinting, setIsPrinting] = useState(false);
+
   const {
     branch,
+    startDate,
+    endDate,
     formattedDateRange,
     totalVisitors,
     channelBreakdown,
@@ -48,8 +59,111 @@ export const AnalyticsView: React.FC<AnalyticsViewProps> = ({ reportData }) => {
   const topSalesperson = [...salespersonBreakdown].sort((a, b) => b.count - a.count)[0];
   const topProduct = topProducts[0];
 
+  const handleDownloadPDF = async () => {
+    if (isExportingPdf) return;
+    setIsExportingPdf(true);
+    setExportSuccess(false);
+
+    try {
+      const cleanBranch = branch.replace(/\s+/g, '_');
+      const start = startDate || 'start';
+      const end = endDate || 'end';
+      const filename = `Visitor_Analytics_${cleanBranch}_${start}_to_${end}.pdf`;
+
+      const success = await exportElementToPDF('analytics-dashboard-canvas', {
+        filename,
+        orientation: 'portrait',
+        marginMm: 6,
+        scale: 2
+      });
+
+      if (success) {
+        setExportSuccess(true);
+        setTimeout(() => setExportSuccess(false), 3000);
+      }
+    } catch (error) {
+      console.error('Failed to export analytics PDF:', error);
+    } finally {
+      setIsExportingPdf(false);
+    }
+  };
+
+  const handlePrintAnalytics = async () => {
+    if (isPrinting) return;
+    setIsPrinting(true);
+    try {
+      await printElement('analytics-dashboard-canvas', {
+        orientation: 'portrait',
+        title: `Visitor Analytics – ${branch} (${formattedDateRange})`
+      });
+    } catch (err) {
+      console.error('Print failed:', err);
+    } finally {
+      setIsPrinting(false);
+    }
+  };
+
   return (
-    <div className="space-y-6">
+    <div className="space-y-4">
+      {/* Action Bar */}
+      <div className="flex flex-wrap items-center justify-between gap-3 bg-white p-3.5 rounded-xl border border-slate-200 shadow-sm print:hidden">
+        <div className="flex items-center gap-2 text-sm text-slate-600 font-medium">
+          <span className="inline-flex items-center justify-center w-2.5 h-2.5 rounded-full bg-indigo-500"></span>
+          <span>Analytics Dashboard & KPIs ({branch}) – {formattedDateRange}</span>
+        </div>
+
+        <div className="flex items-center gap-2">
+          <button
+            id="btn-download-analytics-pdf"
+            onClick={handleDownloadPDF}
+            disabled={isExportingPdf}
+            className={`inline-flex items-center gap-1.5 px-3.5 py-1.5 text-xs font-semibold rounded-lg shadow-sm transition-all cursor-pointer ${
+              exportSuccess
+                ? 'bg-emerald-600 text-white hover:bg-emerald-700'
+                : 'bg-indigo-600 text-white hover:bg-indigo-700 disabled:opacity-75'
+            }`}
+          >
+            {isExportingPdf ? (
+              <>
+                <Loader2 className="w-3.5 h-3.5 animate-spin" />
+                <span>Generating Analytics PDF...</span>
+              </>
+            ) : exportSuccess ? (
+              <>
+                <Check className="w-3.5 h-3.5" />
+                <span>PDF Downloaded!</span>
+              </>
+            ) : (
+              <>
+                <FileDown className="w-3.5 h-3.5" />
+                <span>Download Analytics PDF</span>
+              </>
+            )}
+          </button>
+
+          <button
+            id="btn-print-analytics"
+            onClick={handlePrintAnalytics}
+            disabled={isPrinting}
+            className="inline-flex items-center gap-1.5 px-3.5 py-1.5 text-xs font-semibold text-slate-700 bg-white hover:bg-slate-50 border border-slate-200 rounded-lg shadow-2xs transition-colors cursor-pointer disabled:opacity-75"
+          >
+            {isPrinting ? (
+              <>
+                <Loader2 className="w-3.5 h-3.5 animate-spin text-slate-500" />
+                <span>Preparing Print...</span>
+              </>
+            ) : (
+              <>
+                <Printer className="w-3.5 h-3.5 text-slate-500" />
+                <span>Print View</span>
+              </>
+            )}
+          </button>
+        </div>
+      </div>
+
+      {/* Main Dashboard Canvas Container */}
+      <div id="analytics-dashboard-canvas" className="space-y-6 bg-slate-50/30 p-2 sm:p-4 rounded-2xl print:p-0">
       {/* KPI Cards */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
         {/* Total Visitors */}
@@ -244,50 +358,118 @@ export const AnalyticsView: React.FC<AnalyticsViewProps> = ({ reportData }) => {
         </div>
       </div>
 
-      {/* Salesperson Performance Leaderboard */}
-      <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-xs">
-        <h3 className="font-bold text-slate-900 mb-4">Sales Team Engagement & Conversion</h3>
-        <div className="overflow-x-auto">
-          <table className="w-full text-left text-sm">
-            <thead>
-              <tr className="border-b border-slate-200 text-xs font-bold text-slate-400 uppercase tracking-wider">
-                <th className="pb-3">Salesperson</th>
-                <th className="pb-3">Visitors Handled</th>
-                <th className="pb-3">Orders Closed</th>
-                <th className="pb-3">Conversion Rate</th>
-                <th className="pb-3 text-right">Performance Bar</th>
-              </tr>
-            </thead>
-            <tbody className="divide-y divide-slate-100">
-              {salespersonBreakdown.map((sp) => (
-                <tr key={sp.salesperson} className="hover:bg-slate-50/70 transition-colors">
-                  <td className="py-3 font-semibold text-slate-900 flex items-center gap-2">
-                    <span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: sp.color }}></span>
-                    {sp.salesperson}
-                  </td>
-                  <td className="py-3 font-medium text-slate-700">{sp.count} visitors</td>
-                  <td className="py-3 font-semibold text-emerald-600">{sp.closedCount} closed</td>
-                  <td className="py-3">
-                    <span className="px-2 py-0.5 text-xs font-bold bg-slate-100 text-slate-800 rounded-md">
-                      {sp.conversionRate}%
-                    </span>
-                  </td>
-                  <td className="py-3 text-right">
-                    <div className="w-32 ml-auto bg-slate-100 rounded-full h-2 overflow-hidden">
-                      <div 
-                        className="h-full rounded-full" 
-                        style={{ 
-                          width: `${totalVisitors > 0 ? (sp.count / totalVisitors) * 100 : 0}%`,
-                          backgroundColor: sp.color 
-                        }}
-                      />
-                    </div>
-                  </td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
+      {/* Product Categories & Sales Team Performance Grid */}
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+        {/* Top Product Categories of Interest */}
+        <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-xs">
+          <div className="flex items-center justify-between mb-4">
+            <div>
+              <h3 className="font-bold text-slate-900">Top Product Categories of Interest</h3>
+              <p className="text-xs text-slate-500">Mentions breakdown (Dark = High, Light = Low)</p>
+            </div>
+            <span className="text-xs font-semibold px-2.5 py-1 bg-emerald-50 text-emerald-700 rounded-lg">
+              Category Rankings
+            </span>
+          </div>
+
+          <div className="h-[320px] w-full">
+            {topProducts.length > 0 ? (
+              <ResponsiveContainer width="100%" height="100%">
+                <BarChart
+                  layout="vertical"
+                  data={[...topProducts.slice(0, 10)].reverse()}
+                  margin={{ top: 5, right: 30, left: 10, bottom: 5 }}
+                >
+                  <CartesianGrid strokeDasharray="3 3" horizontal={false} stroke="#f1f5f9" />
+                  <XAxis type="number" tick={{ fontSize: 11, fill: '#64748b' }} />
+                  <YAxis 
+                    type="category" 
+                    dataKey="category" 
+                    width={110} 
+                    tick={{ fontSize: 10.5, fill: '#1e293b', fontWeight: 600 }} 
+                  />
+                  <Tooltip 
+                    formatter={(val: any) => [`${val} mentions`, 'Product Interest']}
+                    contentStyle={{ backgroundColor: '#0f172a', color: '#fff', borderRadius: '8px', border: 'none' }}
+                  />
+                  <Bar dataKey="mentions" radius={[0, 4, 4, 0]} barSize={13}>
+                    {[...topProducts.slice(0, 10)].reverse().map((entry, index) => (
+                      <Cell key={`cell-prod-analytics-${index}`} fill={entry.color} />
+                    ))}
+                    <LabelList 
+                      dataKey="mentions" 
+                      position="right" 
+                      fill="#1e293b" 
+                      fontSize={10.5} 
+                      fontWeight={700} 
+                      offset={6}
+                      formatter={(val: any) => (Number(val) > 0 ? val : '')}
+                    />
+                  </Bar>
+                </BarChart>
+              </ResponsiveContainer>
+            ) : (
+              <div className="h-full flex items-center justify-center text-xs text-slate-400">
+                No product interest recorded
+              </div>
+            )}
+          </div>
         </div>
+
+        {/* Salesperson Performance Leaderboard */}
+        <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-xs">
+          <div className="flex items-center justify-between mb-4">
+            <div>
+              <h3 className="font-bold text-slate-900">Sales Team Engagement & Conversion</h3>
+              <p className="text-xs text-slate-500">Staff visitor handling & closed orders</p>
+            </div>
+            <span className="text-xs font-semibold px-2.5 py-1 bg-slate-100 text-slate-700 rounded-lg">
+              Sales Reps
+            </span>
+          </div>
+          <div className="overflow-x-auto">
+            <table className="w-full text-left text-sm">
+              <thead>
+                <tr className="border-b border-slate-200 text-xs font-bold text-slate-400 uppercase tracking-wider">
+                  <th className="pb-3">Salesperson</th>
+                  <th className="pb-3">Visitors</th>
+                  <th className="pb-3">Closed</th>
+                  <th className="pb-3">Conv.</th>
+                  <th className="pb-3 text-right">Performance</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-slate-100">
+                {salespersonBreakdown.map((sp) => (
+                  <tr key={sp.salesperson} className="hover:bg-slate-50/70 transition-colors">
+                    <td className="py-2.5 font-semibold text-slate-900 flex items-center gap-2">
+                      <span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: sp.color }}></span>
+                      {sp.salesperson}
+                    </td>
+                    <td className="py-2.5 font-medium text-slate-700">{sp.count}</td>
+                    <td className="py-2.5 font-semibold text-emerald-600">{sp.closedCount}</td>
+                    <td className="py-2.5">
+                      <span className="px-2 py-0.5 text-xs font-bold bg-slate-100 text-slate-800 rounded-md">
+                        {sp.conversionRate}%
+                      </span>
+                    </td>
+                    <td className="py-2.5 text-right">
+                      <div className="w-24 ml-auto bg-slate-100 rounded-full h-2 overflow-hidden">
+                        <div 
+                          className="h-full rounded-full" 
+                          style={{ 
+                            width: `${totalVisitors > 0 ? (sp.count / totalVisitors) * 100 : 0}%`,
+                            backgroundColor: sp.color 
+                          }}
+                        />
+                      </div>
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
       </div>
     </div>
   );

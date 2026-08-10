@@ -8,7 +8,7 @@ import { AddRecordModal } from './components/AddRecordModal';
 import { INITIAL_VISITOR_RECORDS } from './data/seedData';
 import { VisitorRecord, ViewMode } from './types';
 import { calculateWeeklyReport } from './utils/reportCalculator';
-import { shiftWeek } from './utils/dateUtils';
+import { shiftWeek, getDynamicWeeklyRanges } from './utils/dateUtils';
 import { parseSheetDataToRecords } from './utils/sheetParser';
 
 const STORAGE_KEY = 'lounge_lovers_visitor_records_v8';
@@ -70,9 +70,15 @@ export default function App() {
     return [...Array.from(branchSet), 'ALL'];
   }, [records]);
 
-  // 3. Weekly Date Range State (Default to the 27 July - 01 August 2026 period in the report screenshot)
-  const [startDate, setStartDate] = useState<string>('2026-07-27');
-  const [endDate, setEndDate] = useState<string>('2026-08-01');
+  // 3. Weekly Date Range State (Dynamically initialized to active week)
+  const [startDate, setStartDate] = useState<string>(() => {
+    const weekly = getDynamicWeeklyRanges(INITIAL_VISITOR_RECORDS);
+    return weekly.lastWeek.startDate;
+  });
+  const [endDate, setEndDate] = useState<string>(() => {
+    const weekly = getDynamicWeeklyRanges(INITIAL_VISITOR_RECORDS);
+    return weekly.lastWeek.endDate;
+  });
 
   // 4. View Mode State
   const [viewMode, setViewMode] = useState<ViewMode>('report-slide');
@@ -184,8 +190,9 @@ export default function App() {
 
   const handleResetToSeed = () => {
     setRecords(INITIAL_VISITOR_RECORDS);
-    setStartDate('2026-07-27');
-    setEndDate('2026-08-01');
+    const weekly = getDynamicWeeklyRanges(INITIAL_VISITOR_RECORDS);
+    setStartDate(weekly.lastWeek.startDate);
+    setEndDate(weekly.lastWeek.endDate);
     setSelectedBranch('RM9');
     localStorage.setItem(STORAGE_KEY, JSON.stringify(INITIAL_VISITOR_RECORDS));
   };
@@ -210,15 +217,13 @@ export default function App() {
         lastSyncTime={lastSyncTime}
         isSyncing={isSyncing}
         totalRecordsCount={records.length}
+        records={records}
       />
 
       {/* Main Content Area */}
       <main className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-6">
         {viewMode === 'report-slide' && (
-          <ReportSlideView 
-            reportData={reportData} 
-            onPrint={() => window.print()}
-          />
+          <ReportSlideView reportData={reportData} />
         )}
 
         {viewMode === 'analytics' && (
