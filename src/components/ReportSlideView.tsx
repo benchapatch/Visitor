@@ -543,6 +543,28 @@ export const ReportSlideView: React.FC<ReportSlideViewProps> = ({ reportData, on
                     </span>
                   )}
                 </div>
+                {reportData.filteredRecords.filter(r => r.orderClosed).length > 0 && (
+                  <div className="pl-3 space-y-0.5 pt-0.5 text-xs text-slate-600">
+                    {reportData.filteredRecords
+                      .filter(r => r.orderClosed)
+                      .slice(0, 5)
+                      .map((rec) => (
+                        <div key={rec.id} className="flex items-center justify-between">
+                          <span className="truncate">
+                            <strong className="text-slate-900 font-semibold">{rec.closedDetails || 'Order'}:</strong> {rec.customerName || 'Customer'}
+                          </span>
+                          <span className="text-[11px] text-slate-500 font-medium shrink-0 ml-2">
+                            ({rec.salesperson})
+                          </span>
+                        </div>
+                      ))}
+                    {reportData.filteredRecords.filter(r => r.orderClosed).length > 5 && (
+                      <div className="text-[11px] text-slate-400">
+                        + {reportData.filteredRecords.filter(r => r.orderClosed).length - 5} more orders
+                      </div>
+                    )}
+                  </div>
+                )}
                 {totalClosedAmount > 0 && (
                   <p className="text-xs text-slate-600 pl-3">
                     Total Volume: <strong className="text-slate-900">฿{totalClosedAmount.toLocaleString()}</strong>
