@@ -675,7 +675,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "28e9a561",
     "date": "2026-05-29",
     "branch": "PHUKET",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Smile",
     "productInterests": [
       "chandelier",
@@ -721,7 +721,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "5e7e080f",
     "date": "2026-05-29",
     "branch": "PHUKET",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Smile",
     "productInterests": [
       "Benches",
@@ -738,7 +738,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "96a3560b",
     "date": "2026-05-29",
     "branch": "PHUKET",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Smile",
     "productInterests": [
       "Dining Tables",
@@ -1364,7 +1364,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "bb2bd4d8",
     "date": "2026-06-04",
     "branch": "PHUKET",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Bew",
     "productInterests": [
       "Dining Tables",
@@ -1473,7 +1473,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "d99bf21c",
     "date": "2026-06-05",
     "branch": "PHUKET",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Smile",
     "productInterests": [
       "Wall Arts",
@@ -9200,6 +9200,627 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "notes": "สนใจ เก้าอี้ทานอาหาร [BZ] Mirth Dining Chair Olive (Walnut Leg) และ โต๊ะทานอาหาร [SW] Alvin D100 Dining Table Natural (Light Brown Leg)"
   },
   {
+    "id": "f10b64e8",
+    "date": "2026-08-07",
+    "branch": "PHUKET",
+    "channel": "Appointment",
+    "salesperson": "Nong / Mar",
+    "productInterests": [
+      "Bar Chair",
+      "Bar Table",
+      "Beanbag",
+      "Bed",
+      "Benches",
+      "Cabinets",
+      "Cafe Tables",
+      "Ceiling Lamps",
+      "chandelier",
+      "Coffee Tables",
+      "Console Tables",
+      "Curtains",
+      "Cushions",
+      "DayBeds",
+      "Decor Accessories",
+      "Decor Books",
+      "DINING CHAIRS",
+      "Dining Tables",
+      "Dresser",
+      "Floor Lamps",
+      "I-Shape Sofas",
+      "L-Shape Sofas",
+      "Lounge Chair",
+      "Love Seat Sofas",
+      "Mirrors",
+      "Night Tables",
+      "Office",
+      "Ottomans",
+      "Outdoor Lighting",
+      "Outdoor Seats",
+      "Outdoor Tables",
+      "Outlet",
+      "parts",
+      "Pendant Lamps",
+      "Plants",
+      "Poufs",
+      "Rugs",
+      "Sectional Sofas",
+      "service",
+      "Shelf",
+      "Shoes Cabinet",
+      "Side Tables",
+      "Sideboards",
+      "Single Seat Sofas",
+      "Stools",
+      "Table Lamps",
+      "Tableware",
+      "Throws",
+      "Towel",
+      "TV Stands",
+      "U-Shape Sofas",
+      "Vases",
+      "Wall Arts",
+      "Wall Lamps",
+      "Working Chairs",
+      "Working Desks"
+    ],
+    "orderClosed": false,
+    "customerName": "Dalit - KA Villa",
+    "notes": "เข้ามาดูสินค้าที่นำเสนอ และเลือกสินค้าสำหรับทำ villa 8 หลัง"
+  },
+  {
+    "id": "7dab4712",
+    "date": "2026-08-10",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bew",
+    "productInterests": [
+      "Decor Accessories"
+    ],
+    "orderClosed": true,
+    "closedDetails": "#LL24765",
+    "customerName": "Anna",
+    "notes": "ซื้อของตกแต่ง"
+  },
+  {
+    "id": "345b0240",
+    "date": "2026-08-10",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Cabinets",
+      "Floor Lamps",
+      "Pendant Lamps",
+      "Wall Lamps",
+      "Working Desks"
+    ],
+    "orderClosed": false,
+    "customerName": "Khun Lek",
+    "notes": "รีโนเวทโครงการวัลญา วิลล่า (Wallaya Villas) ป่าสัก-เชิงทะเล\nใบเสนอราคา #D35219"
+  },
+  {
+    "id": "1ebabca1",
+    "date": "2026-08-10",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Dining Tables"
+    ],
+    "orderClosed": false,
+    "customerName": "คุณน้ำเพชร",
+    "notes": "ลูกค้ามองหาโต๊ะรับประทานอาหารขนาด 180-200 cm"
+  },
+  {
+    "id": "f304a9f1",
+    "date": "2026-08-10",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bew",
+    "productInterests": [
+      "Bed",
+      "I-Shape Sofas",
+      "L-Shape Sofas"
+    ],
+    "orderClosed": false,
+    "customerName": "ลูกค้าไทย 2 ราย",
+    "notes": "ต้องการโซฟาหนัง และเตียงไม้"
+  },
+  {
+    "id": "871d91aa",
+    "date": "2026-08-10",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "I-Shape Sofas"
+    ],
+    "orderClosed": false,
+    "customerName": "Denis & Melina",
+    "notes": "ลูกค้าเข้ามาดูโซฟาเพิ่ม ขนาดเล็ก 180-200 cm"
+  },
+  {
+    "id": "9d99f95e",
+    "date": "2026-08-11",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Wall Arts"
+    ],
+    "orderClosed": true,
+    "closedDetails": "#LL24782",
+    "customerName": "Maksim Khrapak",
+    "notes": "รับสินค้ากลับเองเรียบร้อย"
+  },
+  {
+    "id": "975517ff",
+    "date": "2026-08-11",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Decor Accessories",
+      "Outdoor Lighting"
+    ],
+    "orderClosed": false,
+    "customerName": "ลูกค้าต่างชาติหญิง 1 ราย",
+    "notes": "ต้องการให้จัดส่งสินค้าไปต่างประเทศ"
+  },
+  {
+    "id": "e8af01c4",
+    "date": "2026-08-11",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Sectional Sofas",
+      "DINING CHAIRS",
+      "Dining Tables"
+    ],
+    "orderClosed": false,
+    "customerName": "Khun Kobbaow",
+    "notes": "บ้านกำลังสร้าง สนใจโต๊ะทานอาหาร Gemma 180 Dining Table  และโซฟา Encanto  /D35237"
+  },
+  {
+    "id": "bb3edd8a",
+    "date": "2026-08-11",
+    "branch": "PHUKET",
+    "channel": "Designer",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Rugs",
+      "Night Tables"
+    ],
+    "orderClosed": true,
+    "closedDetails": "#LL24790",
+    "customerName": "Khun Nina (ลูกค้าบิว)",
+    "notes": "มาดูพร พรม [RR] Estoria Natural 160x230 Charcoal(Natural & Charcoal) (Rugs) เพื่อนำไปวางกับโซฟาที่ซื้อไว้ก่อนหน้านี้\nและ Night Table"
+  },
+  {
+    "id": "11fde175",
+    "date": "2026-08-11",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Nong / Bee",
+    "productInterests": [
+      "Dining Tables",
+      "Coffee Tables"
+    ],
+    "orderClosed": true,
+    "closedDetails": "LL24789",
+    "customerName": "คุณวาย",
+    "notes": "D35251"
+  },
+  {
+    "id": "4619d291",
+    "date": "2026-08-11",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Bed",
+      "Outdoor Seats",
+      "Outdoor Tables"
+    ],
+    "orderClosed": false,
+    "customerName": "ลูกค้าชาวไทย 2 คน",
+    "notes": "เดินดูสินค้ารวมๆเป็นไอเดีย"
+  },
+  {
+    "id": "1822380e",
+    "date": "2026-08-11",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Dining Tables"
+    ],
+    "orderClosed": false,
+    "customerName": "คนไทย 2 ราย",
+    "notes": "ลูกค้าจะกลับไปวัดขนาดและจะดูสินค้าเพิ่มเติมเองในเว็บไซต์ค่ะ"
+  },
+  {
+    "id": "5c03ad88",
+    "date": "2026-08-11",
+    "branch": "PHUKET",
+    "channel": "Appointment",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Dining Tables"
+    ],
+    "orderClosed": true,
+    "closedDetails": "LL24788",
+    "customerName": "Khun John Mortimer",
+    "notes": "ลูกค้าพี่บิวเข้ามาชำระเงินค่ะ"
+  },
+  {
+    "id": "2273898e",
+    "date": "2026-08-12",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "DINING CHAIRS",
+      "Console Tables"
+    ],
+    "orderClosed": false,
+    "customerName": "Vincent Duong",
+    "notes": "สนใจ โต๊ะทำงาน [OP] Mondo Vanity Desk (Grey Travertine Top) Warm Grey Leg และ เก้าอี้ทานอาหาร [OP] Pumba Swivel Dining Chair White\nเสนอราคา #D35267 รอดูภาพจริงและตัดสินใจ"
+  },
+  {
+    "id": "f0e3cf69",
+    "date": "2026-08-12",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Wall Lamps"
+    ],
+    "orderClosed": false,
+    "customerName": "คนไทย หญิง 1 ราย",
+    "notes": "สนใจโคมไฟ โคมไฟผนัง [NE] Jacira W2 Wall Lamp Matt Black ต้องการใใช้สินค้า 2 ชิ้น วันนี้ค่ะ"
+  },
+  {
+    "id": "ab617032",
+    "date": "2026-08-12",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bew",
+    "productInterests": [
+      "Bed",
+      "Benches",
+      "Dining Tables",
+      "Rugs"
+    ],
+    "orderClosed": false,
+    "customerName": "คุณRobert zero development",
+    "notes": "ดูเตียง ดูพรม สอบถามสต็อกสินคเา แจ้งว่าจะแจ้งกลับอีกครั้ง"
+  },
+  {
+    "id": "4f58393c",
+    "date": "2026-08-12",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bew",
+    "productInterests": [
+      "L-Shape Sofas"
+    ],
+    "orderClosed": false,
+    "customerName": "คุณIrina KZ Studio",
+    "notes": "พาลูกค้ามาดูคุณภาพสินคเา เดี๋ยวจะเลือกสินคเามาอีกครั้งค่ะ"
+  },
+  {
+    "id": "d78f5e8d",
+    "date": "2026-08-12",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bew",
+    "productInterests": [
+      "L-Shape Sofas",
+      "Bed",
+      "Dining Tables"
+    ],
+    "orderClosed": false,
+    "customerName": "ลูกค้าไทย 1 ราย",
+    "notes": "ดูสินค้ารวมๆ มาจากSK"
+  },
+  {
+    "id": "7d0f7cd6",
+    "date": "2026-08-12",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bew",
+    "productInterests": [
+      "Console Tables",
+      "Wall Arts",
+      "DINING CHAIRS"
+    ],
+    "orderClosed": false,
+    "customerName": "ลูกค้าต่างชาติ 1 ราย",
+    "notes": "ดูcocoon, Mirth dining chair, Wall art ต้องการใช้ของที่ภูเก็ต เดี๋ยวจะคอนเฟิร์มมา"
+  },
+  {
+    "id": "c1fdd3af",
+    "date": "2026-08-12",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Side Tables",
+      "Night Tables",
+      "DINING CHAIRS",
+      "Lounge Chair",
+      "Wall Arts",
+      "Floor Lamps"
+    ],
+    "orderClosed": false,
+    "customerName": "Khun Victoria",
+    "notes": "ดูสินค้าเข้าบ้านเพิ่มเติม / D35269"
+  },
+  {
+    "id": "7f35c597",
+    "date": "2026-08-12",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Bar Chair",
+      "Bar Table",
+      "Beanbag",
+      "Bed",
+      "Benches",
+      "Cabinets",
+      "Cafe Tables",
+      "Ceiling Lamps",
+      "chandelier",
+      "Coffee Tables",
+      "Console Tables",
+      "Curtains",
+      "Cushions",
+      "DayBeds",
+      "Decor Accessories",
+      "Decor Books",
+      "DINING CHAIRS",
+      "Dining Tables",
+      "Dresser",
+      "Floor Lamps",
+      "I-Shape Sofas",
+      "L-Shape Sofas",
+      "Lounge Chair",
+      "Love Seat Sofas",
+      "Mirrors",
+      "Night Tables",
+      "Office",
+      "Ottomans",
+      "Outdoor Lighting",
+      "Outdoor Seats",
+      "Outdoor Tables",
+      "Outlet",
+      "parts",
+      "Pendant Lamps",
+      "Plants",
+      "Poufs",
+      "Rugs",
+      "Sectional Sofas",
+      "service",
+      "Shelf",
+      "Shoes Cabinet",
+      "Side Tables",
+      "Sideboards",
+      "Single Seat Sofas",
+      "Stools",
+      "Table Lamps",
+      "Tableware",
+      "Throws",
+      "Towel",
+      "TV Stands",
+      "U-Shape Sofas",
+      "Vases",
+      "Wall Arts",
+      "Wall Lamps",
+      "Working Chairs",
+      "Working Desks"
+    ],
+    "orderClosed": false,
+    "customerName": "ต่างชาติหญิง 1 ราย",
+    "notes": "ดูสินค้ารวมๆไม่ได้สอบถามสินค้าชิ้นไหนเป็นพิเศษ"
+  },
+  {
+    "id": "4e390bbc",
+    "date": "2026-08-12",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Bar Chair",
+      "Rugs",
+      "Decor Accessories"
+    ],
+    "orderClosed": true,
+    "closedDetails": "#LL24795, #LL24796",
+    "customerName": "คุณกานดา เกียร์ริงเกอ",
+    "notes": "ลูกค้าสนใจเก้าอี้บาร์"
+  },
+  {
+    "id": "178b3a24",
+    "date": "2026-08-13",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "DINING CHAIRS"
+    ],
+    "orderClosed": false,
+    "customerName": "คุณยุ้ย",
+    "notes": "สนใจเก้าอี้ทานอาหาร [BZ] Mirth Dining Chair Green (Egg Shell Leg) = 4 pcs รอตัดสินใจเรื่องสี\n//ใบเสนอราคา #D35276"
+  },
+  {
+    "id": "c407b688",
+    "date": "2026-08-13",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Lounge Chair"
+    ],
+    "orderClosed": false,
+    "customerName": "Khun Luke Anderson",
+    "notes": "ดูสินค้ารวมๆ เป็นไอเดียตกแต่ง สนใจ เก้าอี้พักผ่อน [SZ] Priscilla Leisure Chairs Ivory + สตูลนั่ง [SZ] Priscilla Stool Ivory  และ เก้าอี้พักผ่อน [SE] Homen Swivel Lounge Chair Silver"
+  },
+  {
+    "id": "d82394fa",
+    "date": "2026-08-13",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bew",
+    "productInterests": [
+      "L-Shape Sofas",
+      "Night Tables",
+      "Side Tables",
+      "Coffee Tables"
+    ],
+    "orderClosed": false,
+    "customerName": "ลูกค้าต่างชาติ 1 ราย",
+    "notes": "ต้องการโซฟาRicado แต่มีพื้นที่แค่290x370cm. และดูของอื่นรวมๆ"
+  },
+  {
+    "id": "374118ac",
+    "date": "2026-08-13",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "I-Shape Sofas"
+    ],
+    "orderClosed": false,
+    "customerName": "ลูกค้าต่างชาติชาย 1 ราย และชาวไทยหญิง 1 ราย",
+    "notes": "ลุกค้าสนใจ โซฟา [HO] Bussola 2S Sofa แต่อยากได้สีอื่น ซึ่งในสต็อกมีแค่สีเบจ"
+  },
+  {
+    "id": "d9847325",
+    "date": "2026-08-13",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Bar Chair",
+      "DINING CHAIRS",
+      "Pendant Lamps"
+    ],
+    "orderClosed": false,
+    "customerName": "ต่างชาติชาย 1 ราย",
+    "notes": "อยากได้สินค้าวัสดุเป็นไว้ เนื่องจากที่บ้านตกแต่งด้วยไม้"
+  },
+  {
+    "id": "1d222292",
+    "date": "2026-08-13",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bew",
+    "productInterests": [
+      "Outdoor Seats",
+      "Wall Arts"
+    ],
+    "orderClosed": false,
+    "customerName": "ลูกค้าต่างชาติ 2 ราย",
+    "notes": "ดูค้าดูSet outdoor และ painting ยังไม่คอนเฟิร์ม มาเดินดูเป็นIdea"
+  },
+  {
+    "id": "e0d62f5f",
+    "date": "2026-08-14",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "DINING CHAIRS",
+      "Bed"
+    ],
+    "orderClosed": false,
+    "customerName": "K.Bay",
+    "notes": "สนใจเก้าอี้ทานอาหาร [TO] Half Round Dining Chair White (Leg Light Walnut) แต่อยากเปลี่ยนผ้าเป็นสีเขียว ประมาณการใช้ 8 ตัว"
+  },
+  {
+    "id": "f62c379e",
+    "date": "2026-08-14",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Pendant Lamps",
+      "Wall Lamps"
+    ],
+    "orderClosed": false,
+    "customerName": "ต่างชาติหญิง  1 ราย",
+    "notes": "ดูโคมไฟตั้งโต๊ะและดคมไฟผนัง ดูค้าต้องการดูสินค้าเพิ่มเองเองในเว็บไซต์"
+  },
+  {
+    "id": "b9babeb2",
+    "date": "2026-08-14",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "I-Shape Sofas"
+    ],
+    "orderClosed": false,
+    "customerName": "ลูกค้าชาวไทย 2 ราย",
+    "notes": "เดินผ่านมาเพื่อจะไปดูโซฟา SK Home"
+  },
+  {
+    "id": "2d4fa192",
+    "date": "2026-08-14",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Sectional Sofas"
+    ],
+    "orderClosed": false,
+    "customerName": "คนไทย 1 ราย",
+    "notes": "สนใจโซฟา  ชอบโซฟา Balma กลับไปวัดขนาดแล้วจะกลับมาอีกครั้ง"
+  },
+  {
+    "id": "95cbde43",
+    "date": "2026-08-14",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Decor Accessories"
+    ],
+    "orderClosed": false,
+    "customerName": "ต่างชาติหญิง 1 ราย",
+    "notes": "ดูของตกแต่งบ้าน"
+  },
+  {
+    "id": "14bf0efa",
+    "date": "2026-08-15",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Wall Arts",
+      "Floor Lamps"
+    ],
+    "orderClosed": false,
+    "customerName": "คุณกนต์ธีร์ วรพิทยุต",
+    "notes": "สนใจ รูปภาพ [SS] Art Melodies สินค้าหมดสต๊อค ดูรูปภาพอื่นๆเพิ่มเติมยังไม่มีที่ชอบ  สนใจโคมไฟตั้งพื้น [ME] Monique Floor Lamp Matte Black\n รอมีโปรโมชั่นจะตัดสินใจอีกครั้ง"
+  },
+  {
+    "id": "7819b673",
+    "date": "2026-08-15",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Sectional Sofas"
+    ],
+    "orderClosed": false,
+    "customerName": "Khun Antony",
+    "notes": "มองหาโซฟาขนาดใหญ่ 4.5 เมตร สนใจ Balma"
+  },
+  {
     "id": "293932a7",
     "date": "2026-05-27",
     "branch": "RM9",
@@ -9304,7 +9925,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "793d7b9a",
     "date": "2026-05-29",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Yok",
     "productInterests": [
       "DINING CHAIRS",
@@ -9319,7 +9940,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "434afc88",
     "date": "2026-05-29",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Yok",
     "productInterests": [
       "TV Stands",
@@ -9340,7 +9961,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "963e549a",
     "date": "2026-05-29",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Yok",
     "productInterests": [
       "Bar Chair",
@@ -9370,7 +9991,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "1279beea",
     "date": "2026-05-30",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Pui",
     "productInterests": [
       "Night Tables",
@@ -9574,7 +10195,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "a2c6412a",
     "date": "2026-06-06",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Aliss",
     "productInterests": [
       "Sideboards",
@@ -9863,7 +10484,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "26f30f50",
     "date": "2026-06-16",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Yok",
     "productInterests": [
       "Decor Accessories",
@@ -10044,7 +10665,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "9e4818a9",
     "date": "2026-06-20",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Aom",
     "productInterests": [
       "Dining Tables",
@@ -10060,7 +10681,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "387f850c",
     "date": "2026-06-20",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Aliss",
     "productInterests": [
       "Dining Tables",
@@ -10092,7 +10713,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "25e380c4",
     "date": "2026-06-20",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Aom",
     "productInterests": [
       "Coffee Tables",
@@ -10135,7 +10756,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "a2b6b552",
     "date": "2026-06-22",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Aom",
     "productInterests": [
       "DINING CHAIRS",
@@ -10256,7 +10877,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "56d54f2e",
     "date": "2026-06-25",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Yok",
     "productInterests": [
       "DINING CHAIRS",
@@ -10317,7 +10938,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "0864b4a0",
     "date": "2026-06-26",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Yok",
     "productInterests": [
       "Cafe Tables",
@@ -10428,7 +11049,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "78bfdf97",
     "date": "2026-06-27",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Yok",
     "productInterests": [
       "Lounge Chair"
@@ -10483,7 +11104,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "5b20e730",
     "date": "2026-06-29",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Kate",
     "productInterests": [
       "DINING CHAIRS"
@@ -10653,7 +11274,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "a4c2c462",
     "date": "2026-07-03",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Pui",
     "productInterests": [
       "Cafe Tables",
@@ -10717,7 +11338,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "0cd95988",
     "date": "2026-07-04",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "Cafe Tables",
@@ -10764,7 +11385,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "04877f10",
     "date": "2026-07-04",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "Bed",
@@ -10778,7 +11399,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "4b3270bf",
     "date": "2026-07-04",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "I-Shape Sofas",
@@ -10878,7 +11499,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "2d3c9f55",
     "date": "2026-07-10",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Pui",
     "productInterests": [
       "Pendant Lamps"
@@ -10932,7 +11553,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "488103ce",
     "date": "2026-07-11",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Pui",
     "productInterests": [
       "DINING CHAIRS",
@@ -10964,7 +11585,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "a4fa9be6",
     "date": "2026-07-13",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "Night Tables",
@@ -10993,7 +11614,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "8ac062be",
     "date": "2026-07-13",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "service"
@@ -11062,7 +11683,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "9f21e652",
     "date": "2026-07-18",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Pui",
     "productInterests": [
       "Wall Arts"
@@ -11075,7 +11696,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "57a8ee3c",
     "date": "2026-07-18",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Pui",
     "productInterests": [
       "Cafe Tables"
@@ -11180,7 +11801,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "b72cb953",
     "date": "2026-07-21",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Rai",
     "productInterests": [
       "Sectional Sofas",
@@ -11257,7 +11878,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "463aeb8a",
     "date": "2026-07-25",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "Pendant Lamps",
@@ -11272,7 +11893,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "aa1ef950",
     "date": "2026-07-27",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "Cafe Tables",
@@ -11319,7 +11940,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "a21a4679",
     "date": "2026-07-27",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "Bar Chair",
@@ -11418,7 +12039,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "299c649d",
     "date": "2026-07-28",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "Side Tables",
@@ -11435,7 +12056,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "a003b9d8",
     "date": "2026-07-28",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "Bar Chair",
@@ -11697,7 +12318,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "dbe920c5",
     "date": "2026-08-01",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "Outlet"
@@ -11754,7 +12375,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "c7afdbe3",
     "date": "2026-08-03",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "Bed",
@@ -11829,7 +12450,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "6c8be26d",
     "date": "2026-08-06",
     "branch": "RM9",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Kate",
     "productInterests": [
       "Bar Chair",
@@ -12053,6 +12674,181 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "notes": "มารับโคมไฟ และดูโคมไฟที่ลดราคา"
   },
   {
+    "id": "f02053db",
+    "date": "2026-08-12",
+    "branch": "RM9",
+    "channel": "Designer",
+    "salesperson": "Tim",
+    "productInterests": [
+      "Coffee Tables",
+      "Console Tables",
+      "DINING CHAIRS",
+      "Dining Tables"
+    ],
+    "orderClosed": false,
+    "customerName": "ลูกค้า 2 (ลูกค้าปุ๋ย)",
+    "notes": "มาดูของตามแบบดีไซเนอร์"
+  },
+  {
+    "id": "eb1bd502",
+    "date": "2026-08-12",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Tim",
+    "productInterests": [
+      "Outlet"
+    ],
+    "orderClosed": false,
+    "customerName": "ลูกค้า 2",
+    "notes": "มาดูสินค้า outlet"
+  },
+  {
+    "id": "5c546862",
+    "date": "2026-08-12",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Tim",
+    "productInterests": [
+      "L-Shape Sofas",
+      "I-Shape Sofas",
+      "Love Seat Sofas"
+    ],
+    "orderClosed": false,
+    "customerName": "ต่างชาติ 4",
+    "notes": "มาดู โซฟา ลูกค้าเกด"
+  },
+  {
+    "id": "c5121dbc",
+    "date": "2026-08-12",
+    "branch": "RM9",
+    "channel": "Facebook / IG",
+    "salesperson": "Tim",
+    "productInterests": [
+      "Outlet"
+    ],
+    "orderClosed": false,
+    "customerName": "ลูกค้า 1",
+    "notes": "มาดูสินค้า outlet"
+  },
+  {
+    "id": "250f293e",
+    "date": "2026-08-12",
+    "branch": "RM9",
+    "channel": "Phone / Line",
+    "salesperson": "Tim",
+    "productInterests": [
+      "Dining Tables",
+      "I-Shape Sofas",
+      "Lounge Chair",
+      "Night Tables"
+    ],
+    "orderClosed": false,
+    "customerName": "ลูกค้า 2",
+    "notes": "กำลังทำบ้าน มาดูสินค้าไว้ก่อน อีก 3-4 เดือนบ้านเสร็จ"
+  },
+  {
+    "id": "b0973341",
+    "date": "2026-08-13",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Pui",
+    "productInterests": [
+      "I-Shape Sofas"
+    ],
+    "orderClosed": false,
+    "customerName": "ลค1",
+    "notes": "ดูโซฟา"
+  },
+  {
+    "id": "2f84734a",
+    "date": "2026-08-13",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Pui",
+    "productInterests": [
+      "Bed",
+      "Plants"
+    ],
+    "orderClosed": false,
+    "customerName": "ต่างชาติ",
+    "notes": "ดูเตียงไม้"
+  },
+  {
+    "id": "2c684f49",
+    "date": "2026-08-14",
+    "branch": "RM9",
+    "channel": "Appointment",
+    "salesperson": "Pui",
+    "productInterests": [
+      "Dining Tables",
+      "Decor Accessories",
+      "DINING CHAIRS",
+      "Decor Books",
+      "Wall Arts"
+    ],
+    "orderClosed": true,
+    "closedDetails": "LL24815",
+    "customerName": "PIA & AWC",
+    "notes": "ดูสินค้าโครงการ Fairmont Bangkok Sukhumvit"
+  },
+  {
+    "id": "292c3385",
+    "date": "2026-08-14",
+    "branch": "RM9",
+    "channel": "Phone / Line",
+    "salesperson": "Aliss",
+    "productInterests": [
+      "Outlet",
+      "Lounge Chair",
+      "DINING CHAIRS",
+      "Dining Tables"
+    ],
+    "orderClosed": false,
+    "customerName": "คนไทย 1",
+    "notes": "ตั้งใจมาดู Outlet แต่สภาพแย่กว่าที่คิด เปลี่ยนใจมาดูสินค้าปกติมาประเมินสินค้าจริงก่อนแล้วจะแจ้งตามหลัง"
+  },
+  {
+    "id": "c24ffe53",
+    "date": "2026-08-14",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Pui",
+    "productInterests": [
+      "Pendant Lamps"
+    ],
+    "orderClosed": false,
+    "customerName": "ลูกค้า2",
+    "notes": "ดูโคมไฟเพดาน แชนเดอเรีย"
+  },
+  {
+    "id": "8ee4fc12",
+    "date": "2026-08-14",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Pui",
+    "productInterests": [
+      "DINING CHAIRS",
+      "Dining Tables"
+    ],
+    "orderClosed": false,
+    "customerName": "ลูกค้า 3",
+    "notes": "ดูเซทโต๊ะ เก้าอี้"
+  },
+  {
+    "id": "9bf9844b",
+    "date": "2026-08-15",
+    "branch": "RM9",
+    "channel": "Facebook / IG",
+    "salesperson": "Pui",
+    "productInterests": [
+      "Outlet"
+    ],
+    "orderClosed": true,
+    "closedDetails": "#LL24817",
+    "customerName": "ลูกค้า1",
+    "notes": "สตูล"
+  },
+  {
     "id": "e72697ba",
     "date": "2026-05-26",
     "branch": "SKV",
@@ -12114,7 +12910,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "b055383a",
     "date": "2026-05-28",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Aom",
     "productInterests": [
       "L-Shape Sofas"
@@ -12157,7 +12953,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "48f668b3",
     "date": "2026-05-30",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "Wall Lamps"
@@ -12170,7 +12966,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "15d74c6c",
     "date": "2026-05-30",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Aom",
     "productInterests": [
       "Pendant Lamps",
@@ -12253,7 +13049,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "50b3afa0",
     "date": "2026-06-02",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "Bar Table",
@@ -12295,7 +13091,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "ba683d5b",
     "date": "2026-06-04",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Aom",
     "productInterests": [
       "Pendant Lamps",
@@ -12579,7 +13375,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "62624531",
     "date": "2026-06-11",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Aom",
     "productInterests": [
       "Bed",
@@ -12643,7 +13439,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "de210e05",
     "date": "2026-06-13",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "Decor Accessories",
@@ -12688,7 +13484,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "77da8b0e",
     "date": "2026-06-13",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "Bar Chair",
@@ -12790,7 +13586,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "f895011b",
     "date": "2026-06-13",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "DINING CHAIRS",
@@ -12832,7 +13628,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "babb617d",
     "date": "2026-06-15",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "Rugs",
@@ -12860,7 +13656,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "4b89f4cb",
     "date": "2026-06-16",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "Lounge Chair",
@@ -12875,7 +13671,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "53bf66f7",
     "date": "2026-06-17",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "Wall Lamps",
@@ -12905,7 +13701,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "11dbbc35",
     "date": "2026-06-18",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Aom",
     "productInterests": [
       "DINING CHAIRS",
@@ -13032,7 +13828,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "ccc58fd0",
     "date": "2026-06-25",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "Coffee Tables",
@@ -13046,7 +13842,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "736a2d23",
     "date": "2026-06-26",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Aom",
     "productInterests": [
       "Wall Lamps",
@@ -13060,7 +13856,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "78bede70",
     "date": "2026-06-26",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Aom",
     "productInterests": [
       "Pendant Lamps",
@@ -13334,7 +14130,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "2e29f21c",
     "date": "2026-07-07",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Aom",
     "productInterests": [
       "Rugs",
@@ -13348,7 +14144,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "43821a7a",
     "date": "2026-07-06",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Kate",
     "productInterests": [
       "Coffee Tables",
@@ -13442,7 +14238,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "8bc3ad6b",
     "date": "2026-07-14",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Aom",
     "productInterests": [
       "Pendant Lamps"
@@ -13470,7 +14266,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "2b5e2944",
     "date": "2026-07-14",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Aom",
     "productInterests": [
       "Wall Lamps"
@@ -13497,7 +14293,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "b40a2992",
     "date": "2026-07-18",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Kate",
     "productInterests": [
       "I-Shape Sofas",
@@ -13526,7 +14322,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "498686ec",
     "date": "2026-07-18",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Kate",
     "productInterests": [
       "Coffee Tables"
@@ -13539,7 +14335,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "41a2909b",
     "date": "2026-07-18",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Aom",
     "productInterests": [
       "DINING CHAIRS",
@@ -13595,7 +14391,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "5a585e5c",
     "date": "2026-07-21",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Kate",
     "productInterests": [
       "Cafe Tables",
@@ -13693,7 +14489,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "5c4d558c",
     "date": "2026-07-23",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "Rugs"
@@ -13833,7 +14629,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "df349439",
     "date": "2026-07-25",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Kate",
     "productInterests": [
       "Console Tables",
@@ -13850,7 +14646,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "41f2c812",
     "date": "2026-07-25",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Aom",
     "productInterests": [
       "Bed",
@@ -13930,7 +14726,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "81e1c57c",
     "date": "2026-07-27",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Kate",
     "productInterests": [
       "Pendant Lamps"
@@ -14090,7 +14886,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "id": "1432d09e",
     "date": "2026-08-05",
     "branch": "SKV",
-    "channel": "Facebook / IG",
+    "channel": "Designer",
     "salesperson": "Tim",
     "productInterests": [
       "Dining Tables",
@@ -14228,5 +15024,142 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     "orderClosed": false,
     "customerName": "ลูกค้าต่างชาติ4 คน",
     "notes": "เคยซื้อแล้ว มาดูพรมเพิ่มเติม"
+  },
+  {
+    "id": "d79f4a37",
+    "date": "2026-08-10",
+    "branch": "SKV",
+    "channel": "Designer",
+    "salesperson": "Aom",
+    "productInterests": [
+      "Bed",
+      "L-Shape Sofas",
+      "Coffee Tables",
+      "Night Tables",
+      "Benches",
+      "Decor Accessories"
+    ],
+    "orderClosed": false,
+    "customerName": "คุณรัตน์",
+    "notes": "ลูกค้าปุ๋ย มาดูสินค้าเพิ่มสำหรับบ้านที่ภูเก็ต D35212"
+  },
+  {
+    "id": "871cfbb3",
+    "date": "2026-08-10",
+    "branch": "SKV",
+    "channel": "Designer",
+    "salesperson": "Aom",
+    "productInterests": [
+      "Lounge Chair",
+      "Coffee Tables",
+      "Floor Lamps"
+    ],
+    "orderClosed": false,
+    "customerName": "คุณวาวา Nord design studio",
+    "notes": "ดีไซเนอร์ ดูสินค้าตามแบบสเป็ค จะเข้าไปดูสินค้าที่ Rama 9 เพิ่มเติมอีกครั้ง"
+  },
+  {
+    "id": "3bbb623b",
+    "date": "2026-08-10",
+    "branch": "SKV",
+    "channel": "Designer",
+    "salesperson": "Aom",
+    "productInterests": [
+      "Table Lamps",
+      "Decor Accessories"
+    ],
+    "orderClosed": true,
+    "closedDetails": "LL24774",
+    "customerName": "คุณรัตน์",
+    "notes": "(ลูกค้าปุ๋ย) เข้ามาเลือกสินค้าไฟเพิ่มและชำระบิล"
+  },
+  {
+    "id": "a8c56cce",
+    "date": "2026-08-10",
+    "branch": "SKV",
+    "channel": "Walk in",
+    "salesperson": "Kate",
+    "productInterests": [
+      "Pendant Lamps"
+    ],
+    "orderClosed": false,
+    "customerName": "ลูกค้าคนไทย 2 คน",
+    "notes": "มาดูไฟของจริง รุ่น rondo"
+  },
+  {
+    "id": "b1ed6ac6",
+    "date": "2026-08-11",
+    "branch": "SKV",
+    "channel": "Designer",
+    "salesperson": "Aom",
+    "productInterests": [
+      "Pendant Lamps",
+      "Wall Lamps"
+    ],
+    "orderClosed": false,
+    "customerName": "คนไทย 2 ราย",
+    "notes": "มาดูสินค้าแบบใหม่ ๆ"
+  },
+  {
+    "id": "d104be0d",
+    "date": "2026-08-11",
+    "branch": "SKV",
+    "channel": "Google",
+    "salesperson": "Aom",
+    "productInterests": [
+      "I-Shape Sofas",
+      "L-Shape Sofas",
+      "Sideboards"
+    ],
+    "orderClosed": false,
+    "customerName": "คนไทย+ต่างชาติ 2 ราย",
+    "notes": "หาโซฟาขนาดประมาณ 240cm หน้าร้านมีสินค้าโชว์ไม่ครบทุกรายการ"
+  },
+  {
+    "id": "34ccef9d",
+    "date": "2026-08-11",
+    "branch": "SKV",
+    "channel": "Walk in",
+    "salesperson": "Kate",
+    "productInterests": [
+      "Dresser",
+      "Working Desks"
+    ],
+    "orderClosed": false,
+    "customerName": "ลูกค้าต่างชาติ 1 คน",
+    "notes": "มาดูสินค้าโต๊ะเครื่องแป้งและโต๊ะทำงาน"
+  },
+  {
+    "id": "93c2a3af",
+    "date": "2026-08-11",
+    "branch": "SKV",
+    "channel": "Walk in",
+    "salesperson": "Kate",
+    "productInterests": [
+      "Sectional Sofas",
+      "Rugs",
+      "Bed",
+      "Lounge Chair"
+    ],
+    "orderClosed": false,
+    "customerName": "ลูกค้าต่างชาติ 3 คน (แม่ลูก2)",
+    "notes": "อยากได้โซฟาsectional สีออกเทา (ดูdejanไป อยากดูของจริงเลยแนะนำให้ไปดูที่พระราม9) ดูพรม, สนใจเตียงกับเก้าอี้loungeโปรวันแม่"
+  },
+  {
+    "id": "a77e8501",
+    "date": "2026-08-15",
+    "branch": "SKV",
+    "channel": "Google",
+    "salesperson": "Aom",
+    "productInterests": [
+      "Bed",
+      "Sideboards",
+      "DINING CHAIRS",
+      "Console Tables",
+      "Rugs"
+    ],
+    "orderClosed": false,
+    "customerName": "ลูกค้าต่างชาติ 2 ราย",
+    "notes": "มาดูสินค้าเฟอร์บ้านกำลังทำอยู่ (รอย้ายเข้า)"
   }
 ];

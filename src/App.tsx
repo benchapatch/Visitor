@@ -11,7 +11,7 @@ import { calculateWeeklyReport } from './utils/reportCalculator';
 import { shiftWeek, getDynamicWeeklyRanges } from './utils/dateUtils';
 import { parseSheetDataToRecords } from './utils/sheetParser';
 
-const STORAGE_KEY = 'lounge_lovers_visitor_records_v9';
+const STORAGE_KEY = 'lounge_lovers_visitor_records_v10';
 const SHEET_URL_KEY = 'lounge_lovers_sheet_url_v2';
 const LAST_SYNC_KEY = 'lounge_lovers_last_sync_v2';
 

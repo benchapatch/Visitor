@@ -139,7 +139,7 @@ export function normalizeChannel(ch: string): ChannelType {
   if (c.includes('walk') || c.includes('หน้าร้าน') || c.includes('walkin') || c.includes('walk-in')) {
     return 'Walk in';
   }
-  if (c.includes('fb') || c.includes('facebook') || c.includes('ig') || c.includes('instagram') || c.includes('social') || c.includes('เฟส')) {
+  if (c.includes('fb') || c.includes('facebook') || c === 'ig' || c.includes(' ig ') || c.includes('/ig') || c.includes('instagram') || c.includes('social') || c.includes('เฟส')) {
     return 'Facebook / IG';
   }
   if (c.includes('design') || c.includes('interior') || c.includes('สถาปนิก') || c.includes('ดีไซเนอร์') || c.includes('อินทีเรีย')) {
