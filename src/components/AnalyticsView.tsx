@@ -431,13 +431,13 @@ export const AnalyticsView: React.FC<AnalyticsViewProps> = ({ reportData }) => {
             <table className="w-full text-left text-sm">
               <thead>
                 <tr className="border-b border-slate-200 text-xs font-bold text-slate-400 uppercase tracking-wider">
-                  <th className="pb-3">Salesperson</th>
-                  <th className="pb-3">Visitors</th>
-                  <th className="pb-3">Quoted</th>
-                  <th className="pb-3">Quote%</th>
-                  <th className="pb-3">Closed</th>
-                  <th className="pb-3">Conv.</th>
-                  <th className="pb-3 text-right">Performance</th>
+                  <th className="pb-3 align-bottom">Sales<br />Rep</th>
+                  <th className="pb-3 align-bottom text-center">Total<br />Visits</th>
+                  <th className="pb-3 align-bottom text-center">Draft<br />Quotes</th>
+                  <th className="pb-3 align-bottom text-center">Quote<br />Rate</th>
+                  <th className="pb-3 align-bottom text-center">Closed<br />Orders</th>
+                  <th className="pb-3 align-bottom text-center">Close<br />Rate</th>
+                  <th className="pb-3 align-bottom text-right">Perf.</th>
                 </tr>
               </thead>
               <tbody className="divide-y divide-slate-100">
@@ -445,18 +445,18 @@ export const AnalyticsView: React.FC<AnalyticsViewProps> = ({ reportData }) => {
                   <tr key={sp.salesperson} className="hover:bg-slate-50/70 transition-colors">
                     <td className="py-2.5 font-semibold text-slate-900 flex items-center gap-2">
                       <span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: sp.color }}></span>
-                      {sp.salesperson}
+                      <span className="truncate max-w-[100px]" title={sp.salesperson}>{sp.salesperson}</span>
                     </td>
-                    <td className="py-2.5 font-medium text-slate-700">{sp.count}</td>
-                    <td className="py-2.5 font-semibold text-amber-600">{sp.quotedCount}</td>
-                    <td className="py-2.5">
-                      <span className="px-2 py-0.5 text-xs font-bold bg-amber-50 text-amber-800 rounded-md">
+                    <td className="py-2.5 font-medium text-slate-700 text-center">{sp.count}</td>
+                    <td className="py-2.5 font-semibold text-amber-600 text-center">{sp.quotedCount}</td>
+                    <td className="py-2.5 text-center">
+                      <span className="px-1.5 py-0.5 text-xs font-bold bg-amber-50 text-amber-800 rounded-md">
                         {sp.quoteRate}%
                       </span>
                     </td>
-                    <td className="py-2.5 font-semibold text-emerald-600">{sp.closedCount}</td>
-                    <td className="py-2.5">
-                      <span className="px-2 py-0.5 text-xs font-bold bg-emerald-50 text-emerald-800 rounded-md">
+                    <td className="py-2.5 font-semibold text-emerald-600 text-center">{sp.closedCount}</td>
+                    <td className="py-2.5 text-center">
+                      <span className="px-1.5 py-0.5 text-xs font-bold bg-emerald-50 text-emerald-800 rounded-md">
                         {sp.conversionRate}%
                       </span>
                     </td>
