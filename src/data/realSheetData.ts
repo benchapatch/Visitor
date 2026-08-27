@@ -14,6 +14,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ ชายหญิง 2 ราย",
     "notes": "สนใจโซฟา Stow Beige แต่สินค้าหมดสต๊อค เสนอสีที่มีแต่ลูกค้ายังไม่สนใจค่ะ\n\nสนใจ เก้าอี้พักผ่อน [DB] Flux Swivel Armchair Beige Copper ลูกค้าอยากได้สีอ่อน เบจ/ครีมค่ะ"
   },
@@ -29,6 +30,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Khun Carmen",
     "notes": "บ้านกำลังสร้างเสร็จช่วงปลายปี  หาไฟติดห้องนั่งเล่น ระยะ ฝ้าสูง 7.3 เมตร\n\nสนใจ \nเตียงนอน [YA] Finesse Bed King Size Brown\n\nเตียงนอน [YA] Lawson Bed King Size Beige ต้องการเปลี่ยนสีผ้า เป็นโทนสีเข้ม\n\nเตียง [SF] Soho Bed Queen Size Beige ต้องการเปลี่ยนสีผ้า เป็นโทนสีเข้ม"
   },
@@ -45,6 +47,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24058",
+    "hasDraftOrder": false,
     "customerName": "Khun David Barker",
     "notes": "เปิด LL24058 \n\nลูกค้าต้องการ โซฟาบีนแบ็ก [VA] Lagom Beanbag Atlas Sand  ของหมดสต๊อค"
   },
@@ -58,6 +61,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Mr.Sergei",
     "notes": "ลูกค้าสอบถาม  เก้าอี้ทานอาหาร [SE] Bess Armless Dining Chair Natural (Natural Leg)  จำนวน 4 - 6 ตัว \nเสนอสีที่กำลังจะเข้ามาใหม่แทนค่ะ"
   },
@@ -71,6 +75,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Soren",
     "notes": "ลูกค้ามองหา Lounge chair มาลองนั่งแล้วถ่ายรูปและวีดีโอไปแล้ว ขอเอาไปปรึกษากับแฟนและจะติดต่อมาทาง Whats App อีกครั้งค่ะ"
   },
@@ -85,6 +90,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 1 ราย",
     "notes": "ลูกค้าอยากได้โซฟาหนังสีน้ำตาล"
   },
@@ -99,6 +105,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 2 ราย",
     "notes": "ยังไม่ถูกใจ"
   },
@@ -113,6 +120,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24057",
+    "hasDraftOrder": false,
     "customerName": "k.Andrew Bragg",
     "notes": "ลูกค้าเก่า มาซื้อพรม ออเดอร์ LL24057"
   },
@@ -127,6 +135,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24055",
+    "hasDraftOrder": false,
     "customerName": "คุณยุ้ย",
     "notes": "เปิดออเดอร์ LL24055"
   },
@@ -141,6 +150,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24061 #LL24063",
+    "hasDraftOrder": false,
     "customerName": "คุณใจ๋ คุณก๊อต",
     "notes": "ลูกค้า RDM มาดูโซฟาตัวที่เคยดูไว้ก่อนสั่งซื้อ ลูกค้าไม่ได้แจ้งก่อนเข้ามา เปิดออเดอร์ LL24061/LL24063"
   },
@@ -209,6 +219,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 1 ราย คนไทย 1 ราย",
     "notes": "ลูกค้าดูรวมๆ แจ้งว่ามาเดินเล่นบ้านกำลังสร้างกำหนดเสร็จปลายปี"
   },
@@ -222,6 +233,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณ Jacine",
     "notes": "ลูกค้าอยากได้ Coltrane สีเบจ แบบลดราคา เสนอสีเทาไปลูกค้าไม่ชอบ เลยไปจบที่ SK ค่ะ"
   },
@@ -236,6 +248,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DayBeds"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "K.Colette",
     "notes": "อยากได้ Sideboard ที่ไม่ใช่ท็อปหิน ขนาด 160-180 สูง60 และDaybed  ที่เสนอไปยังไม่ถูกใจ"
   },
@@ -249,6 +262,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณออย",
     "notes": "มองหา Sofabed ที่ใช้แทนเตียง และ โต๊ะขนาดไม่เกิน 140 ที่เสนอไปยังไม่ถูกใจ"
   },
@@ -262,6 +276,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าคนจีน 1 ราย",
     "notes": "ดู แจ้งว่าราคาสูงไป ไว้พิจารณาอีกที"
   },
@@ -275,6 +290,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณมนูญ",
     "notes": "ลูกค้าผู้รับเหมาโครงการ Khram อยากได้ โคมไฟ 7 ชุด ราคาถูกๆ เสนอสินค้าไป 2 ตัว Henlege Ring และ Lyric แต่ลูกค้าอยากได้ถูกกว่านี้และเหมือนกันทั้ง7ตัว"
   },
@@ -290,6 +306,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Cafe Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Khun Natasha",
     "notes": "หาไฟติดเคาเตอร์ในคาเฟ่ และโต๊ะคาเฟ่ รอตัดสินใจเรื่องโต๊ะคาเฟ่"
   },
@@ -303,6 +320,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณใหม่ ลค.คนไทย 3 ราย",
     "notes": "ต้องการโต๊ะทานอาหาร หินแท้  \nชอบ โต๊ะทานอาหาร [CS] Hugo 240 Dining Table California Top (Buckwheat)  แต่อยากได้ขนาด 200-220 ค่ะ"
   },
@@ -371,6 +389,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย3ราย",
     "notes": "ลูกค้าดูรวมๆ ซื้อบ้านพร้อมเฟอร์มาอยู่แล้ว อยากเปลี่ยนเฟรอร์บางชิ้นในบ้าน"
   },
@@ -385,6 +404,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2",
     "notes": "ลูกค้าต้องการ TV Stand สีขาวและโต๊ะทานข้าวขนาด140-160 ที่เสนอไปไม่ชอบและแจ้งว่าราคาแพงไป"
   },
@@ -398,6 +418,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 1 ราย",
     "notes": "โซฟาขาไม้ ขนาด 180-200cm"
   },
@@ -411,6 +432,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Decor Accessories"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ1ราย",
     "notes": "หาโต๊coffee table outdoor ดู Heaven 60/80 ไป ขอพิจารณาก่อน"
   },
@@ -424,6 +446,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Sideboards"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณ Suchada Chongthep",
     "notes": "ตู้ไซด์บอร์ด [DE] Arco 200 Sideboard Black (Top Brown) ลูกค้าต้องการนำสินค้าขึ้นชั้น 2  รอตรวจสอบบันไดบ้านลูกค้าค่ะ"
   },
@@ -437,6 +460,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 2 ราย",
     "notes": "สนใจ โคมไฟเพดาน [UD] Tessa 3 Pendant Lamp Brass และ โคมไฟเพดาน [MD] Flare 91 Pendant Lamp Chrome ค่ะ"
   },
@@ -451,6 +475,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติหญิง 2 ราย",
     "notes": "โซฟา [SZ] Concetto 3S Sofa Cream  ต้องการสีเข้ม ค่ะ\nลค.ต้องการ ดอกไม้ประดิษฐ์ [FW] Hydrangea Flowers White ของหมดสต๊อค ค่ะ"
   },
@@ -466,6 +491,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24074",
+    "hasDraftOrder": false,
     "customerName": "K.Jenny",
     "notes": "LL24074 - ดู Ethan 75 Wall Lamp ไว้ด้วย จะกลับไปเช็คขนาด และเข้ามาอีกทีวันเสาร์บ่ายค่ะ"
   },
@@ -479,6 +505,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bar Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 1",
     "notes": "เดินดูเฉยๆ ยังไม่ได้สนใจอะไรเป็นพิเศษ"
   },
@@ -493,6 +520,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24075",
+    "hasDraftOrder": false,
     "customerName": "Khun Marie laure Lestienne",
     "notes": "LL24075"
   },
@@ -506,6 +534,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Arts"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34055",
     "customerName": "Razina Iuliia",
     "notes": "สนใจรูปภาพค่ะ  D34055 ลูกค้าพี่สมายล์"
   },
@@ -519,6 +549,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 1 + คนไทย 1",
     "notes": "ลูกค้าอยากได้สินค้าที่มีเลย จำนวน 6 ชิ้น เหมือนกัน แต่เราไม่มี stock สินค้าที่ภูเก็ต"
   },
@@ -587,6 +618,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Anna Petrova",
     "notes": "ลค.แจ้งว่าเป็นดีไซน์เนอร์ต้องการหาสินค้าให้กับลูกค้าของเขา ส่งต่อให้เซลล์โปรเจคดูแลค่ะ"
   },
@@ -600,6 +632,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "Draft Created",
     "customerName": "Khun 𝐀𝐔𝐍𝐘𝐀𝐑𝐈𝐍",
     "notes": "สนใจ โคมไฟเพดาน [DL] Gisele 45 Pendant Lamp Silver ส่งใบเสนอราคาให้ลูกค้าตัดสินใจอีกครั้งค่ะ"
   },
@@ -668,6 +702,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Vladimir Domaratskii",
     "notes": "ลูกค้ารอ เก้าอี้เคาน์เตอร์ [CS] Leah Counter Stool SH65 Old White (Nature Wood & Gold)  ที่กำลังจะเข้ามาเดินหน้าค่ะ"
   },
@@ -684,6 +719,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34070",
     "customerName": "คุณบี คุณทิชา",
     "notes": "ลูกค้าเป็นดีไซเนอร์ Botanica หาสินค้างานโปรเจค Grand Sea Through Villas เปิดดารฟท์ D34070"
   },
@@ -700,6 +737,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24083",
+    "hasDraftOrder": false,
     "customerName": "K.Naruto Sirimanee",
     "notes": "LL24083. หาซื้อของไปฝากขึ้นบ้านใหม่ค่ะ"
   },
@@ -714,6 +752,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชายหญิง 2 ราย",
     "notes": "ดูสินค้ารวมๆค่ะ"
   },
@@ -731,6 +770,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bar Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "พี่โจ้ AHA",
     "notes": "โปรเจค The Cloud ลูกค้าได้โซฟาและเตียงจาก SK"
   },
@@ -745,6 +785,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณโซเฟีย",
     "notes": "ลูกค้าหาโต๊ะลายหินอ่อน(ไม่เอาหินแท้) ลายชัด สีเข้ม ขนาดไม่เกิน 2.4เมตร ลูกค้า Fulldec"
   },
@@ -758,6 +799,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Khun Cris roadnight",
     "notes": "สนใจ โซฟา [YA] Ricado L Shape Right Sofa Light Brown ค่ะ"
   },
@@ -771,6 +813,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณ Amy Ou",
     "notes": "สนใจโซฟาสีเข้ม โซฟา [EG] Nordlux W408 Sofa Full Set Dark Grey และ โซฟา [SA] Bonnie Set Sofa Dark Grey  ขอกลับไปวัดพื้นที่ว่าจะสามารถวางสินค้าได้ไหมคะ"
   },
@@ -785,6 +828,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ2ราย",
     "notes": "ลูกค้าแจ้งว่าขอเดินดูเฉยๆ ไม่ได้ดูอะไรเป็นพิเศษค่ะ"
   },
@@ -799,6 +843,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34081",
     "customerName": "คุณกุ้ง",
     "notes": "สนใจโคมไฟเพดานและพรม ส่งใบเสนอราคา D34081. ชื่นชมการบริการและสินค้าที่ได้รับสวยงามค่ะ"
   },
@@ -814,6 +860,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24088",
+    "hasDraftOrder": false,
     "customerName": "Khun Jenny Bohlsen",
     "notes": "LL24088"
   },
@@ -827,6 +874,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนจีน 1 ราย",
     "notes": "ลูกค้าเดินดูแล้วถ่ายรูปไป ไม่ได้สอบถามอะไร"
   },
@@ -841,6 +889,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Floor Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติหญิง 1 ราย",
     "notes": "ต้องการ พรม [JZ] Dags 200x290 รอสินค้าเข้าเดือนมิถุนายนค่ะ"
   },
@@ -857,6 +906,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24089",
+    "hasDraftOrder": false,
     "customerName": "คุณหมวย",
     "notes": "เปิดออเดอร์ LL24089"
   },
@@ -873,6 +923,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D33926",
     "customerName": "คุณ Jon and Aisha",
     "notes": "D33926 ลูกค้าอยู่ระหว่างเสนอราคา มาดูสินค้าเพิ่ม *ลูกค้าซื้อ Quattro ไปแล้ว บอกได้ส่วนลด80%"
   },
@@ -886,6 +938,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คู่รักต่างชาติ-คนไทย",
     "notes": "สนใจโซฟา Nordlux 3.5s จะไปธุระแล้วจะเข้ามาอีกครั้ง ลูกค้ารีบ"
   },
@@ -899,6 +952,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2 ราย",
     "notes": "ลูกค้าเก่า : ชอบ spero สีดำ แต่ของไม่พอ"
   },
@@ -967,6 +1021,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 2 ราย",
     "notes": "ลูกค้าดูสินค้ารวมๆค่ะ"
   },
@@ -984,6 +1039,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34067",
     "customerName": "K.Natasha",
     "notes": "ลูกค้าหาสินค้าสำหรับเข้า cafe กำลังตัดสินใจเลือกสินค้าอยู่ - D34067"
   },
@@ -997,6 +1054,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Side Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณ กนต์ธีร์ วรพิทยุต",
     "notes": "หาโต๊ะข้างไปวางกับเซทโซฟา [UC] Dambo  ที่เคยซื้อไปค่ะ"
   },
@@ -1011,6 +1069,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24095",
+    "hasDraftOrder": false,
     "customerName": "Evgeniia Lamberova",
     "notes": "LL24095"
   },
@@ -1024,6 +1083,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2 ราย",
     "notes": "หาโต๊ะทานอาหารขนาด 160 cm. Top ceramic"
   },
@@ -1037,6 +1097,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 2 ราย",
     "notes": "ลูกค้าจะคอนเฟิร์มกลับอีกครั้ง หากรับจะให้ปลดไฟวันพุธเลย Francie Ball 40"
   },
@@ -1052,6 +1113,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 1 ราย",
     "notes": "ดูสินค้า รวมๆ ค่ะ"
   },
@@ -1067,6 +1129,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Khun Scott",
     "notes": "สนใจเก้าอี้ทำงาน [EA] Maxwell High Back Swivel Office Chair Jet Black  สินค้าหมดสต๊อก"
   },
@@ -1080,6 +1143,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ดีไซน์เนอร์คุณเจี๊ยบ",
     "notes": "ขอยืมตัวอย่างผ้าโซฟาไปเทียบกับม่าน"
   },
@@ -1094,6 +1158,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Khun Anna",
     "notes": "ดูไฟcollectionเดียวกัน ติดแทนตัวเก่าตรงโถง,Kitchen Island,Dining table \n*ดูneedle ,Noah, willow \n*แลกคอนแทคเรียบร้อย"
   },
@@ -1108,6 +1173,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24102",
+    "hasDraftOrder": false,
     "customerName": "Khun Anna Pro Phuket",
     "notes": "LL24102"
   },
@@ -1121,6 +1187,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1ราย",
     "notes": "ดูโซฟา Ruvido"
   },
@@ -1136,6 +1203,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "ดูสินค้ารวมๆ"
   },
@@ -1150,6 +1218,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Project name: IndoChine Resort & Villas",
     "notes": "ต้องการสั่งผลิตสินค้า เก้าอี้พักผ่อน [HO] Lumina Lounge Chair Blue\n จำนวน 88 ตัว  Project name: IndoChine Resort & Villas // ส่งต่อให้พี่บิวค่ะ"
   },
@@ -1218,6 +1287,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติหญิง 1 ราย",
     "notes": "ลูกค้าดูสินค้ารวมรวมยังไม่ได้สนใจอะไรเป็นพิเศษค่ะ"
   },
@@ -1231,6 +1301,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "เข้ามาถามว่ามีโซฟาเท่าที่เห็นใช่มั้ย เลยแจ้งเวปไซต์ให้เข้าไปดูเพิ่มเติมค่ะ"
   },
@@ -1245,6 +1316,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Sideboards"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 4 ราย",
     "notes": "ดูสินค้าตึกใหม่ รวมๆ"
   },
@@ -1259,6 +1331,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่าชาติ2ราย คุณ Song",
     "notes": "ลูกค้าบ้น Botanica 4 season มาดูของ"
   },
@@ -1327,6 +1400,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 1 ราย",
     "notes": "ลูกค้าพี่บิว  ดูสินค้ารวมๆ"
   },
@@ -1343,6 +1417,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24184",
+    "hasDraftOrder": true,
+    "draftOrder": "D34128",
     "customerName": "Luke anderson",
     "notes": "ใบเสนอราคาเลขที่ D34128 เตียง ที่ลูกค้าต้องการเป็นตัวโชว์ ส่งสภาพสินค้าให้ลูกค้าพิจารณาอยู่ค่ะ"
   },
@@ -1357,6 +1433,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "chandelier"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34131",
     "customerName": "คุณหมิง Design and Decor",
     "notes": "ทำใบเสนอราคาพร้อมค่าติดตั้ง D34131"
   },
@@ -1371,6 +1449,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าคุณหมิว H Build",
     "notes": "ลูกค้าดูโคมไฟตรงโต๊ะทานข้าว และดูโต๊ะทานข้าวด้วย จะไปดูในเวปไซต์เพิ่มเติมแล้วแจ้งกลับมาที่คุณหมิว (ส่วนลด 10% ค่ากันสเปค20%)"
   },
@@ -1385,6 +1464,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24122",
+    "hasDraftOrder": false,
     "customerName": "คุณจอย",
     "notes": "ลูกค้าเก่าชวนมาใช้โปร"
   },
@@ -1398,6 +1478,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณอ้อย คุณแจน",
     "notes": "ทานอาหารขนาด 180 สี walnut ต้องการส่งไปเชียงใหม่"
   },
@@ -1466,6 +1547,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติหญิง 1 ราย",
     "notes": "ลูกค้าดูสินค้า รวมๆ ค่ะ   แจ้งโปรโมชั่นที่กำลังจะมี 6.6  ลูกค้าแจ้งว่าจะดูในเว็บไซต์ค่ะ"
   },
@@ -1486,6 +1568,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Anna Petrova",
     "notes": "ลูกค้าดูรวมๆไปใส่งาน protect ค่ะ"
   },
@@ -1554,6 +1637,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2 ราย",
     "notes": "นายหน้าขายบ้านรีโนเวทคต้องการหาเฟอร์นิเจอร์ ตกแต่งบ้าน"
   },
@@ -1573,6 +1657,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คคุณมิว คุณแพร",
     "notes": "ลูกค้ามาดูไว้ก่อนยังไม่ได้ซื้อบ้าน"
   },
@@ -1586,6 +1671,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 1 ราย",
     "notes": "แบบที่มียังไม่ถูกใจเลยเสนอให้ดูเพิ่มเติมในหน้าเว็บไซต์ค่ะ"
   },
@@ -1600,6 +1686,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24202",
+    "hasDraftOrder": false,
     "customerName": "Khun Michael",
     "notes": "สนใจรูปภาพ"
   },
@@ -1668,6 +1755,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติหญิง 1 ราย",
     "notes": "ต้องการ โต๊ะทานอาหาร [SZ] Lampada Dining Table สี  Walnut  ขนาด 200-240 cm."
   },
@@ -1681,6 +1769,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Seats"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 1 ราย",
     "notes": "หาเก้าอี้ Barstool outdoor แบบหมุนได้"
   },
@@ -1749,6 +1838,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 1 ราย หญิงไทย 1 ราย",
     "notes": "ดูสินค้ารวมๆค่ะ"
   },
@@ -1764,6 +1854,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24146",
+    "hasDraftOrder": false,
     "customerName": "คุณกี้",
     "notes": "ลูกค้ามา SK Home และแวะเข้ามาดูของ สนใจประเภท Outdoor แต่ราคาสูงไป"
   },
@@ -1780,6 +1871,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24142",
+    "hasDraftOrder": false,
     "customerName": "คุณสุนิษา โสพุฒอ่อน",
     "notes": "ส่งวันที่16-06-2026"
   },
@@ -1794,6 +1886,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24139",
+    "hasDraftOrder": false,
     "customerName": "Khun Evgeniia Lamberova",
     "notes": "สนใจ โคมไฟเพดาน [NE] Hengele Ring"
   },
@@ -1807,6 +1900,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Seats"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณวริทธิ์",
     "notes": "ลูกค้าสนใจเฟอร์นิเจอร์ Outdoor ตามแล้วลูกค้าอ่านไลน์ไม่ตอบ ฝากทางเลขาไปด้วยแล้ว"
   },
@@ -1822,6 +1916,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย ลูกค้าไทย 1 ราย",
     "notes": "ดูสินค้าOutdoor"
   },
@@ -1835,6 +1930,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "หมอเต้ย",
     "notes": "ดูพรมสำหรับห้องนอน"
   },
@@ -1849,6 +1945,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณเกริก ลูกค้าคุณบุ๋มบิ๋ม Interior Scale",
     "notes": "ดูโซฟา 3ที่นั่ง และ ดูโต๊ะทานข้าว สินค้าLast chance"
   },
@@ -1862,6 +1959,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Stools"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าอินเดีย 1 ราย",
     "notes": "ลูกค้ามาจาก SK ตามหาสตูลหนัง เราไม่มีขาย"
   },
@@ -1930,6 +2028,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34164",
     "customerName": "Investor Club",
     "notes": "ดูสินค้ารวมๆ เข้าบ้าน Promotion 6.6 MIDYEAR SALE\n // D34164"
   },
@@ -1944,6 +2044,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 1 รายคนไทยหญิง 1 ราย",
     "notes": "ดูสินค้าลดราคา 60%"
   },
@@ -1957,6 +2058,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "chandelier"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 2 ราย",
     "notes": "ดูChandelier สำหรับโถงบันได"
   },
@@ -1972,6 +2074,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34167",
     "customerName": "คุณ วุฒิไกร (คุณบี คุณอิง)",
     "notes": "D34167 สนใจโปรโมชั่น จะกลับมาดูใหม่ ให้ทำใบเสนอราคาไว้ก่อน ลูกค้าแจ้งว่ายังไม่รับ ไม่รีบใช้ และต้องการดูที่อื่นก่อน"
   },
@@ -1985,6 +2089,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2 ราย",
     "notes": "หาโซฟา ขนาดไม่เกิน 2 เมตร  ทำบ้านรีโนเวท"
   },
@@ -1998,6 +2103,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34175",
     "customerName": "คุณชัย",
     "notes": "ทำใบเสนอราคา D34175 ขอกลับไปถามแม่ก่อน เพราะซื้อให้คุณแม่นั่ง คุณแม่ไม่ชอบ"
   },
@@ -2013,6 +2120,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "Order Confirmed",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "ดูสินค้าเป็นไอเดีย ยังไม่ได้สั่งซื้อเร็วๆนี้ค่ะ"
   },
@@ -2027,6 +2135,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Sectional Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติขาย-หญิง 2 ราย",
     "notes": "ต้องการโซฟาขนาด 3 เมตร"
   },
@@ -2040,6 +2149,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Benches"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 1 ราย",
     "notes": "ดูBench สำหรับใส่ปลายเตียง"
   },
@@ -2055,6 +2165,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Night Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าคุณหมิว H Build",
     "notes": "ลูกค้าคุณหมิว H Build ดูสินค้าเข้าบ้าน อยากได้โต๊ะข้างเตียงสีไม้เข้ม โต๊ะทานข้าวดูโต๊ะทานอาหาร [DE] Grazia 238 Dining Table Cross Bronze (Top Natural) เดี๋ยวจะส่งรายการไปที่คุณหมิว"
   },
@@ -2069,6 +2180,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทยชายหญิง 2 ราย",
     "notes": "หาไฟเพดานสำหรับติดบนโต๊ะทานอาหารขนาด 220 cm.  ยังไม่มีแบบที่ถูกใจ"
   },
@@ -2083,6 +2195,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Khun Amy Ou",
     "notes": "แจ้งลูกค้าว่ามีโปรโมชั่น ลูกค้าเลยเข้ามาดูแต่สินค้าที่ลูกค้าสนใจไม่มีโชว์ที่หน้าร้านค่ะ //เช้คสภาพสินค้าและส่งให้ลูกค้า\nตัดสินใจค่ะ"
   },
@@ -2096,6 +2209,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ1ราย",
     "notes": "ลูกค้าหาโคมไฟสาน วัสดุไม้ เสนอโคม Outdoor ไปแต่สินค้าไม่พอ ไม่อยากออเดอรื อยากได้สินค้าเลย"
   },
@@ -2164,6 +2278,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D33967",
     "customerName": "บริษัท คริปโตพร็อพ จำกัด",
     "notes": "ดูสินค้าตามใบเสนอราครา D33967 ลค.พี่บิวค่ะ"
   },
@@ -2178,6 +2294,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Lolita",
     "notes": "ลูกค้าเลือกดูพรมผืนที่ชอบก่อนแล้วจะกลับไปวัดขนาดพรมที่วิลล่าอีกครั้ง ส่งลิ้งค์ตัวที่ลูกค้าเลือกไว้ให้ลูกค้าเรียบร้อยค่ะ"
   },
@@ -2193,6 +2310,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24175 #LL24176",
+    "hasDraftOrder": false,
     "customerName": "Laurent Net",
     "notes": "ลูกค้าใช้โปร 6.6"
   },
@@ -2207,6 +2325,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24184",
+    "hasDraftOrder": false,
     "customerName": "Khun Luke",
     "notes": "ลูกค้ามัดจำค่าสินค้าไว้ก่อน50% เนื่องจากจะรอเลือกสินค้าอื่นๆเพิ่มเติมอยู่"
   },
@@ -2222,6 +2341,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทยหญิง 1 ราย",
     "notes": "ดูสินค้าโปรโมชั่น ลด 60%"
   },
@@ -2236,6 +2356,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "Order Confirmed",
+    "hasDraftOrder": false,
     "customerName": "คุณไมเคิล",
     "notes": "ลูกค้าดูโซฟาเข้าวิลล่า สนใจYI จะกลับไปวัดพื้นที่ว่าพอหรือไม่ จัดส่งขึ้นบันได 1 ชิั้น แจ้งลูกค้าขอดูรูปขนาดบันไดและทางขึ้น ก่อนสั่งซื้อ"
   },
@@ -2249,6 +2370,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย  ชายหญิง  2 ราย",
     "notes": "โต๊ะทานอาหาร ราคาโปรโมชั่นขนาด 200 cm."
   },
@@ -2262,6 +2384,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Arts"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณไอริช",
     "notes": "ต้องการwall art งานไม้ สไตล์ Zen สี smoke oak ใส่วิลล่า"
   },
@@ -2279,6 +2402,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "Order Confirmed",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "ลูกค้าเข้ามาดูสินค้า ก่อนตัดสินใจในเดือนหน้า ก่อนหน้านี้เพื่อนเคยมาซื้อสินค้าที่นี่และมีคอนแทคเซลส์ไว้แล้วแต่ไม่ทราบชื่อ เลยแจ้งให้ติดต่อที่เซลส์คนนั้นอีกรอบค่ะ"
   },
@@ -2295,6 +2419,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dresser"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 1 ราย",
     "notes": "ลูกค้าดูเตียงบุหนังทรงหลุย และโต๊ะทานข้าว สินค้าไม่ใช่สไตล์ที่ลค.ต้องการ"
   },
@@ -2309,6 +2434,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Single Seat Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณ Luke",
     "notes": "สนใจโซฟา [TG] Nanna 105 1S Sofa Beige\nให้ส่งภาพและวีดีโอสินค้าไปให้ค่ะ // ลค.พี่สมายด์"
   },
@@ -2323,6 +2449,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24199",
+    "hasDraftOrder": false,
     "customerName": "Nas kopsias",
     "notes": "พรมลด 60%"
   },
@@ -2336,6 +2463,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 2 ราย",
     "notes": "ดูพรมแบบตัดได้ใช้ในoffice"
   },
@@ -2349,6 +2477,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณกุ้ง",
     "notes": "หาพรม  ลด 60%"
   },
@@ -2363,6 +2492,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24201",
+    "hasDraftOrder": false,
     "customerName": "Ioulia Khadiyev",
     "notes": "พรม [GM] Saanvi D160 Silver"
   },
@@ -2377,6 +2507,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24203",
+    "hasDraftOrder": false,
     "customerName": "Jenny Bohlsen",
     "notes": "พรม [GM] Joshua 160x230 Multi (Printed)"
   },
@@ -2392,6 +2523,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย1ราย ลูกค้าต่างชาติ2ราย",
     "notes": "เดินดูรวมๆ"
   },
@@ -2405,6 +2537,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "บริษัท อาซาเลีย เมาเทิน วิลล่า จำกัด",
     "notes": "ดูพรมลดราคา 60% ค่ะ"
   },
@@ -2419,6 +2552,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "ดูไฟChandelier"
   },
@@ -2442,6 +2576,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24206",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าProject",
     "notes": "61คอนสตรัคชั่น เข้ามาดูสินค้าจริง โครการ The Regency Villas"
   },
@@ -2457,6 +2592,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34277",
     "customerName": "ต่างชาติชาย 1 ราย",
     "notes": "D34277 สนใจโต๊ะทาอาหาร เก้าอี้ทานอาหารชั้นวางทีวี"
   },
@@ -2472,6 +2609,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bed"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34128",
     "customerName": "Luke",
     "notes": "ลูกค้ามาดูสินค้าเพิ่ม D34128"
   },
@@ -2540,6 +2679,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Rahul",
     "notes": "ต้องการให้เสนอสินค้าบ้านทั้งหลัง โครงการ Anchan ใช้สินค้าเดือนตุลาคม"
   },
@@ -2553,6 +2693,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณนิว (บริษัท ไทย ไวแมน จำกัด)",
     "notes": "ลูกค้าดูพรมไปใส่วิลล่า กมลา"
   },
@@ -2621,6 +2762,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณบอล",
     "notes": "หาสินค้าไปประกอบถ่ายภาพยนตร์"
   },
@@ -2636,6 +2778,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 1 ราย",
     "notes": "โต๊ะทานอาหาร [AW] Gemma 180 Dining Table Natural Oak (Beige Sintered Stone Top)"
   },
@@ -2651,6 +2794,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติหญิง 2 ราย",
     "notes": "ต้องการ โต๊ะทานอาหาร [SZ] Lampada 120 Dining Table Walnut"
   },
@@ -2669,6 +2813,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "Order Confirmed",
+    "hasDraftOrder": true,
+    "draftOrder": "D34292",
     "customerName": "คุณจูน Andaman Dragon",
     "notes": "ทำใบเสนอราคา D34292 จะเข้ามาดูอีกทีวันจันทร์พร้อมชำระเงิน"
   },
@@ -2684,6 +2830,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Coffee Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณรัตน์ โอสถานุเคราะห์",
     "notes": "ลูกค้าดูสินค้ารวมๆ / พี่ปุ๋ยดูแล"
   },
@@ -2697,6 +2844,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "TV Stands"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทยหญิง 1 ราย",
     "notes": "ชั้นวางทีวี ขนาด 2 เมตร"
   },
@@ -2710,6 +2858,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชายหญิง 2 ราย",
     "notes": "ต้องการพรมขนาด 160x250 เสนอไทีขนาดมีลูกค้ายังไม่สนใจค่ะ"
   },
@@ -2723,6 +2872,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bar Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 1  ราย คนไทยหญิง 1 ราย",
     "notes": "หาเก้าอี้บาร์ลด 60%"
   },
@@ -2737,6 +2887,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34294",
     "customerName": "คุณพรชัย อ่าวนางบุรี รีสอร์ท",
     "notes": "ลูกค้าสนใจพวกโต๊ะคาเฟ่ใส่ร้านกาแฟให้ลูกชาย D34294"
   },
@@ -2750,6 +2902,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย (แม่กับลูก)",
     "notes": "ลูกค้าหาพรมใส่ห้องลูก แต่ยังไม่ถูกใจ"
   },
@@ -2763,6 +2916,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณฟอยด์",
     "notes": "ลูกค้านสนใจพรมรุ่น Bakke แต่ไม่มีไซส์ จะมีของIncomingเข้ามา ลูกค้าจะกลับมาดูอีกครั้งตอนมีพรมใหม่เข้ามา (จะดูแบบอื่นด้วย ไม่รีบใช้สินค้าบ้านยังไม่เสร็จ)"
   },
@@ -2777,6 +2931,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Khun Alexander",
     "notes": "ต้องการ เก้าอี้ทานอาหาร [SW] Lolan Dining Chair  ไม้สีเข้ม"
   },
@@ -2791,6 +2946,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Coffee Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 1 ราย หญิงไทย 1 ราย",
     "notes": "ต้องการพรมขนาด 200x250 หรือ 250x300  แนะนำขนาดที่มีลค.ขอกลับไปดูเพิ่มเติมในเว็บไซต์"
   },
@@ -2805,6 +2961,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24225",
+    "hasDraftOrder": false,
     "customerName": "คุณจอย สุธาศินี เซ็นเนอร์",
     "notes": "ลูกค้าเก่า ลูกค้าดูไว้เมื่อต้นสัปดาห์"
   },
@@ -2818,6 +2975,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "ต้องการโต๊ะ outdoor ลาย marble สีขาว เสนอที่มีไปไม่ชอบ"
   },
@@ -2886,6 +3044,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทยชายหญิง 2 ราย",
     "notes": "หาพัดลมไม้เพดาน"
   },
@@ -2900,6 +3059,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24237",
+    "hasDraftOrder": false,
     "customerName": "คุณวุฒิ",
     "notes": "ลูกค้านัดไว้มาดู Side table ที่ดูอยู่ค่ะ"
   },
@@ -2913,6 +3073,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Side Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "ดูสำหรับเช่า ราคาแพงเกิน ไปอิเกีย"
   },
@@ -2926,6 +3087,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณบีม คุณไบรอัน",
     "notes": "ลูกค้าเก่าแวะมาดูของ"
   },
@@ -2940,6 +3102,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "Draft Created",
     "customerName": "Michaela Michalik",
     "notes": "ลูกค้าเป็นดีไซเนอร์ รอชื่อบริษัทลูกค้าเพื่อทำใบเสนอราคาเก้าอี่ที่ดูไว้ ตามไปแล้วไม่อ่านข้อความแล้ว"
   },
@@ -3008,6 +3172,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ ชายหญิง  2 ราน",
     "notes": "ลูกค้าต้องการให้จัดส่งสินค้าไปรัสเซียค่ะ"
   },
@@ -3022,6 +3187,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "chandelier"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "สนใจไฟและถามเรื่องค่าติดตั้ง"
   },
@@ -3037,6 +3203,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24238",
+    "hasDraftOrder": false,
     "customerName": "Andaman Asset",
     "notes": "สั่งซื้อสำกรับโครงการThe Trinity Village V4"
   },
@@ -3050,6 +3217,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Khun Alexander",
     "notes": "พรม [JV] Flint 160x230 Ivory"
   },
@@ -3063,6 +3231,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Natalia Cheburkova",
     "notes": "ลูกค้าเก่ามาดู Armchair เอาไปใส่ห้องนอน ถ่ายรูปกับวีดีโอไว้แล้ว แล้วจะตัดสินใจอีกครั้ง"
   },
@@ -3079,6 +3248,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Night Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "ดูสินค้าเข้าบ้าน ยังไม่รีบใช้"
   },
@@ -3092,6 +3262,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Table Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 1 ราย",
     "notes": "สนใจ  โคมไฟตั้งโต๊ะ [MD] Bogart Table Lamp Matt Black"
   },
@@ -3105,6 +3276,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "TV Stands"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34343",
     "customerName": "Elyor",
     "notes": "D34343 ลูกค้าเก่ามาดู TV stand ต้องการความยาวมากกว่า200 สีไม้เข้ม ถ่ายรูป Lampada ไป แต่ขนาดเล็กกว่าที่ต้องการ"
   },
@@ -3119,6 +3292,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Side Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าคนไทย 5 ราย",
     "notes": "ดูสินค้ารวมๆ ค่ะ"
   },
@@ -3132,6 +3306,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "chandelier"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย",
     "notes": "ลูกค้าดูไฟตามแบบ3Dเท่านั้น เป็นบ้านRenovate ซอยวัดฉลอง โครงการสีวลีแลนด์แอนด์เฮ้าส์"
   },
@@ -3145,6 +3320,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณอ้น  D34353",
     "notes": "สนใจโคมไฟเพดาน [SN] Shimmer ค่ะ"
   },
@@ -3159,6 +3335,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "บริษษัททริปเปิ้ลพีมาร์ท (ลูกค้าบิว)",
     "notes": "ลูกค้าดูไฟผนังและเพดาน เลือกสินค้าไปแล้ว ส่งข้อมูลต่อให้บิวเรียบร้อยค่ะ"
   },
@@ -3227,6 +3404,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Irina Mikhnova",
     "notes": "ลูกค้าเดินดูรวมๆถ่ายวีดีโอไป. เลยขอคอนแทคไว้และส่งลิงค์หน้าเว็บไซต์ให้ค่ะ"
   },
@@ -3242,6 +3420,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "Order Confirmed",
+    "hasDraftOrder": false,
     "customerName": "คุณจิ๊บ คุณนัน Villa Montana Hill",
     "notes": "ลูกค้ามาดูสินค้าที่สั่งซื้อไว้ค่ะ"
   },
@@ -3256,6 +3435,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Arts"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณLuke Anderson",
     "notes": "ลูกค้าสมายเข้ามาดูที่นอน"
   },
@@ -3273,6 +3453,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24269",
+    "hasDraftOrder": false,
     "customerName": "คุณ Robert Pettit",
     "notes": "สนใจเตียง ม้านั่ง พรมและหมอนค่ะ"
   },
@@ -3287,6 +3468,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24271",
+    "hasDraftOrder": false,
     "customerName": "K.Max",
     "notes": "ลูกค้าต้องการเข้ามาซื้อ coffee table แทนตัวเก่าที่ทำแตกค่ะ"
   },
@@ -3304,6 +3486,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24270",
+    "hasDraftOrder": false,
     "customerName": "คุณ บอล",
     "notes": "สนใจเบาะนั่ง [SZ] Miriam  พรม โคมไฟตั้งพื้น โคมไฟตั้งโต๊ะ ของตกแต่ง"
   },
@@ -3318,6 +3501,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทยหญิง  2 ราย",
     "notes": "ดูโซฟา รวมๆค่ะ"
   },
@@ -3335,6 +3519,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "ดูสินค้าเป็นไอเดีย ยังไม่รีบใช้"
   },
@@ -3350,6 +3535,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณ Amy Frizelle",
     "notes": "พรม [RR] Finera 240x300 (8x10 ft.) Natural ตัวโชว์"
   },
@@ -3363,6 +3549,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทยชาย 2 ราย",
     "notes": "สนใจเก้าอี้พักผ่อน [HO] Lumina Lounge Chair Blue"
   },
@@ -3378,6 +3565,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทยหญิง 1 รายต่างชาติชาย 1 ราย",
     "notes": "ดู โซฟาและรูปภาพรวมๆค่ะ"
   },
@@ -3391,6 +3579,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bed"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณElena",
     "notes": "สนใจเตียง พรม และฟูกค่ะ จัดส่งคอนโด ส่งรายละเอียดให้ลูกค้าแล้วรอลูกค้าแจ้งกลับค่ะ"
   },
@@ -3406,6 +3595,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Night Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 2 ราย",
     "notes": "ดูสินค้ารวมๆ"
   },
@@ -3421,6 +3611,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24279",
+    "hasDraftOrder": false,
     "customerName": "ญาดาหลง",
     "notes": "ส่ง19-06-2026 Villa Oliver ป่าหล่าย"
   },
@@ -3435,6 +3626,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ชาวรัสเซีย 2 ราย",
     "notes": "สอบถามโคมไฟ และ เก้าอี้ทานข้าว"
   },
@@ -3448,6 +3640,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Seats"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "ดูLounge Chair WV"
   },
@@ -3463,6 +3656,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Arts"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ2ราย",
     "notes": "ลูกค้าเดินดูรวมๆ ไม่ได้สอบถามสินค้าชิ้นไหนเป็นพิเศษ"
   },
@@ -3477,6 +3671,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "ลูกค้าต้องการWall lampแต่มีสต็อกเหลือแค่ 1 ชิ้น"
   },
@@ -3490,6 +3685,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณแบงค์",
     "notes": "ลูกค้าสนใจพรม Ginger จะกลับเข้ามาดูสินค้าอีกครั้งช่วงบบ่าย 3 โมง"
   },
@@ -3504,6 +3700,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24283",
+    "hasDraftOrder": false,
     "customerName": "Khun Oksana",
     "notes": "ถ้วยชาม [PP] Ariana Coffee Cup Saucer Beige White"
   },
@@ -3518,6 +3715,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณ Yupadee",
     "notes": "สนใจพรมวางในห้องนั่งเล่นและห้องนอนค่ะ  สนใจผ้าม่านติดตั้งในห้องนั่งเล่นค่ะ"
   },
@@ -3533,6 +3731,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "ดูรวมๆ ถามราคาพรมAT"
   },
@@ -3546,6 +3745,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "chandelier"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Jane Evgania",
     "notes": "ลูกค้าตามหาไฟแชนเดอเรีย ตามภาพ สีทอง"
   },
@@ -3562,6 +3762,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Sideboards"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 3 ราย",
     "notes": "ลูกค้าดูสินค้ารวมๆ"
   },
@@ -3579,6 +3780,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Side Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34427",
     "customerName": "Khun Vladimir",
     "notes": "D34427"
   },
@@ -3592,6 +3795,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณ Jenny McLean",
     "notes": "สนใจโต๊ะทำงาน [SZ] Cocoon W60 Desk อยากได้เป็นสี Glossy"
   },
@@ -3605,6 +3809,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Barbara Scalzi",
     "notes": "สนใจพรม วางห้องนั่งเล่น"
   },
@@ -3621,6 +3826,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 2 ราย",
     "notes": "ดูสินค้าเข้าบ้าน หน้างานอยู่กระบี่ จะดูพรมเพิ่มเติมในเวปไซต์"
   },
@@ -3635,6 +3841,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Night Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 3 ราย",
     "notes": "สอบถามว่าจัดส่งรัสเซียมั้ย แจ้งแล้วว่าไม่มีบริการส่งข้ามประเทศ"
   },
@@ -3649,6 +3856,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24306",
+    "hasDraftOrder": false,
     "customerName": "คุณอีฟ",
     "notes": "ลูกค้าเก่า มาซื้อโคมไฟไปตกแต่งโรงแรม"
   },
@@ -3663,6 +3871,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Night Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34397",
     "customerName": "คุณElena",
     "notes": "D34397 มาเช็คเตียงอีกครั้งเพราะที่โครงการทำช่องปลั๊กไว้180Cm. จะต้องแก้ไขปลั๊กอีก30cm. และให้เสนอNight table เพิ่ม"
   },
@@ -3676,6 +3886,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Arts"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชายหญิง  2 ราย",
     "notes": "สนใจภาพวาดและดูสินค้ารวมๆค่ะมา Outlet และแวะเข้ามาดูค่ะ"
   },
@@ -3691,6 +3902,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 2 ราย คุณตุ๊ก",
     "notes": "ลูกค้ามาจากSK ดูSofa cubo ต่อเป็นL-shape ให้ส่งLink สินค้า กลับไปวัดที่บ้านก่อน"
   },
@@ -3705,6 +3917,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Floor Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติหญิง 2 ราน",
     "notes": "ดูสินค้ารวมๆค่ะลูกค้าพี่บิว"
   },
@@ -3718,6 +3931,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 1 ราน",
     "notes": "สนใจพรมดูรวมๆค่ะ"
   },
@@ -3734,6 +3948,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณเนส",
     "notes": "ลูกค้ามา SK Home แล้วแวะมาดู ลูกค้าทำพลูวิลล่าขายแถวพลุจำปา ต้องการ Custom สินค้า และเปลี่ยนสี มีเวลา 3 เดือน ให้ถามจัดซื้อว่าออเดอร์ได้ไหม"
   },
@@ -3748,6 +3963,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34479",
     "customerName": "คุณยูกิ",
     "notes": "น้องสาวแนะนำให้มาที่ร้าน ลูกค้าให้ทำใบเสนอราคา D34479"
   },
@@ -3762,6 +3979,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24319",
+    "hasDraftOrder": false,
     "customerName": "คุณ Jenny Bohlsen",
     "notes": "สนใจโคมไฟตั้งพื้นค่ะ"
   },
@@ -3775,6 +3993,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Decor Accessories"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ2ราย",
     "notes": "ลูกค้ามาเอ้าท์เล็ท เลยแวะมาเดินดูเล่น ไม่ได้ต้องการจะซื้ออะไรเป็นพิเศษ มีถามราคา Wall art 1 ชิ้น แต่ไม่ได้สนใจมาก"
   },
@@ -3789,6 +4008,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณทัช",
     "notes": "ลูกค้าเก่า ถามหาโปรลดเยอะๆ ไม่ได้รีบใช้สินค้า ทำบ้านสำหรับเช่าที่ป่าคลอก"
   },
@@ -3803,6 +4023,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24321",
+    "hasDraftOrder": false,
     "customerName": "Khun Alexander",
     "notes": "สนใจเก้าอี้ทานอาหารค่ะ"
   },
@@ -3817,6 +4038,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24323",
+    "hasDraftOrder": false,
     "customerName": "Khun Evgeniia Lamberova",
     "notes": "สนใจโคมไฟติดผนังค่ะ"
   },
@@ -3832,6 +4054,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24327",
+    "hasDraftOrder": true,
+    "draftOrder": "D34456",
     "customerName": "Borouski Viachaslau",
     "notes": "D34456 เข้ามาจ่ายเงิน"
   },
@@ -3847,6 +4071,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณโอ โบ๊ทพัฒนา",
     "notes": "ลูกค้าเก่า เข้ามาดูสินค้า\n-โครงการLa Devina (ฺBuilt-in เสร็จอีก2อาทิตย์หน้า)\n-Sea theatre Kata (นัดเข้าไปดูหน้างาน Sea theatre kataกับมา วันที่30หรือ1/7/2026)"
   },
@@ -3860,6 +4085,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 1 ราย",
     "notes": "ลูกค้าดูสินค้าให้เจ้านาย พรมสำหรับปูใต้เตียงKing size ขนาด 160x230 สีออกฟ้า ออกเทา เสนอ Colten Blue ของ JZ ราคา 5,500 บาท ลด5% และ Obi ราคาLast Chance 2,950 บาทลูกค้าบอกแพงไปค่ะ"
   },
@@ -3873,6 +4099,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้ารัสเซีย 1 ราย",
     "notes": "cotto แนะนำให้มาดูไฟติดผนังที่เรา แต่ลูกค้าเข้าใจว่าไฟที่โชว์ที่cottoคือซื้อมาจากเรา และลูกค้าต้องการตามแบบที่ต้องการเลยไม่เอาแบบอื่น แจ้งลูกค้าแล้วว่าเรามีแบบใกล้เคียง แบบที่เหมือนเลยไม่มีค่ะ"
   },
@@ -3887,6 +4114,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24361",
+    "hasDraftOrder": false,
     "customerName": "มาลิน ฟิล์ม",
     "notes": "พี่น้องช่วยรับลูกค้ามาลินฟิล์มของน้องบี และบิวรับต่อ ลูกค้าซื้อพรม 1 ผืนรับกลับเลย ลูกค้าจะเข้ามารับใบกำกับภาษีวันจันทร์29-06-2026"
   },
@@ -3956,6 +4184,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24322",
+    "hasDraftOrder": true,
+    "draftOrder": "D34545",
     "customerName": "Khun Ekaterina Mia และต่างชาติชายหญิง 2 ราย",
     "notes": "ดูสินค้ารวมๆ สนใจโต๊ะทานอาหาร [SZ] Lampada  300 สนใจพรม [JV] Milton 190x290 Ivory พรม [JZ] Blaze 200x290 Natural (Machine Woven) เช็คสินค้าเข้าใจเสนอแทน ที่ลูกค้าสนใจเป็นตัวโชว์ตัวสุดท้ายค่ะ D34545"
   },
@@ -3969,6 +4199,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 1 ราย คุณบั๋น",
     "notes": "ลูกค้าดูโต๊ะทำงานAW จัดส่งกระบี่ อ.อ่สวลึก รอคอนเฟิร์มกลับค่ะ"
   },
@@ -3984,6 +4215,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Seats"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 3 ราย คุณจุ๊",
     "notes": "ดูสินค้ารวมๆ"
   },
@@ -4000,6 +4232,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "ดูสินค้าOutdoor เอาไปใส่ที่บ้านชอบตัวCO ถ่ายรูปส่งให้ภรรยาดูแล้ว หากสนใจจะเข้ามาอีกครั้ง"
   },
@@ -4014,6 +4247,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24366",
+    "hasDraftOrder": false,
     "customerName": "คุณElena",
     "notes": "เข้ามาดูโซข้างตามนัด สั่งซื้อและรับกลับจากหน้าPKSRเลย"
   },
@@ -4028,6 +4262,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณอุ๊ Bamboo Forest Condominium",
     "notes": "ลูกค้าที่ดูแลอยู่มาดูไฟตามแบบ และพรมเพื่อเปรียบเทียบกับ Chic (สั่งตัดได้แต่ลูกค้าแจ้งว่าแบบให้เลือกน้อย)"
   },
@@ -4043,6 +4278,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "ดูสินค้า รวมๆ"
   },
@@ -4056,6 +4292,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "TV Stands"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "ลูกค้าหาTV Stand ขนาด 200-300cm. ชอบpergola แต่สั้นไป ชอบBaxterถ่ายรูปไปถามภรรยาก่อน"
   },
@@ -4069,6 +4306,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bed"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 1 ราย",
     "notes": "สนใจ เตียง [WS] Vanto Bed King Size Pearl White    อยากได้สีอื่นค่ะ"
   },
@@ -4137,6 +4375,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Khun Song",
     "notes": "ลูกค้ามาดูสินค้าในโปรเจคที่นำเสนอไป"
   },
@@ -4151,6 +4390,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24378",
+    "hasDraftOrder": false,
     "customerName": "phil Vincent",
     "notes": "ลูกค้าตั้งใจมาดูพรมโดยเฉพาะ"
   },
@@ -4165,6 +4405,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24384",
+    "hasDraftOrder": false,
     "customerName": "Khun Jenny Bohlsen",
     "notes": "สนใจเก้าอี้เคาน์เตอร์ [SW] Madera Counter Stool SH65 Grey (Black Leg)"
   },
@@ -4179,6 +4420,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 1 ราย",
     "notes": "โต๊ะทานอาหาร [SZ] Grove Extension 180-220 Dining Table Brown และ เก้าอี้ทานอาหาร [TO] Half Round Dining Chair Rusty Red (Leg Black)"
   },
@@ -4192,6 +4434,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชายหญิง 2 ราย",
     "notes": "สนใจโคมไฟเพดาน ดูสินค้ารวมๆค่ะ"
   },
@@ -4205,6 +4448,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bar Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ2ราย",
     "notes": "ลูกค้าเก่ามาเดินดู Barstool ถ่ายรูปไปให้แม่ แม่เป็นคนตัดสินใจ"
   },
@@ -4218,6 +4462,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 1 ราย",
     "notes": "ลูกค้าเก่า เดินมาจาก Cotto มาแวะดูเก้าอี้ที่เข้าใหม่ แต่ยังไม่ถูกใจ"
   },
@@ -4231,6 +4476,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชายหญิง 2 ราย",
     "notes": "สนใจโคมไฟเพดานดูสินค้ารวมๆ แจ้งให้ลูกค้าดูเพิ่มเติมในเว็บไซต์"
   },
@@ -4245,6 +4491,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "ชอบLounge Chair Conlad และจะหาโซฟาที่เข้ากัน เดี๋ยวจะมาดูอีกรอบ"
   },
@@ -4259,6 +4506,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Khun Alex",
     "notes": "ลูกค้าแวะดูพรมและ Sun bed แจ้งว่าถ่ายรูปไปให้ลูกชายเลือก ลูกเป็นคนตัดสินใจ แอดไลน์และส่งลิ้งค์หน้าเว็บไว้ให้เรียบร้อยค่ะ"
   },
@@ -4272,6 +4520,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าน้องบี",
     "notes": "ดูโต๊ะทานข้าว เข้ามาไม่ได้พูดอะไร แค่ถ่ายรูปแล้วออกไป"
   },
@@ -4287,6 +4536,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24395",
+    "hasDraftOrder": false,
     "customerName": "Khun Andre",
     "notes": "ลูกค้าเก่าแวะมาซื้อสินค้า"
   },
@@ -4303,6 +4553,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Coffee Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 1 ราย ลูกค้าต่างชาติ 1 ราย",
     "notes": "ดูสินค้าเข้าบ้านปรึกษาดีไซน์เนอร์ก่อน"
   },
@@ -4317,6 +4568,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Sideboards"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 3 ราย",
     "notes": "ลูกค้าดูของตกแต่ง และไซด์บอร์ด ดูรวมๆ"
   },
@@ -4333,6 +4585,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Sideboards"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 3 ราย  คนไทยหญิง  1 ราน",
     "notes": "ดูสินค้ารวมๆ  ต้องการให้จัดส่งเกาะสมุยค่ะ"
   },
@@ -4346,6 +4599,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bed"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "ลูกค้าต้องการโซฟาเบด สำหรับคิงไซส์ สามารถใช้นอนได้"
   },
@@ -4414,6 +4668,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณซาร่า",
     "notes": "มีเพื่อนแนะนำมา ดูสินค้าเข้าบ้าน บ้านยังไม่เสร็จค่ะ แอดไลน์ลูกค้าเพื่อตามต่อเรียบร้อยค่ะ"
   },
@@ -4428,6 +4683,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Khun Michael",
     "notes": "สนใจ พรม [JV] Glam 160x230 White. และรูปภาพ"
   },
@@ -4442,6 +4698,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24410",
+    "hasDraftOrder": false,
     "customerName": "คุณบอล มาลิน ฟิมล์",
     "notes": "พรม [JZ] Dags 140x200 Right Multi (Machine Woven)"
   },
@@ -4458,6 +4715,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 1 ราย",
     "notes": "ลูกค้ามาดูของเข้าบ้าน บ้านเสร็จกลางเดือนนี้ \n-อยากได้โต๊ะไม่Matt ทำความสะอาดง่าย ลูกเล็ก นั่งได้ 4 คน 200-220cm. ไม่เอาหินอ่อนจริง แนะนำ Gemma และ Grazia\n-อยากได้ไฟบนโต๊ะอาหาร แนะนำเลือกแบบโต๊ะก่อน\n-อยากได้โซฟาแบบที่ไม่เลอะ แนะนำแบบที่ถอดcoverได้\n-อยากได้ม่าน ข้างนอกแบบม้วน ข้างในเป็นผ้าSheer แต่ไม่รู้ว่าตรงประตูทางเข้าออกต้องทำยังไง เลยแนะนำ ทำม่านม้วนเป็น2บานแทน และลูกค้าทำบ้านแบบสมาร์ทโฮม ต้องการใช้มอร์เตอร์แบบที่ลิ้งค์กับแอปได้ เลยแนะนำลค.ใช้แบบแมนนวลกดด้วยรีโมท แยกสายออกมาดีกว่า"
   },
@@ -4472,6 +4730,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24403",
+    "hasDraftOrder": false,
     "customerName": "เพื่อนคุณYulia",
     "notes": "ซื้อแจกันใช้CN"
   },
@@ -4485,6 +4744,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Khun Michael",
     "notes": "สนใจพรม JZ แต่สต๊อคไม่มีขนาดที่ต้องการลูกค้ารับใช้สินค้า  เสนอสินค้าที่กำลังจะเข้ามาภายในเดือนนี้ค่ะ"
   },
@@ -4499,6 +4759,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติหญิงชาย 2 ราย",
     "notes": "ดูโซฟารวมๆค่ะ แนะนำให้ลูกค้าดูในเว็บไซต์เพิ่มเติม"
   },
@@ -4512,6 +4773,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bed"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 1 ราย",
     "notes": "ดูเตียงนอนรวมๆ"
   },
@@ -4525,6 +4787,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ",
     "notes": "ลูกค้าเห็นไฟจากCottoแล้วชอบ ทางCottoแนะนำให้มาที่เราค่ะ แต่เราไม่มีแบบที่ลูกค้าต้องการ"
   },
@@ -4538,6 +4801,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "TV Stands"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณชัญญา",
     "notes": "ต้องการนำไปวางทีวีไซส์ 180 ดูLampada และ Prego กลับไปเช็คไซส์แล้วจะแจ้งกลับในไลน์ค่ะ"
   },
@@ -4552,6 +4816,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "TV Stands"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติชาย 1 ราย",
     "notes": "เดินดูเปรียบเทียบราคา"
   },
@@ -4565,6 +4830,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณพัด ต่างชาติชาย 1 ราย",
     "notes": "สนใจสั่งทำ พรม [JV] JH D200 Ginger จำนวน 15 ชิ้น  และสนใจโคมไฟตั้งพื้นค่ะ"
   },
@@ -4579,6 +4845,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Arts"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณSteve G",
     "notes": "ดูของตกแต่งเข้าVilla อยากได้Side Table เลย 2ตัว เรามีแค่ 1 ตัว ลูกค้าขอตัดสินใจ"
   },
@@ -4596,6 +4863,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24422",
+    "hasDraftOrder": true,
+    "draftOrder": "D34646",
     "customerName": "คุณSonia JC Phuket",
     "notes": "D34646 เลือกเก้าอี้ โต๊ะข้าง Lounge Chair จะกลับไปเช็คottoman2ตัวแล้วจะคอนเฟิร์มออเดอร์มา"
   },
@@ -4609,6 +4878,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 2 ราย ต่างชาติ1ราย",
     "notes": "ดูโต๊ะทำงาน ขอขนาดไปแล้ว ยังไม่ตัดสินใจ ลค.มาจากSK Home"
   },
@@ -4625,6 +4895,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34650",
     "customerName": "ลูกค้าต่างชาติ 2 ราย Khun Colin Beaton",
     "notes": "บ้านกำลังสร้างจะใช้ของเดือนตุลาคม (D34650)"
   },
@@ -4640,6 +4912,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Side Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติหญิง 1 ราย",
     "notes": "สนใจ โต๊ะข้าง [ME] Maestro Side Table Coffee Brown อยากได้ท๊อปเป็นทรงกลม เสนอรุ่นที่มีไม่ชอบสีต้องการเป็นหินสีน้ำตาล"
   },
@@ -4654,6 +4927,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bar Table"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ผู้ชายคนไทย 1 ราย",
     "notes": "สนใจ โต๊ะบาร์ [LY] Carin Bar Table Black อยากได้รวมเก้าอี้บาร์ด้วยราคาไม่เกิน 10,000 บาท"
   },
@@ -4722,6 +4996,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทยหญิง  2 ราย",
     "notes": "ดูสินค้ารวมๆ"
   },
@@ -4735,6 +5010,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "พร้อมพันเพลส",
     "notes": "หาโซฟา L Shape ขนาดไม่เกิน240"
   },
@@ -4749,6 +5025,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ3ราย",
     "notes": "ลูกค้าดูSofa Stow ดูผ้าม่าน บ้านBotanica เสร็จช่วงตุลา เคยคุยกับพี่น้อง"
   },
@@ -4762,6 +5039,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Seats"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ1ราย",
     "notes": "ลูกค้าตั้งใจมาดู Senbed แต่ยังไม่ถูกใจ"
   },
@@ -4778,6 +5056,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24433",
+    "hasDraftOrder": false,
     "customerName": "คุณแมว ลูกค้าฟอร์มดีไซน์",
     "notes": "เปิดออเดอร์โครงการบ้านตัวอย่างTropical Serenity Villa"
   },
@@ -4791,6 +5070,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D24660",
     "customerName": "Khun Michael",
     "notes": "สนใจพรม JZ. เลือกสินค้าที่กำลังจะเข้ามาสิ้นเดือนค่ะ // D24660"
   },
@@ -4805,6 +5086,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณ Pom คนไทย 1 ราย",
     "notes": "สนใจโคมไฟผนังและ โต๊ะทานอาหาร [EU] Dionne D150 Dining Table Natural"
   },
@@ -4822,6 +5104,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24440",
+    "hasDraftOrder": false,
     "customerName": "คุณจอม คุณ Edward",
     "notes": "ลูกค้าเก่ามาซท้อสินค้า"
   },
@@ -4839,6 +5122,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24434",
+    "hasDraftOrder": false,
     "customerName": "คุณ Jane",
     "notes": "ลูกค้านัดไว้มาดูของและชำระเงิน"
   },
@@ -4853,6 +5137,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34680",
     "customerName": "คุณบุ๋ม",
     "notes": "D34680 ดูโต๊ะ และเก้าอี้ทานข้าวเข้าThe Aqua"
   },
@@ -4867,6 +5153,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 1 ราย",
     "notes": "ลูกค้าเข้าผิดนึกว่าเป็นร้าน Design Delivery ลูกค้าอยากได้โซฟาหนังและเดียง เห็นโฆณา Design Delivery ใน Tiktok เลยนำเสนอสินค้าภายในร้านให้ลูกค้า"
   },
@@ -4881,6 +5168,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24449",
+    "hasDraftOrder": false,
     "customerName": "คุณ Yana Sun Breeze",
     "notes": "พรมRubik"
   },
@@ -4895,6 +5183,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24438",
+    "hasDraftOrder": false,
     "customerName": "คุณแมว",
     "notes": "จ่ายค่าพรมเพิ่มเติม"
   },
@@ -4912,6 +5201,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34689",
     "customerName": "Khun Aaron",
     "notes": "ลูกค้า SK แวะเข้ามาดูสินค้า ขอกลับไปวัดพื้นที่และคุยกับภรรยาก่อน ทำใบเสนอราคา D34689 ใช้สินค้าช่วงสิงหา"
   },
@@ -4926,6 +5217,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24450",
+    "hasDraftOrder": false,
     "customerName": "คุณปาณิศา อารีรอบ",
     "notes": "สนใจโคมไฟเพดาน ติดตั้งบนโตีะทานอาหารค่ ะ"
   },
@@ -4941,6 +5233,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24451",
+    "hasDraftOrder": false,
     "customerName": "Khun Michael",
     "notes": "สนใจพรมและรูปภาพ ลูกค้าต้องการให้ติดตั้งรูปภาพด้วยค่ะ"
   },
@@ -4955,6 +5248,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24453",
+    "hasDraftOrder": true,
+    "draftOrder": "D33287",
     "customerName": "คุณหนุ่ย",
     "notes": "สั่งซื้อไฟตามใบเสนอราคาD33287 At Siri สเปคแบบ"
   },
@@ -5023,6 +5318,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณนนท์",
     "notes": "ลูกค้ายังไม่ได้สร้างบ้านแต่มาดูของไว้ก่อนดูรูปแบบเฟอร์นิเจอร์"
   },
@@ -5036,6 +5332,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 1 ราย คนไทยหญิง 1 ราย",
     "notes": "หาไฟเพดาน ทรงสีเลี่ยมผืนผ้าวัสดุ สีทอง +หินอ่อน"
   },
@@ -5049,6 +5346,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Sideboards"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณ Didier ลูกค้าบิว",
     "notes": "ลูกค้าคุยกับบิวไว้ มาดูดูสินค้าหน้าร้าน แล้วให้บิวติดต่อเรื่องส่วนลด"
   },
@@ -5062,6 +5360,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ1ราย ลูกค้าบิว",
     "notes": "ลูกค้าเป็นดีไซเนอร์มาดูพรม"
   },
@@ -5075,6 +5374,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Table Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 2 ราย",
     "notes": "หาไฟตั้งโต๊ะขนาดเล็ก"
   },
@@ -5143,6 +5443,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ2ราย",
     "notes": "เดินดูผ่านๆไม่ได้สนใจอะไรเป็นพิเศษ"
   },
@@ -5157,6 +5458,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชายหญิง 2 ราย",
     "notes": "พรม [GM] Saanvi 140x200 Beige (Rabbit Shaggy)"
   },
@@ -5170,6 +5472,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bed"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "อยากได้เตียงไม้ ไม่ใช่แบบModern"
   },
@@ -5184,6 +5487,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติหญิง 1 ราย",
     "notes": "สนใจ โต๊ะทานอาหาร [SZ] Lampada 140 Dining Table Walnut และ เก้าอี้ทานอาหาร [TG] Huldra Dining Chair Olive (Walnut Legs)"
   },
@@ -5200,6 +5504,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณแจ้  คนไทย 2  ราน",
     "notes": "ลูกค้าดูสินค้ารวมๆ  ใช้สินค้าเดือนตุลาคม"
   },
@@ -5213,6 +5518,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 1 ราย",
     "notes": "ลูกค้าดูโต๊ะกลม มีแบบหมุนได้ตรงกลาง"
   },
@@ -5226,6 +5532,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Love Seat Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณเฟิร์น คุณNigle",
     "notes": "ดูโซฟาสำหรับบ้านYamu ที่จะทำหลังใหม่"
   },
@@ -5239,6 +5546,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณTatiana และคุณ Shamil",
     "notes": "ดูไฟห้อยสำหรับใส่ที่โต๊ะแต่งหน้าในห้องน้ำ"
   },
@@ -5307,6 +5615,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าหญิงคนไทย 1 ราย ต่างชาติชาย 1 ราย",
     "notes": "ลูกค้าหาของตกแต่งบนโต๊ะทานอาหารค่ะ  ผ้าคาดบนโต๊ะ"
   },
@@ -5321,6 +5630,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "ดูสินค้าOutdoor และ Sofa L-Shape"
   },
@@ -5336,6 +5646,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "Draft Created",
     "customerName": "คุณ Irina",
     "notes": "ลูกค้าต้องการให้ทำใบเสนอราคา โซฟา 2 โต๊ะ 2 เก้าอี้ 4"
   },
@@ -5350,6 +5662,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "K.Luke",
     "notes": "ลูกค้านัดมาดูสินค้าเพิ่มเติม"
   },
@@ -5365,6 +5678,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Lighting"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณ Kwang  เดอะทีค",
     "notes": "สนใจสินค้า Outdoor ค่ะ  / ลูกค้าพี่บิว เดอะทีค"
   },
@@ -5379,6 +5693,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณดี Yupadee",
     "notes": "ต้องการม้านั่งปลายเตียงต้องการใช้สินค้าภายในวัน ของที่มีหน้าร้านยังไม่ชอบค่ะ"
   },
@@ -5447,6 +5762,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ ชายหญิง 2 ราย",
     "notes": "ดูสินค้ารวมๆค่ะ"
   },
@@ -5460,6 +5776,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34733",
     "customerName": "KhuDiana",
     "notes": "สนใจโคมไฟเพดาน [MD] Candace 120 Pendant Lamp Brass // D34733"
   },
@@ -5474,6 +5792,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "chandelier"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 2 ราย",
     "notes": "สนใจรูป และสนใจpainting ให้แอดไลน์และส่งรายละเอียดให้"
   },
@@ -5543,6 +5862,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24477",
+    "hasDraftOrder": false,
     "customerName": "khun song",
     "notes": "ลูกค้ามา Final look และชำระเงิน"
   },
@@ -5556,6 +5876,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณกุ้ง",
     "notes": "ลูกค้ามาดูโคมไฟ แต่ต้องรีบไปดูหน้างาน ให้ส่ง Website ให้"
   },
@@ -5570,6 +5891,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bar Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ คุณDavid",
     "notes": "ดูBar chair และ Dining Chair สำหรับห้องครัวและIsland ใช้สินค้ากันยายน"
   },
@@ -5584,6 +5906,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24481",
+    "hasDraftOrder": false,
     "customerName": "Khun Aleksandr",
     "notes": "สนใจโซฟา [YI] Glaze Sofa Dark Grey ต้องการสินค้าวันพรุ่งนี้"
   },
@@ -5598,6 +5921,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "เข้ามาดูสินค้า ไม่ได้สอบถามเพิ่มเติม ดูโต๊ะทานข้าว และโซฟา L-Shape"
   },
@@ -5611,6 +5935,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าคนไทยหญิง 1 ราย ชายต่างชาติ 1 ราย",
     "notes": "มองหาโต๊ะที่ขยายและพับได้แบบที่มียังไม่ชอบ ขอกลับไปดูเพิ่มเติมเองในเว็บไซต์ค่ะ"
   },
@@ -5627,6 +5952,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Night Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34749",
     "customerName": "คุณปาล์ม ภูมิชาย",
     "notes": "ลูกค้ามาดูสินค้าตกแต่งบ้านเช่า ให้ทำใบเสนอราคา D34749"
   },
@@ -5641,6 +5968,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 1 ราย",
     "notes": "สนใจเก้าอี้อเนกประสงค์ [US] Rudolph Occasional Chair Black /เก้าอี้พักผ่อน [TG] Glisten Leisure Chair Yellow Texture (Walnut) และโคมไฟเพดาน [MD] Fashion"
   },
@@ -5654,6 +5982,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทยชาย 2 ราย",
     "notes": "สนใจโคมไฟChandeliers ติดห้องโถง สูง 6-7 เมตร บ้านกำลังสร้างอยูาในเมืองพังงา ใช้สินค้ามกราคม 70"
   },
@@ -5668,6 +5997,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าคนไทย 2 ราย",
     "notes": "ลูกค้ามา SK แวะมาดูโซฟาที่ร้าน ยังไม่สนใจเนื่องจากราคาสูงไป"
   },
@@ -5682,6 +6012,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34751",
     "customerName": "ผู้หญิงไทย 1 รายชายไทย 1 ราย (คุณเอม)",
     "notes": "สนใจโต๊ะทานอาหารและเก้าอี้ทานอาหาร จัดส่งเกาะสมุย D34751 /D34752"
   },
@@ -5697,6 +6029,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "ลูกค้าดูฟูก โซฟา และโต๊ทานข้าว ชอบฟูกArctic แต่หมดแล้ว"
   },
@@ -5711,6 +6044,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24485",
+    "hasDraftOrder": false,
     "customerName": "คุณ Edward Forero",
     "notes": "สั่งซื้อWall lamps ลูกค้าเข้ารับของที่PKSRวันจันทร์ที่27/7/2026"
   },
@@ -5727,6 +6061,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Arts"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณMinnie Agent",
     "notes": "ลูกค้าจากคุณนก เป็นAgent ดูDining Table Wall art เตียง อธิบายHome Stylist Package เรียบร้อย ลูกค้าบอกเดี๋ยวจะแจ้งกลับ และขอดูหลายๆที่ก่อนค่ะ"
   },
@@ -5741,6 +6076,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24487",
+    "hasDraftOrder": false,
     "customerName": "คุณนาตาเลีย",
     "notes": "ลูกค้าดูwall art และ side table"
   },
@@ -5758,6 +6094,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34756",
     "customerName": "ลูกค้าต่างชาติ 1ราย",
     "notes": "D34756 ดูของเข้าบ้านMouana เกาะแก้ว"
   },
@@ -5771,6 +6109,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 1 ราย",
     "notes": "ลูกค่าเก่าดูพรม ยังไม่เจอที่ถูกใจ"
   },
@@ -5839,6 +6178,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณรีน บีอาร์ดีไซน์",
     "notes": "ดีไซเนอร์พาลูกค้ามาดูของใส่วิลล่า ส่งข้อมูลให้ดีไซเนอร์ตามรายการที่เลือก"
   },
@@ -5854,6 +6194,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่งชาติชายหญิง 2 ราย",
     "notes": "ดูสินค้ารวมๆหาเฟอร์นิเจอร์สีอ่อนตกแต่งบ้าน ขออดูสินค้าเองในเว็บไซต์"
   },
@@ -5869,6 +6210,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24497",
+    "hasDraftOrder": false,
     "customerName": "Gianni Sicuro",
     "notes": "สนใจโคมไฟด้วย2ชิ้น แต่อยากเอากลับเลย พอสินค้าอยู่กรุงเทพก็ตัดสินใจไม่รับ"
   },
@@ -5882,6 +6224,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 2 ราย คนจีน",
     "notes": "ลูกค้าต้องการดูไฟ แต่ยังไม่ถูกใจ"
   },
@@ -5895,6 +6238,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติหญิง 1 ราย",
     "notes": "ต้องการพรม ขนาด 180x240 cm."
   },
@@ -5908,6 +6252,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Seats"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 1 ราย คนไทยหญิงชาย 2 ราย",
     "notes": "สนใจ เตียงริมสระ [SK] Sunset Sun Lounger Mocha (Outdoor)"
   },
@@ -5921,6 +6266,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34769",
     "customerName": "คุณเตย",
     "notes": "ลูกค้าขับรถผ่านตั้งใจแวะมาดู ทำใบเสนอราคา D34769"
   },
@@ -5936,6 +6283,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Floor Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "ลูกค้าดูPainting แบบธรรมชาติ ป่าๆ"
   },
@@ -5949,6 +6297,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34774",
     "customerName": "ลูกค้าคนไทยหญิง 1 ราย",
     "notes": "สนใจ โคมไฟเพดาน [MD] Tape Light Suspension และ โคมไฟเพดาน [MD] Tomas 28 Pendant Lamp Black แต่สินค้าไม่ร่วมโปรโมชั่น / D34774"
   },
@@ -5965,6 +6315,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าคนไทย 2 ราย",
     "notes": "ลูกค้าดีไซเนอร์แนะนำมา เดินมาดูสินค้า ไม่สะดวกแจ้งชื่อดีไซเนอร์ ไม่สะดวกให้ Contact ติดต่อ แจ้งว่าถ้าแบบเสร็จจะติดต่อมาอีกที"
   },
@@ -6033,6 +6384,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34803",
     "customerName": "Khun Cassie Alllen",
     "notes": "ดูสินค้ารวมๆ สนใจชุดสตูลนั่ง [SK] Totem Set Grey Mocha (Outdoor) / D34803"
   },
@@ -6046,6 +6399,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Floor Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติหญิง 1 ราย",
     "notes": "สนใจโคมไฟตั้งพื้น [ME] Vega Floor Lamp และ โคมไฟตั้งพื้น [JI] Erich Floor Lamp Matt Black ค่ะ"
   },
@@ -6059,6 +6413,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 1 ราย",
     "notes": "ลูกค้าแจ้งว่าดูโต๊ะทานอาหาร ไม่เกิน 2 เมตร พาเดินดูสินค้าในร้านไม่ถูกใจ"
   },
@@ -6072,6 +6427,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "ลูกค้าดูโซฟา L-Shape Stow ไม่ชอบMaeterial  และลองเปรียบเทียบกับSKราคาถูกกว่า"
   },
@@ -6087,6 +6443,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24507",
+    "hasDraftOrder": false,
     "customerName": "คุณรัตน์ โอสถานุเคราะห์",
     "notes": "เลือกชั้นวางหนังสือ และพรม"
   },
@@ -6100,6 +6457,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 1 ราย คนไทยหญิง 1 ราย",
     "notes": "สนใจโคมไฟเพดานค่ะ"
   },
@@ -6115,6 +6473,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Coffee Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 2 ราย",
     "notes": "สนใจ สินค้าหน้าร้าน โต๊ะกลาง [LY] Jorge 60 Coffee Table Silverแต่สินค้ามีตำหนิ สต๊อคสินค้าตัวใหม่อยู่กรุงเทพ  ลูกค้าต้องการรับสินค้าภายใน 1-2 วันค่ะ"
   },
@@ -6129,6 +6488,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Arts"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "ลูกค้าสอบถามราคาพรมAT"
   },
@@ -6143,6 +6503,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนจีน 2 ราย",
     "notes": "ลูกค้าหาสินค้าแต่งอพาร์ทเม้น ลูกค้าอยู่ไทยปีละ2เดือน ยังไม่เจอที่ชอบ"
   },
@@ -6159,6 +6520,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "Order Confirmed",
+    "hasDraftOrder": true,
+    "draftOrder": "Draft Created",
     "customerName": "คุณมาย",
     "notes": "ลูกค้าเก่ามาหาซื้อสินค้าแต่งออฟฟิศอสังหา จะสรุปตัวที่สนใจให้ แล้วทำใบเสนอราคาเสนอ"
   },
@@ -6172,6 +6535,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Arts"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณเทียน คุณฝ้าน วัลญา",
     "notes": "ลูกค้ามาดูภาพติดผนังให้โครงการวัลญา ฮิลล์ ส่งรูปให้บังดูเพื่อเลือกสินค้า"
   },
@@ -6186,6 +6550,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34790",
     "customerName": "คนไทย 3 ราย คุณ Key  มาจากพังงา",
     "notes": "สนใจสินค้าโต๊ะทานอาหาร [OP] Viano L240 Dining Table Matte Beige (Dry French Oiled Ash Leg) และเก้าอี้ทานอาหาร [OP] Vito Dining Chair Beige (Sandstone Ash Leg) ต้องการให้จัดส่งสินค้าที่พังงา /D34790"
   },
@@ -6199,6 +6565,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณ Devid คุณพิมพ์",
     "notes": "ลูกค้าเก่ามาดูสินค้า"
   },
@@ -6212,6 +6579,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย2ราย",
     "notes": "ต้องการ sofa custom ปรับไซส์ปรับแบบได้ เดินดูสินค้าเล็กน้อยแล้วไป sk home ต่อ"
   },
@@ -6226,6 +6594,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนจีน 2 ราย",
     "notes": "ลูกค้าหาโคมไฟตั้งพื้นแบบคันเบ็ด และพรม และต้องการใช้สินค้าเลย"
   },
@@ -6239,6 +6608,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Decor Accessories"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณบี คุณเกด ดีไซเนอร์ Botanica",
     "notes": "ลูกค้าดีไซเนอร์มาดูของตกแต่งเป็น Inspiration และกลับไปคุยกับทีมก่อน"
   },
@@ -6254,6 +6624,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34793",
     "customerName": "คุณอุ๋ คุณต๋อม",
     "notes": "D34793 ใช้สินค้าเดือน 10"
   },
@@ -6267,6 +6639,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทยหญิง 1 รายต่างชาติชาย 1 ราย",
     "notes": "หาโต๊ะทานอาหาร ขนาด 160 ซม.  เสนอแบบที่มียังไม่ชอบค่ะ"
   },
@@ -6281,6 +6654,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 1 ราย",
     "notes": "หาโต๊ะทานอาหารขนาด   200-220 ซม.    สนใจ โซฟา [EL] Bergen / ลค.เห็นร้านเราจาก Facebook เนื่องจากเข้าดูสินค้าของ Chic"
   },
@@ -6297,6 +6671,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24514",
+    "hasDraftOrder": false,
     "customerName": "บริษัท คิวเรตเต็ด สเปซ จำกัด",
     "notes": "ดูสินค้าเข้าบ้านตัวอย่าง / ลูกค้าพี่บิว"
   },
@@ -6310,6 +6685,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ1ราย",
     "notes": "ลูกค้าเก่าแวะมาดูพรม ไม่ได้ดูชิ้นไหนเป็นพิเศษ"
   },
@@ -6323,6 +6699,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติรัสเซียชายหญิง 2 ราย",
     "notes": "สนใจ โคมไฟเพดาน ดูสินค้ารวมๆ"
   },
@@ -6337,6 +6714,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34798",
     "customerName": "คุณออย",
     "notes": "ลูกค้ากลับไปวัดพรมแล้วจะสรุปไซส์อีกที D34798"
   },
@@ -6351,6 +6730,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34800",
     "customerName": "คนไทย 2 ราย คุณ Nnow",
     "notes": "สนใจโต๊ะทานอาหาร [OP] Viano L240 Dining Table Matte Beige (Dry French Oiled Ash Leg) และ เก้าอี้ทานอาหาร [OP] Vito Dining Chair Beige (Sandstone Ash Leg) / D34800"
   },
@@ -6366,6 +6747,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Seats"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34545",
     "customerName": "Khun Ekaterina Mia",
     "notes": "เข้ามาอัปเดทสินค้าและใบเสนอราคา D34545 / D34681\n\nและมองหาไฟ ลูกค้าแจ้งว่าอยากให้เราหามาขายบ้างค่ะ"
   },
@@ -6379,6 +6762,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Side Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34807",
     "customerName": "คุณน้อยหน่า",
     "notes": "D34807ต้องการโต๊ะข้างเตียง Nest ขอเช็คสภาพแล้วส่งให้ลูกค้า"
   },
@@ -6393,6 +6778,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL13975",
+    "hasDraftOrder": false,
     "customerName": "Khun Ekaterina Ishmuratova",
     "notes": "LL13975 ลูกค้าซื้อสินค้าไปแล้ว ต้องการเปลี่ยน Cover โซฟา [EG] Nordlux"
   },
@@ -6408,6 +6794,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Floor Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าจีน 2 ราย",
     "notes": "ลูกค้าบอกแพงเกินไป พร้อมกับเปิดราคาในเถาเป่าให้ดู"
   },
@@ -6421,6 +6808,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "TV Stands"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทยชายหญิง2ราย",
     "notes": "ต้องการชั้นวางทีวีงานไม้แท้"
   },
@@ -6434,6 +6822,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 1 ราย",
     "notes": "ดูSofabed แบบปรับRecliner ได้"
   },
@@ -6447,6 +6836,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณจี้ กับคุณแม่",
     "notes": "ต้องการดูโต๊ะทำงานเป็นไอเดีย ยังไม่รีบใช้สินค้า ไปวัดพื้นที่มาก่อนแล้วค่อยมาใหม่"
   },
@@ -6460,6 +6850,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทยหญิง 1 ราย  ชายจีน 1 ราย",
     "notes": "ต้องการสั่งผลิต โซฟา [YA] Ricado L Shape Right Sofa Light Brown สลับฝั่งค่ะ"
   },
@@ -6473,6 +6864,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทยชาย 2 ราย",
     "notes": "ต้องการไฟเพดานสำหรับใช้หัวเตียง  ต้องการใช้ของวันนี้เลย  เสนอที่มียังไม่ชอบค่ะ"
   },
@@ -6487,6 +6879,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ1ราย",
     "notes": "ลูกค้ามาดูโซฟา แต่ยังไม่ถูกใจ"
   },
@@ -6503,6 +6896,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24529",
+    "hasDraftOrder": true,
+    "draftOrder": "D34827",
     "customerName": "คุณMaria",
     "notes": "D34827 ลูกค้ากลับมาสั่งซื้อสินค้า"
   },
@@ -6571,6 +6966,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าคนไทย-ต่างชาติ 2ราย",
     "notes": "เดินดูรวมๆไม่ได้สนใจอะไรเป็นพิเศษ จองบ้านไว้ยังไม่ได้โอน ลูกค้ามาจาก SK Home"
   },
@@ -6584,6 +6980,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณทอม  วรวีย์ บุตรามรา (LL23657)",
     "notes": "ลูกค้าเข้ามาดูโคมไฟเพดาน และพรมค่ะ"
   },
@@ -6599,6 +6996,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34843",
     "customerName": "คุณKavin",
     "notes": "D34843 ดูของเดิมจากอาทิตย์ที่แล้ว ลูกค้าแจ้งว่าจะเข้ามาอีกครั้งวันจันทร์"
   },
@@ -6613,6 +7012,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชายหญิง 2 ราย",
     "notes": "สนใจโซฟาดูสินค้ารวมรวมค่ะ"
   },
@@ -6626,6 +7026,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 1 ราย",
     "notes": "สนใจโคมไฟเพดาน [DL] Gisele 60\nPendant Lamp Silver"
   },
@@ -6643,6 +7044,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24541",
+    "hasDraftOrder": true,
+    "draftOrder": "D34849",
     "customerName": "บังเจ๊าะ",
     "notes": "โครงการของวัลญา บังมาเลือกของหน้าโชว์รูม D34849"
   },
@@ -6656,6 +7059,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "พี่จัน พี่อีฟ กระบี่",
     "notes": "ลูกค้าหาโซฟา 2.8 เมตร ราคาไม่แพง ที่เสนอแจ้งว่าราคาสูงไป"
   },
@@ -6669,6 +7073,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Arts"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณกิ๊ฟ",
     "notes": "ดูสำหรับโครงการแสนสิริ The Tales Bang Jo"
   },
@@ -6682,6 +7087,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34862",
     "customerName": "คุณเกมส์",
     "notes": "ลูกค้าเก่ามาดูไฟ D34862 ขอวนไปดูร้านอื่นก่อน"
   },
@@ -6750,6 +7157,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 2 ราย",
     "notes": "ลูกค้าแค่เดินดูแล้วออกจากร้านไป ไม่ได้หยุดดูอะไรเป็นพิเศษค่ะ"
   },
@@ -6764,6 +7172,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24546",
+    "hasDraftOrder": false,
     "customerName": "คุณBram",
     "notes": "เปิดออเดอร์LL24546"
   },
@@ -6778,6 +7187,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24551",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าคุณSergey",
     "notes": "ลูกค้าซื้อของตกแต่ง"
   },
@@ -6791,6 +7201,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DayBeds"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2 ราย มาจากกระบี่",
     "notes": "สนใจ DayBeds รุ่นที่มียังไม่ชอบ"
   },
@@ -6807,6 +7218,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Love Seat Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 1 ราย หญิง 1 ราย",
     "notes": "สนใจสินค้า DayBeds"
   },
@@ -6821,6 +7233,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Seats"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ1ราย",
     "notes": "ลูกค้าเดินดูเก้าอี้ทานข้าวและเตียงSunbed แค่ถ่ายรูปไป"
   },
@@ -6836,6 +7249,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Coffee Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34895",
     "customerName": "คุณวีระชัย ปรานวีระไพบูลย์ - ลูกค้าบิว",
     "notes": "D34895 ลูกค้าเดินดูสินค้าและให้ทำใบเสนอราคา"
   },
@@ -6851,6 +7266,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24579",
+    "hasDraftOrder": false,
     "customerName": "Khun Justin Sandery",
     "notes": "สนใจ ตู้ไซด์บอร์ด [SZ] Rowena 110 Sideboard Smoked Oak และ โต๊ะคอนโซล [SZ] Rowena Console Table Dark Gull Gray Matt แต่ คอนโซลสินค้าหมดสต๊อค ลูกค้าอยากได้สินค้าคอลเลคชั่นเดียวกันค่ะ"
   },
@@ -6864,6 +7280,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทยหญิง 1 ราย",
     "notes": "หาโซฟา L-Shape ขนาด ไม่เกิน 240 cm."
   },
@@ -6877,6 +7294,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติหญิง 1 ราย",
     "notes": "สนใจ โซฟา [SZ] Pebble Sofa L Shape Beige    สินค้าหมดสต๊อค เสนอแบบที่มีลค.จะกลับไปดูเพิ่มเติมในเว็บไซต์"
   },
@@ -6892,6 +7310,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "Order Confirmed",
+    "hasDraftOrder": false,
     "customerName": "คุณ Luke",
     "notes": "คุณ Luke พาแฟนมาดูสินค้าที่เคยมัดจำไว้ พร้อมทั้งดูสินค้า Outdoor เพิ่มเติม"
   },
@@ -6905,6 +7324,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Arts"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติหญิง 1 ราย",
     "notes": "ลูกค้าขับผ่านสนใจ Wall art เลยแวะมาดู"
   },
@@ -6919,6 +7339,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณกาย โปรเจคยะลา",
     "notes": "เดินดูสินค้าในร้าน และจะกลับไปวัดผังก่อนและแจ้งให้ทราบอีกครั้งว่าวางได้ไหม"
   },
@@ -6932,6 +7353,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย2ราย",
     "notes": "ดูโซฟา Lshape 2.4 เมตร ใส่คอนโด"
   },
@@ -6948,6 +7370,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Table Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34915",
     "customerName": "คุณแพม",
     "notes": "ลูกค้าสนใจโคมไฟ หมอน โต๊ะข้าง แลพกำลังมองหาเก้าอี้สำหรับร้านทำเล็บ // D34915"
   },
@@ -6961,6 +7385,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34926",
     "customerName": "Artum / Liala",
     "notes": "D34926 ลูกค้าดู Lounge Chair"
   },
@@ -7029,6 +7455,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ2ราย",
     "notes": "ดูรวมๆ ไม่ได้สนใจอะไรเป็นพิเศษ"
   },
@@ -7042,6 +7469,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bed"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34930",
     "customerName": "Khun Katerina",
     "notes": "สนใจเตียง [WS] Grazia Bed King Size Pearl White // D34930"
   },
@@ -7055,6 +7484,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Khun Elena Berezniuk",
     "notes": "สนใจพรมนี้แต่มีแค่ตัวโชว์ แจ้งลูกค้าว่าขนาดนี้มีฝั่งซ้ายเป็นสินค้าใหม่ \n\nสินค้าที่เข้ามาใหม่ Right มีขนาด 350x450"
   },
@@ -7123,6 +7553,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34934",
     "customerName": "Khun Slava",
     "notes": "ลูกค้าดูสินค้าจริงที่เสนอ D34934"
   },
@@ -7136,6 +7568,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทยชาย 1 รายหญิงต่างชาติ 1 ราย",
     "notes": "สนใจ โคมไฟผนัง โคมไฟผนัง [ME] Amore Wall Lamp Grey  โคมไฟผนัง [NS] Cenesio D40 Wall Lamp Chrome  โคมไฟผนัง [ME] Fusione Wall Lamp Brass"
   },
@@ -7149,6 +7582,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คทไทย 2 ราย",
     "notes": "ดูโซฟาขนาดเล็กใส่คอนโดราคาไม่แพง"
   },
@@ -7162,6 +7596,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34948",
     "customerName": "คุณเล็ก",
     "notes": "D34948 ทำใบเสนอราคา"
   },
@@ -7216,6 +7652,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24611",
+    "hasDraftOrder": true,
+    "draftOrder": "D34945",
     "customerName": "คุณ Alex",
     "notes": "ลูกค้าดูสินค้าเข้าคอนโด ใช้สินค้าอีก1เดือน D34945"
   },
@@ -7284,6 +7722,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชายหญิง 2 ราย",
     "notes": "ดูสินค้ารวมๆ ค่ะ ไม่ได้สนใจตัวไหนเป็นพิเศษ"
   },
@@ -7304,6 +7743,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24562 , LL24563",
+    "hasDraftOrder": true,
+    "draftOrder": "D34864",
     "customerName": "Ekaterina Mia",
     "notes": "เข้ามาดูสินค้าเพิ่มเติม  D34864  และชำระเงิน LL24563 และ LL24562"
   },
@@ -7317,6 +7758,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Seats"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 1 ราย",
     "notes": "สนใจ Haven Swivel Chair แต่ขอลองดูที่อื่นเปรียบเทียบก่อน"
   },
@@ -7330,6 +7772,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outlet"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชายหญิง 2 ราย",
     "notes": "สนใจ [Outlet] โคมไฟตั้งโต๊ะ [MD] Dallas Table Lamp White Brass อยากได้เตียงนอน [YA] Finesse Bed King Size White ลด 50%"
   },
@@ -7344,6 +7787,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24485",
+    "hasDraftOrder": false,
     "customerName": "คุณEdward",
     "notes": "ลูกค้าเข้ามารับสินค้าLL24485"
   },
@@ -7358,6 +7802,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24471",
+    "hasDraftOrder": false,
     "customerName": "K. Luke Anderson",
     "notes": "ลูกค้ารับเข้ามารับสินค้า LL24471"
   },
@@ -7371,6 +7816,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "หาพรมกลมแบบ Natural ให้ดูJH jinger พวก JVแล้ว ไม่ชอบ ชอบRRแบบเก่าที่เป็นกระจูด"
   },
@@ -7439,6 +7885,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Khun Victoria",
     "notes": "ดูสินค้าเข้าวิลล่า  Botanica Forestique  FQ38 Q"
   },
@@ -7454,6 +7901,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24605",
+    "hasDraftOrder": false,
     "customerName": "Khun Alan",
     "notes": "ลูกค้าเข้ามาซื้อพรม และ โต๊ะข้างเตียง"
   },
@@ -7468,6 +7916,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34971",
     "customerName": "คุณอักษราภัค กุลวีระอารีย์ คุณบิ๊กคุณคีน",
     "notes": "สนใจเก้าอี้ทานอาหาร [CS] Louie Dining Chair White (Buckwheat) จำนวน 4 ตัว ต้องการให้จัดส่งที่จังหวัดชลบุรี  //D34971"
   },
@@ -7481,6 +7931,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทยชาย 1 ราย",
     "notes": "มองหาโคมไฟสำหรับติดตั้งบันได   ขอดูเพิ่มเติมในเว็บไซต์"
   },
@@ -7494,6 +7945,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "Draft Created",
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "ดูพรมกลม เลือกไซส์D250 หรือD300อยู่ เดี๋ยวจะกลับไปวัดก่อน"
   },
@@ -7508,6 +7961,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติหญิง 1 ราย",
     "notes": "ดูสินค้า Outdoor Furniture"
   },
@@ -7521,6 +7975,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DayBeds"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Khun Dana",
     "notes": "สนใจ Daybed  เดย์เบด [HO] Denis Dean Daybed Beige V2\n แต่อยากให้ลดราโซฟา [UC] Mari Large Chaise LAF Sofa Beige"
   },
@@ -7534,6 +7989,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Seats"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "ลูกค้าหาพรม240x300cm.และหาBean Back สำหรับใช้ในห้องเด็ก ส่งให้เจ้านายดูแล้ว รอตัดสินใจ"
   },
@@ -7547,6 +8003,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "ลูกค้าดูพรม 200x270cm. เสนอไซส์200x300 อันที่ถูกใจไม่มีของ"
   },
@@ -7560,6 +8017,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย คุณกัน Designer Freelance",
     "notes": "ดูเก้าอี้ทานข้าว 8 ตัว"
   },
@@ -7575,6 +8033,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณหลิน The Wynn",
     "notes": "อยากปรับเก้าอี้ และโต๊ะทานข้าว ให้เสนอใหม่"
   },
@@ -7591,6 +8050,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 2 คน",
     "notes": "สนใจ sofa Ricado แต่อยากได้แบบแยกชิ้น และเดินดูสินค้าอื่นรวมๆ"
   },
@@ -7607,6 +8067,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D35005",
     "customerName": "คุณNeli",
     "notes": "D35005 โซฟา Justin, Cabinet Viano, พรม Flint190x200 Dia 250, Bed Behgel"
   },
@@ -7621,6 +8083,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24617",
+    "hasDraftOrder": true,
+    "draftOrder": "D35000",
     "customerName": "K.Thierry",
     "notes": "D35000"
   },
@@ -7690,6 +8154,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24618, LL24619",
+    "hasDraftOrder": false,
     "customerName": "K.Slava",
     "notes": "ลูกค้าเข้ามาชำระเงิน"
   },
@@ -7704,6 +8169,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Vases"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2ราย",
     "notes": "ดูแจกัน กับดอกไม้ บอกว่าขอตัดสินใจก่อน อยากได้แจกันสีขาวเรียบๆอย่างเดียว"
   },
@@ -7719,6 +8185,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24624",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 2ราย",
     "notes": "ดูchandelier และ ดูpendant lamp ที่Island"
   },
@@ -7734,6 +8201,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bed"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าคนไทย 2 ราย",
     "notes": "เดินดูเฉยๆ"
   },
@@ -7747,6 +8215,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 2 คน",
     "notes": "ยังไม่ถูกใจ"
   },
@@ -7760,6 +8229,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 1 + คนไทย 1",
     "notes": "มาดูสินค้าไว้ก่อน ยังไม่ได้ตัดสินใจ"
   },
@@ -7780,6 +8250,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24623, 24626",
+    "hasDraftOrder": true,
+    "draftOrder": "D35006",
     "customerName": "K.Desmet",
     "notes": "D35006, D35008"
   },
@@ -7795,6 +8267,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ1ราย",
     "notes": "ดูLounge chair conlad ดูwallpaper Holly ดูpendant lamp Aurora"
   },
@@ -7810,6 +8283,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24651",
+    "hasDraftOrder": false,
     "customerName": "คุณDominique",
     "notes": "ดูพรมกับ pouf"
   },
@@ -7823,6 +8297,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Side Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "ดูSide Table"
   },
@@ -7839,6 +8314,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณแดนเนียล",
     "notes": "ดูviano 1ชิ้น และ Vito 8ตัว ต้องการ2ชุด"
   },
@@ -7852,6 +8328,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Night Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าน้องบี Khun Devid",
     "notes": "ดูRicco bedside table"
   },
@@ -7866,6 +8343,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24654",
+    "hasDraftOrder": false,
     "customerName": "คุณชานน",
     "notes": "ซื้อเก้าอี้ไปไว้ในห้องน้ำโซนแห้ง"
   },
@@ -7883,6 +8361,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D35027",
     "customerName": "K.Slava, K.Lana",
     "notes": "เข้ามาดูสินค้าที่นำเสนอ มีปรับเปลี่ยน และเสนอเพิ่ม จะเข้ามาอีกครั้ง D35027"
   },
@@ -7897,6 +8377,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Floor Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "ลูกค้าดูไฟตั้งโต๊ะและ ไฟตั้งพื้น ไม่ได้ถามอะไรเพิ่มเติม"
   },
@@ -7911,6 +8392,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Night Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "ลูกค้าดูTV stand lampada และ Night table กลับไปคิดก่อน"
   },
@@ -7924,6 +8406,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bar Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2ราย",
     "notes": "ดูบาร์สตู ไม่สอบถามอะไร"
   },
@@ -7937,6 +8420,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 2ราย",
     "notes": "ดูโซฟาL shape ถามโปรโมชั่น"
   },
@@ -7950,6 +8434,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "ลูกค้าดู2รายการแล้วก็ออกไปเลย น่าจะไม่ใช่ราคาที่ลค.ต้องการ Geotic,Candace"
   },
@@ -7965,6 +8450,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าน้องบีFQ38",
     "notes": "ดูของ จะให้ส่งไม่เกิน14นี้"
   },
@@ -7979,6 +8465,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24661",
+    "hasDraftOrder": true,
+    "draftOrder": "D35044",
     "customerName": "K.Tom",
     "notes": "D35044"
   },
@@ -7996,6 +8484,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Arts"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "เดินดูเปรียบเทียบราคาไว้"
   },
@@ -8011,6 +8500,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 5 ราย",
     "notes": "ดูรวมๆ"
   },
@@ -8031,6 +8521,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Table Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D35031",
     "customerName": "K.Lana",
     "notes": "เข้ามาดูสินค้าที่เสนอไว้ D35031"
   },
@@ -8047,6 +8539,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24667",
+    "hasDraftOrder": false,
     "customerName": "คุณNeli",
     "notes": "ซื้อสินค้าจัดส่ง12/8/2026"
   },
@@ -8060,6 +8553,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติหญิง 1 ราย",
     "notes": "ดูโคมไฟผนังๆ รวมยังๆไม่มีที่ถูกใจค่ะ"
   },
@@ -8129,6 +8623,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "Order Confirmed",
+    "hasDraftOrder": false,
     "customerName": "Khun Alex",
     "notes": "ชำระเงิน และดูสินค้าเพิ่มเติมอีก 1 ห้อง"
   },
@@ -8143,6 +8638,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24620",
+    "hasDraftOrder": false,
     "customerName": "Vincent Rime",
     "notes": "สนใจ โคมไฟตั้งโต๊ะ [IL] Mesh Oval 30 Table Lamp Brass และ โคมไฟตั้งโต๊ะ [IL] Mesh Cylinder 16 Table Lamp Brass"
   },
@@ -8157,6 +8653,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Oksana Makovenko",
     "notes": "โต๊ะทานอาหาร [OP] Viano L240 Dining Table Matte Beige (Dry French Oiled Ash Leg)และ โต๊ะทำงาน [CS] Lattice Desk (Top Siena Natural)"
   },
@@ -8171,6 +8668,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34997",
     "customerName": "Estee Leigh",
     "notes": "ดูโต๊ะทานอาหาร เข้าบ้านใหม่ของแม่ D34997"
   },
@@ -8239,6 +8738,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ตนไทย 3 ราย",
     "notes": "ดูสินค้ารวมๆ ขอดูเพิ่มเติมเองในเว้บไซต์"
   },
@@ -8253,6 +8753,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24624",
+    "hasDraftOrder": false,
     "customerName": "คุณดาว",
     "notes": "สนใจโคมไฟ"
   },
@@ -8266,6 +8767,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Side Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 1 ราย",
     "notes": "ต้องการใช้งานสำนักงาน อยากได้ราคาถูกกว่านี้"
   },
@@ -8279,6 +8781,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ ขายหญิง  2 ราย",
     "notes": "ต้องการพรม outdoor. ที่มียังไม่ชอบค่ะ"
   },
@@ -8294,6 +8797,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Arts"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณมาร์ คุณเจ คุณเอิง A.E.Phuket",
     "notes": "ดูสินค้าสำหรับProject โรงแรมกะตะ ส่งรายการหมอนให้เทียบ"
   },
@@ -8307,6 +8811,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "ดูพรม RR JV BS กลับไปคิดก่อน"
   },
@@ -8320,6 +8825,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D35075",
     "customerName": "คนไทยหญิง 1 ราย",
     "notes": "สนใจ โคมไฟเพดาน [YP] Brode 25\nPendant Lamp Silver ครบไซต์ แต่ต้องการติดตั้งฟรี //D35075"
   },
@@ -8333,6 +8840,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1ราย",
     "notes": "ดูพรมMingle ขนาด300×400"
   },
@@ -8347,6 +8855,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Decor Books"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนุณบี โบทานิก้า โครงการ Heart",
     "notes": "ดูของตกแต่งเพิ่มเติม"
   },
@@ -8360,6 +8869,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย  1 ราย",
     "notes": "ลูกค้าต้องการไฟเพดานที่สามารถ Dim ได้ ติดตั้งบริเวณในครัว"
   },
@@ -8375,6 +8885,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 1 ราย",
     "notes": "ดูเฟอร์นิเจอร์เข้าวิลล่าให้เช้า ไม่ชอบผ้า อยากได้หนังดูแลง่าย"
   },
@@ -8390,6 +8901,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าคนไทย",
     "notes": "ลูกค้ามาดูสินค้าจริง โต๊ะทานอาหาร [WV] Arioso 180 Dining Table Teak (Outdoor) , ใช้สินค้าสิ้นเดือน สิงหาคม"
   },
@@ -8404,6 +8916,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2",
     "notes": "ดู sofa ทรง curve และ lounge chair สำหรับ pilates studio"
   },
@@ -8419,6 +8932,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24694",
+    "hasDraftOrder": true,
+    "draftOrder": "D35102",
     "customerName": "K.Felicier",
     "notes": "D35102, D35095"
   },
@@ -8434,6 +8949,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณKenza",
     "notes": "ดูโต๊ะทานข้าวGrazia+เก้าอี้Mirth Light Brown + พรม JH"
   },
@@ -8456,6 +8972,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24691",
+    "hasDraftOrder": true,
+    "draftOrder": "D35063",
     "customerName": "K.Victoria",
     "notes": "ดูของในใบเสนอราคา D35063"
   },
@@ -8525,6 +9043,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24696",
+    "hasDraftOrder": false,
     "customerName": "Khun Alex",
     "notes": "ลูกค้าดูสินค้าเข้าอพาสเมนท์ อีก 1 ห้อง"
   },
@@ -8540,6 +9059,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณพัฒน์โบ๊ทพัฒนา",
     "notes": "คุณพัฒน์โบ๊ทพัฒนา พาลูกค้ามาดูสินค้าสำหรับโครงการชาดอนเน่ 2ห้องนอน ดูสินค้าเรียบร้อยแล้ว ลูกค้าจะแจ้งกลับอีกครั้ง"
   },
@@ -8553,6 +9073,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Side Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 2 ราย",
     "notes": "ลูกค้าโทรเข้าร้านแจ้งจะมาดูสินค้าจริง โต๊ะ Side Table โรงงาน TO Aileron ขอกลับไปวัดพื้นที่ก่อน"
   },
@@ -8566,6 +9087,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Luke Anderson",
     "notes": "ดูไฟ Geotic ไฟSassie 3 ไฟcandace"
   },
@@ -8634,6 +9156,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณฝน",
     "notes": "ดูสินค้ารวมๆ  กำลังสร้างร้านนวดที่เขาหลัก  เสร็จช่วงปลายปี ต้องการหาสินค้าเข้าร้านนวด"
   },
@@ -8647,6 +9170,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "ดูDining Table craniax สีดำ ใช้ของDecember ให้นามบัตรไปแล้ว"
   },
@@ -8660,6 +9184,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D35132",
     "customerName": "Khun Anna",
     "notes": "ลูกค้าสนใจ พรม [JV] Milton แต่ขนาดที่มีไม่เพียงพออยากให้มีขนาดใหญ่กว่านี้  เสนอพรม JZ แทน / D35132"
   },
@@ -8673,6 +9199,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Sideboards"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D35135",
     "customerName": "Carl Bucchino",
     "notes": "สนใจ ตู้ไซด์บอร์ด [SZ] Lavoro 180 Sideboard Walnut / D35135"
   },
@@ -8689,6 +9217,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Cushions"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณโอ",
     "notes": "ดูของเข้าโครงการThe Aqua 3 ห้อง"
   },
@@ -8703,6 +9232,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณโบวี่",
     "notes": "สนใจสินค้า Out door. อยากได้โซฟา Outdoor L-Shape  เสนอแบบที่มียังไม่ขอบเนื้อผ้า"
   },
@@ -8718,6 +9248,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D35154",
     "customerName": "คุณไก่",
     "notes": "โคมไฟเพดาน [BV] Meara และโต๊ะทานอาหาร Outdoor  / D35154"
   },
@@ -8732,6 +9264,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "ลูกค้าดูโซฟาแต่ไม่ใช่ราคาที่ต้องการค่ะ"
   },
@@ -8747,6 +9280,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24727 + LL24728",
+    "hasDraftOrder": false,
     "customerName": "Khun Ekaterina Mia",
     "notes": "ดูสินค้ารวมๆ ชำระเงินค่าสินค้า"
   },
@@ -8815,6 +9349,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย คนไทหญิง 1 ราย",
     "notes": "ดูสินค้ารวมๆ บ้านกำลังสร้าง  จะกลับมาอีกครั้งเมื่อบ้านใกล้จะเสร็จค่ะ แนะนำให้ลูกค้าดูเพิ่มเติมในเว็บไซต์"
   },
@@ -8830,6 +9365,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24731",
+    "hasDraftOrder": false,
     "customerName": "คุณซาร่า",
     "notes": "ดูSofa cubo และWall lamp แต่ลูกค้าจบโซฟาที่SK Home เพราะชอบแบบที่นู่นมากกว่า"
   },
@@ -8844,6 +9380,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณวัน คริปโตพรอพ",
     "notes": "ดูโคมไฟ และ โต๊ะทำงานใส่โครงการZavaya เดี๋ยวส่งรายละเอียดที่จะเลือกให้"
   },
@@ -8858,6 +9395,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1ราย",
     "notes": "ดูPendant Lamp 8ชิ้น แต่สต็อกเรามี2 และดูของเขเาวิลล่าBotanica"
   },
@@ -8872,6 +9410,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Table Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ2ราย",
     "notes": "ดูโคมไฟตั้งโต๊ะ และของตกแต่ง ถามส่วนลด แจ้งสเตปหน้าร้านปกติ"
   },
@@ -8888,6 +9427,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณอุ๊",
     "notes": "ดูLounge chair ดูoutdoor ลค.เก่าสมาย"
   },
@@ -8956,6 +9496,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ผู้หญิงคนไทยหนึ่งราย",
     "notes": "ดูสินค้ารวมรวม สำห สำหรับบ้านพักอาศัยค่ะสนใจโคมไฟ โคมไฟตั้งพื้น [MD] Toshiro Floor Lamp White"
   },
@@ -8970,6 +9511,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Arts"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 1 ราย ลูกค้า Khun Milena ลูกค้าพี่บิว",
     "notes": "ลูกค้าสนใจ รูปภาพ [EP] Art Kara 70x125 และ รูปภาพ [EP] Art Palila ต้องการซื้อเพียง 1 ชิ้นแต่เราขายเป็นเซท   สนใจข้างเตียงแต่ราคาค่อนข้างสูง เสนอตัวที่ราคาต่ำที่สุดแล้วยังไม่ชอบแบบค่ะ"
   },
@@ -8983,6 +9525,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 2 ราย",
     "notes": "ดูLounge Chair แบบVintage หนังบุ"
   },
@@ -8997,6 +9540,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Chairs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 1 ราย ลูกค้าต่างชาติ 1 ราย",
     "notes": "ดูโต๊ะทำงาน เก้าอี้ทำงาน แต่ราคาแพงไป ถาม ราคา 2 ตัว แล้วเดินออกไปเลย"
   },
@@ -9011,6 +9555,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24751",
+    "hasDraftOrder": false,
     "customerName": "คุณAnna",
     "notes": "เข้ามาจ่ายเงินค่าพรมDags"
   },
@@ -9027,6 +9572,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 1 ราย ต่างชาติ 1 ราย",
     "notes": "ดูค้าดูสินค้าเพื่อนำไปใส่ในบ้านแต่บ้านยังไม่เสร็จน่าจะอีกประมาณ 3 เดือน ตอนนี้มาเซอร์เวย์ก่อน"
   },
@@ -9041,6 +9587,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24752",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "ซื้อพรม JH"
   },
@@ -9055,6 +9602,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24754",
+    "hasDraftOrder": false,
     "customerName": "คุณIlin",
     "notes": "ลูกค้าซื้อพรมMingle ส่ง13-08-2026"
   },
@@ -9069,6 +9617,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24750",
+    "hasDraftOrder": false,
     "customerName": "Khun Alex",
     "notes": "ชำระค่ามัดจำส่วนที่เหลือ LL24696 และค่าจัดส่งสินค้า  สนใจDiffuser"
   },
@@ -9137,6 +9686,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 3 ราย",
     "notes": "ดูสินค้ารวมๆ สนใจสินค้า Outdoor"
   },
@@ -9151,6 +9701,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Khun Volkan Gencoglu",
     "notes": "สนใจเตียงริมสระ [SK] Haven Sun Lounger Mocha (Outdoor)  และโซฟา [YA] Ricado L Shape Right Sofa Light Brown"
   },
@@ -9167,6 +9718,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24753",
+    "hasDraftOrder": false,
     "customerName": "Khun Yossef Efraim",
     "notes": "สนใจโซฟา [LR] Encanto ต้องการเปลี่ยนโซฟาที่มีอยู่"
   },
@@ -9181,6 +9733,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D35199",
     "customerName": "Amir Anthony J",
     "notes": "สนใจโต๊ะทานอาหาร  โต๊ะทานอาหาร [DB] Caps 260 Dining Table Arabescato White Matte Top (Dark Elm & Brass Base)  และ \nเก้าอี้ทานอาหาร [DB] Nellie Swivel Dining Chair Dark Grey (Bronze Black Leg) //D35199"
   },
@@ -9196,6 +9750,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24763",
+    "hasDraftOrder": false,
     "customerName": "Pro Phuket Co., Ltd.",
     "notes": "สนใจ เก้าอี้ทานอาหาร [BZ] Mirth Dining Chair Olive (Walnut Leg) และ โต๊ะทานอาหาร [SW] Alvin D100 Dining Table Natural (Light Brown Leg)"
   },
@@ -9264,6 +9819,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Dalit - KA Villa",
     "notes": "เข้ามาดูสินค้าที่นำเสนอ และเลือกสินค้าสำหรับทำ villa 8 หลัง"
   },
@@ -9278,6 +9834,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24765",
+    "hasDraftOrder": false,
     "customerName": "Anna",
     "notes": "ซื้อของตกแต่ง"
   },
@@ -9295,6 +9852,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D35219",
     "customerName": "Khun Lek",
     "notes": "รีโนเวทโครงการวัลญา วิลล่า (Wallaya Villas) ป่าสัก-เชิงทะเล\nใบเสนอราคา #D35219"
   },
@@ -9308,6 +9867,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณน้ำเพชร",
     "notes": "ลูกค้ามองหาโต๊ะรับประทานอาหารขนาด 180-200 cm"
   },
@@ -9323,6 +9883,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 2 ราย",
     "notes": "ต้องการโซฟาหนัง และเตียงไม้"
   },
@@ -9336,6 +9897,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Denis & Melina",
     "notes": "ลูกค้าเข้ามาดูโซฟาเพิ่ม ขนาดเล็ก 180-200 cm"
   },
@@ -9350,6 +9912,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24782",
+    "hasDraftOrder": false,
     "customerName": "Maksim Khrapak",
     "notes": "รับสินค้ากลับเองเรียบร้อย"
   },
@@ -9364,6 +9927,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Lighting"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติหญิง 1 ราย",
     "notes": "ต้องการให้จัดส่งสินค้าไปต่างประเทศ"
   },
@@ -9379,6 +9943,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D35237",
     "customerName": "Khun Kobbaow",
     "notes": "บ้านกำลังสร้าง สนใจโต๊ะทานอาหาร Gemma 180 Dining Table  และโซฟา Encanto  /D35237"
   },
@@ -9394,6 +9960,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24790",
+    "hasDraftOrder": false,
     "customerName": "Khun Nina (ลูกค้าบิว)",
     "notes": "มาดูพร พรม [RR] Estoria Natural 160x230 Charcoal(Natural & Charcoal) (Rugs) เพื่อนำไปวางกับโซฟาที่ซื้อไว้ก่อนหน้านี้\nและ Night Table"
   },
@@ -9409,6 +9976,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24789",
+    "hasDraftOrder": true,
+    "draftOrder": "D35251",
     "customerName": "คุณวาย",
     "notes": "D35251"
   },
@@ -9424,6 +9993,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าชาวไทย 2 คน",
     "notes": "เดินดูสินค้ารวมๆเป็นไอเดีย"
   },
@@ -9437,6 +10007,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2 ราย",
     "notes": "ลูกค้าจะกลับไปวัดขนาดและจะดูสินค้าเพิ่มเติมเองในเว็บไซต์ค่ะ"
   },
@@ -9451,6 +10022,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24788",
+    "hasDraftOrder": false,
     "customerName": "Khun John Mortimer",
     "notes": "ลูกค้าพี่บิวเข้ามาชำระเงินค่ะ"
   },
@@ -9465,6 +10037,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Console Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D35267",
     "customerName": "Vincent Duong",
     "notes": "สนใจ โต๊ะทำงาน [OP] Mondo Vanity Desk (Grey Travertine Top) Warm Grey Leg และ เก้าอี้ทานอาหาร [OP] Pumba Swivel Dining Chair White\nเสนอราคา #D35267 รอดูภาพจริงและตัดสินใจ"
   },
@@ -9478,6 +10052,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย หญิง 1 ราย",
     "notes": "สนใจโคมไฟ โคมไฟผนัง [NE] Jacira W2 Wall Lamp Matt Black ต้องการใใช้สินค้า 2 ชิ้น วันนี้ค่ะ"
   },
@@ -9494,6 +10069,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณRobert zero development",
     "notes": "ดูเตียง ดูพรม สอบถามสต็อกสินคเา แจ้งว่าจะแจ้งกลับอีกครั้ง"
   },
@@ -9507,6 +10083,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณIrina KZ Studio",
     "notes": "พาลูกค้ามาดูคุณภาพสินคเา เดี๋ยวจะเลือกสินคเามาอีกครั้งค่ะ"
   },
@@ -9522,6 +10099,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 1 ราย",
     "notes": "ดูสินค้ารวมๆ มาจากSK"
   },
@@ -9537,6 +10115,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "ดูcocoon, Mirth dining chair, Wall art ต้องการใช้ของที่ภูเก็ต เดี๋ยวจะคอนเฟิร์มมา"
   },
@@ -9555,6 +10134,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Floor Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D35269",
     "customerName": "Khun Victoria",
     "notes": "ดูสินค้าเข้าบ้านเพิ่มเติม / D35269"
   },
@@ -9623,6 +10204,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติหญิง 1 ราย",
     "notes": "ดูสินค้ารวมๆไม่ได้สอบถามสินค้าชิ้นไหนเป็นพิเศษ"
   },
@@ -9639,6 +10221,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24795, #LL24796",
+    "hasDraftOrder": false,
     "customerName": "คุณกานดา เกียร์ริงเกอ",
     "notes": "ลูกค้าสนใจเก้าอี้บาร์"
   },
@@ -9652,6 +10235,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D35276",
     "customerName": "คุณยุ้ย",
     "notes": "สนใจเก้าอี้ทานอาหาร [BZ] Mirth Dining Chair Green (Egg Shell Leg) = 4 pcs รอตัดสินใจเรื่องสี\n//ใบเสนอราคา #D35276"
   },
@@ -9665,6 +10250,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Khun Luke Anderson",
     "notes": "ดูสินค้ารวมๆ เป็นไอเดียตกแต่ง สนใจ เก้าอี้พักผ่อน [SZ] Priscilla Leisure Chairs Ivory + สตูลนั่ง [SZ] Priscilla Stool Ivory  และ เก้าอี้พักผ่อน [SE] Homen Swivel Lounge Chair Silver"
   },
@@ -9681,6 +10267,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Coffee Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "ต้องการโซฟาRicado แต่มีพื้นที่แค่290x370cm. และดูของอื่นรวมๆ"
   },
@@ -9694,6 +10281,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติชาย 1 ราย และชาวไทยหญิง 1 ราย",
     "notes": "ลุกค้าสนใจ โซฟา [HO] Bussola 2S Sofa แต่อยากได้สีอื่น ซึ่งในสต็อกมีแค่สีเบจ"
   },
@@ -9709,6 +10297,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติชาย 1 ราย",
     "notes": "อยากได้สินค้าวัสดุเป็นไว้ เนื่องจากที่บ้านตกแต่งด้วยไม้"
   },
@@ -9723,6 +10312,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Arts"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "ดูค้าดูSet outdoor และ painting ยังไม่คอนเฟิร์ม มาเดินดูเป็นIdea"
   },
@@ -9737,6 +10327,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bed"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "K.Bay",
     "notes": "สนใจเก้าอี้ทานอาหาร [TO] Half Round Dining Chair White (Leg Light Walnut) แต่อยากเปลี่ยนผ้าเป็นสีเขียว ประมาณการใช้ 8 ตัว"
   },
@@ -9751,6 +10342,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติหญิง  1 ราย",
     "notes": "ดูโคมไฟตั้งโต๊ะและดคมไฟผนัง ดูค้าต้องการดูสินค้าเพิ่มเองเองในเว็บไซต์"
   },
@@ -9764,6 +10356,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าชาวไทย 2 ราย",
     "notes": "เดินผ่านมาเพื่อจะไปดูโซฟา SK Home"
   },
@@ -9777,6 +10370,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Sectional Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 1 ราย",
     "notes": "สนใจโซฟา  ชอบโซฟา Balma กลับไปวัดขนาดแล้วจะกลับมาอีกครั้ง"
   },
@@ -9790,6 +10384,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Decor Accessories"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติหญิง 1 ราย",
     "notes": "ดูของตกแต่งบ้าน"
   },
@@ -9804,6 +10399,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Floor Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณกนต์ธีร์ วรพิทยุต",
     "notes": "สนใจ รูปภาพ [SS] Art Melodies สินค้าหมดสต๊อค ดูรูปภาพอื่นๆเพิ่มเติมยังไม่มีที่ชอบ  สนใจโคมไฟตั้งพื้น [ME] Monique Floor Lamp Matte Black\n รอมีโปรโมชั่นจะตัดสินใจอีกครั้ง"
   },
@@ -9817,8 +10413,1429 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Sectional Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Khun Antony",
     "notes": "มองหาโซฟาขนาดใหญ่ 4.5 เมตร สนใจ Balma"
+  },
+  {
+    "id": "5d36a2a0",
+    "date": "2026-08-15",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Side Tables"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าชาวไทยหญิง 1 ราย",
+    "notes": "มองหาโต๊ะข้างและเดินดูสินค้ารวมๆ"
+  },
+  {
+    "id": "719ce089",
+    "date": "2026-08-15",
+    "branch": "PHUKET",
+    "channel": "Appointment",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Night Tables",
+      "Working Desks",
+      "Working Chairs",
+      "TV Stands",
+      "Wall Arts"
+    ],
+    "orderClosed": true,
+    "closedDetails": "#LL24827",
+    "hasDraftOrder": true,
+    "draftOrder": "D35317",
+    "customerName": "K.Georgy Kazaryan",
+    "notes": "ลูกค้าเข้ามาดูสินค้าจริงตามแบบที่เสนอไว้ //ใบเสนอราคา D35317"
+  },
+  {
+    "id": "e250a252",
+    "date": "2026-08-15",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone/P'Nong",
+    "productInterests": [
+      "Rugs",
+      "Sectional Sofas",
+      "Bed"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "K.Chandler",
+    "notes": "ลูกค้าเดินดูสินค้ารวมๆเพื่อเป็นไอเดีย"
+  },
+  {
+    "id": "9a766f99",
+    "date": "2026-08-15",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Outdoor Seats"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "K.Yohan Cardinal",
+    "notes": "สนใจสินค้า Outdoor"
+  },
+  {
+    "id": "25abb1df",
+    "date": "2026-08-10",
+    "branch": "PHUKET",
+    "channel": "Appointment",
+    "salesperson": "Bew",
+    "productInterests": [
+      "I-Shape Sofas",
+      "Cafe Tables",
+      "DINING CHAIRS"
+    ],
+    "orderClosed": true,
+    "closedDetails": "LL24768,LL24769,LL24700",
+    "hasDraftOrder": false,
+    "customerName": "คุณโอ โบ๊ทพัฒนา",
+    "notes": "Furniture for The Aqua"
+  },
+  {
+    "id": "190fc8d6",
+    "date": "2026-08-15",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Night Tables",
+      "Wall Arts",
+      "DINING CHAIRS",
+      "Floor Lamps"
+    ],
+    "orderClosed": true,
+    "closedDetails": "LL24824",
+    "hasDraftOrder": false,
+    "customerName": "Khun Victoria",
+    "notes": "สนใจสินค้าเพิ่มเติมเข้าบ้าน  Botanica Frorestique FQ38"
+  },
+  {
+    "id": "7875539a",
+    "date": "2026-08-15",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Wall Arts"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ต่างชาติ 4 ราย",
+    "notes": "ดูรูปภาพ มาซื้อโซฟาที่ SK"
+  },
+  {
+    "id": "10d733ad",
+    "date": "2026-08-15",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "DINING CHAIRS",
+      "Dining Tables"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D35322",
+    "customerName": "คนไทย ชายหญิง 2 ราย K.aoum",
+    "notes": "สนใจโต๊ะทานอาหาร [OP] Viano L200 Dining Table Matte Beige (Sandstone Ash Leg) และ เก้าอี้ทานอาหาร [OP] Vito Dining Chair Beige (Sandstone Ash Leg) // D35322"
+  },
+  {
+    "id": "4aac7754",
+    "date": "2026-08-15",
+    "branch": "PHUKET",
+    "channel": "Appointment",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Night Tables"
+    ],
+    "orderClosed": true,
+    "closedDetails": "LL24818",
+    "hasDraftOrder": false,
+    "customerName": "Khun Anna Petrova",
+    "notes": "สนใจโต๊ะข้างเตียง [MJ] Soul Night Stand Cool Grey ลค.พี่บิว"
+  },
+  {
+    "id": "41e6fd50",
+    "date": "2026-08-17",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Cabinets"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าต่างชาติผู้ชาย 1 ราย",
+    "notes": "ลูกค้ามองหาที่ใส่รองเท้า"
+  },
+  {
+    "id": "2936cf60",
+    "date": "2026-08-17",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "I-Shape Sofas",
+      "L-Shape Sofas",
+      "Love Seat Sofas",
+      "Sectional Sofas",
+      "Single Seat Sofas",
+      "U-Shape Sofas"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ต่างชาติชาย 1 ราย",
+    "notes": "สนใจโซฟาลดราคา   ลูกค้าจะมา SK"
+  },
+  {
+    "id": "8af1bdca",
+    "date": "2026-08-17",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Outdoor Seats",
+      "Outdoor Tables"
+    ],
+    "orderClosed": true,
+    "closedDetails": "#LL24831 + #LL24832",
+    "hasDraftOrder": false,
+    "customerName": "คุณนัท",
+    "notes": "ลูกค้ามองหาสินค้าใช้สำหรับภายนอก ปิดการขายได้ จัดส่ง 24.08.2026"
+  },
+  {
+    "id": "ae57e198",
+    "date": "2026-08-18",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Bed"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าต่างชาติผู้ชาย 1 ราย",
+    "notes": "มองหาเตียง แต่ยังไม่ถูกใจ"
+  },
+  {
+    "id": "a9c83d0b",
+    "date": "2026-08-18",
+    "branch": "PHUKET",
+    "channel": "Appointment",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Working Chairs",
+      "Pendant Lamps"
+    ],
+    "orderClosed": true,
+    "closedDetails": "#LL24843",
+    "hasDraftOrder": false,
+    "customerName": "K. Luke Anderson",
+    "notes": "ลูกค้าเข้ามาเลือกซื้อสินค้าเพิ่มเติม มองหาเก้าอี้ทำงาน ไฟ เตียง Lounge Chair และของตกแต่ง แจ้งว่าจะเข้ามาดูเพิ่มเรื่อยๆ"
+  },
+  {
+    "id": "b795686b",
+    "date": "2026-08-18",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Bar Chair"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ต่างชาติชายหญิง 2 ราย",
+    "notes": "สนใจเก้าอี้บาร์ จะกลับไปวัดความสูงของเคาเตอร์บาร์อีกครั้ง"
+  },
+  {
+    "id": "ab16af25",
+    "date": "2026-08-18",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Outdoor Seats",
+      "Sectional Sofas"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D35357",
+    "customerName": "K.Antony",
+    "notes": "#D35357 ลูกค้าพาภรรยาเข้ามาดูสินค้าที่เคยเข้ามาดูไว้ เตียงริมสระ [SK] Haven Sun Lounger Mocha (Outdoor) ต้องการใช้ 8 ชิ้น ได้เอาตัวอย่างผ้ากลับไปเพื่อประกอบการตัดสินใจ"
+  },
+  {
+    "id": "155ea05c",
+    "date": "2026-08-18",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bew",
+    "productInterests": [
+      "DINING CHAIRS",
+      "Dining Tables",
+      "L-Shape Sofas",
+      "TV Stands",
+      "Bed",
+      "Benches"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "Draft Created",
+    "customerName": "คุณYulia",
+    "notes": "ดูสินค้าสำหรับProject Laguna Park ให้ส่งใบเสนอราคา"
+  },
+  {
+    "id": "9c6b6a9a",
+    "date": "2026-08-18",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Lounge Chair",
+      "Benches",
+      "Stools"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "คนไทยชายหญิง 2 ราย",
+    "notes": "หาเก้าอี้ม้านั่งสำหรับโต๊ะเครื่องแป้ง"
+  },
+  {
+    "id": "dc622437",
+    "date": "2026-08-18",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "DINING CHAIRS"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าต่างชาติผู้ชาย 1 คน ผู้หญิง 1 คน",
+    "notes": "เดินดูสินค้ารวมๆ"
+  },
+  {
+    "id": "f9e1e418",
+    "date": "2026-08-18",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bew",
+    "productInterests": [
+      "Floor Lamps"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าต่างชาติ 2 ราย",
+    "notes": "ดูFloor lamp 1 ตัวราคา 15,500 บาท แล้วก็ไปเลย"
+  },
+  {
+    "id": "5474435c",
+    "date": "2026-08-19",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Pendant Lamps"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าชาวไทยผู้หญิง 2 ราย",
+    "notes": "มองหาไฟติดเคาเตอร์บาร์"
+  },
+  {
+    "id": "5afc6eb3",
+    "date": "2026-08-19",
+    "branch": "PHUKET",
+    "channel": "Appointment",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "L-Shape Sofas",
+      "Dining Tables",
+      "DINING CHAIRS",
+      "Bed",
+      "Working Chairs"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "Naomi Miles",
+    "notes": "ลูกค้าโครงการ The petit Tycoon เข้ามาเลือกดูสินค้า เข้าอยู่จริงเดือนธันวาคม"
+  },
+  {
+    "id": "7951223a",
+    "date": "2026-08-19",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Rugs"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ต่างชาติชายหญิง  2 ราย",
+    "notes": "สนใจพรม AT  wsม [AT] Masal 303x209 Teal สินค้ามีรอยสีต่าง ลดราคาให้สูงสุด 50% ลูกค้ายังไม่ตกลง"
+  },
+  {
+    "id": "95d91623",
+    "date": "2026-08-19",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "I-Shape Sofas",
+      "Bed"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "K.Chun",
+    "notes": "มองโซฟาขนาดไม่เกิน 210 cm และเตียงควีน ใช้สำหรับวิลล่าที่บางเทา"
+  },
+  {
+    "id": "ee7f8af8",
+    "date": "2026-08-21",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Pendant Lamps",
+      "Decor Accessories"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าต่างชาติชาย 1 คน หญิง 1 คน",
+    "notes": "เดินดูสินค้ารวมๆ"
+  },
+  {
+    "id": "6318f7a6",
+    "date": "2026-08-21",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Dining Tables"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "คนไทยชายหญิง 2 ราย",
+    "notes": "ต้องการโต๊ะทานอาหารขนาด 150 ซม."
+  },
+  {
+    "id": "547a853b",
+    "date": "2026-08-21",
+    "branch": "PHUKET",
+    "channel": "Appointment",
+    "salesperson": "Ketone/P'Nong",
+    "productInterests": [
+      "Bar Chair",
+      "Bar Table",
+      "Beanbag",
+      "Bed",
+      "Benches",
+      "Cabinets",
+      "Cafe Tables",
+      "Ceiling Lamps",
+      "chandelier",
+      "Coffee Tables",
+      "Console Tables",
+      "Curtains",
+      "Cushions",
+      "DayBeds",
+      "Decor Accessories",
+      "Decor Books",
+      "DINING CHAIRS",
+      "Dining Tables",
+      "Dresser",
+      "Floor Lamps",
+      "I-Shape Sofas",
+      "L-Shape Sofas",
+      "Lounge Chair",
+      "Love Seat Sofas",
+      "Mirrors",
+      "Night Tables",
+      "Office",
+      "Ottomans",
+      "Outdoor Lighting",
+      "Outdoor Seats",
+      "Outdoor Tables",
+      "Outlet",
+      "parts",
+      "Pendant Lamps",
+      "Plants",
+      "Poufs",
+      "Rugs",
+      "Sectional Sofas",
+      "service",
+      "Shelf",
+      "Shoes Cabinet",
+      "Side Tables",
+      "Sideboards",
+      "Single Seat Sofas",
+      "Stools",
+      "Table Lamps",
+      "Tableware",
+      "Throws",
+      "Towel",
+      "TV Stands",
+      "U-Shape Sofas",
+      "Vases",
+      "Wall Arts",
+      "Wall Lamps",
+      "Working Chairs",
+      "Working Desks"
+    ],
+    "orderClosed": true,
+    "closedDetails": "LL24882",
+    "hasDraftOrder": false,
+    "customerName": "Song Yik Huey",
+    "notes": "เข้ามาดูสินค้าเพิ่ม เนื่องจากมีเปลี่ยนแบบเล็กน้อย จากออเดอร์ที่สั่งซื้อไว้ LL24477"
+  },
+  {
+    "id": "778efed5",
+    "date": "2026-08-21",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bew",
+    "productInterests": [
+      "Dining Tables",
+      "DINING CHAIRS",
+      "L-Shape Sofas",
+      "Lounge Chair"
+    ],
+    "orderClosed": true,
+    "closedDetails": "LL24881",
+    "hasDraftOrder": false,
+    "customerName": "Aldina Almeida",
+    "notes": "ดูเฟอร์นิเจอร์สำหรับ บ้านBotanica Grand Avenue"
+  },
+  {
+    "id": "271acd22",
+    "date": "2026-08-21",
+    "branch": "PHUKET",
+    "channel": "Appointment",
+    "salesperson": "Nong / Bee",
+    "productInterests": [
+      "I-Shape Sofas",
+      "Lounge Chair"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "K.Yulia",
+    "notes": "ลูกค้าบิว เข้ามาดูสินค้าที่เสนอไว้ ส่งรูปให้ดูเพิ่มเติมเนื่องจาก sofa อยู่ rm9"
+  },
+  {
+    "id": "cfe1da4b",
+    "date": "2026-08-21",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Pendant Lamps"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "คนไทยชาย 1 ราย",
+    "notes": "หาโคมไฟ ติดโถงบันได บ้านกำลังสร้าง"
+  },
+  {
+    "id": "72ea1989",
+    "date": "2026-08-21",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Decor Accessories",
+      "Wall Arts"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าต่างชาติผู้ชาย 1 ราย",
+    "notes": "ดูของตกแต่งและภาพตกแต่ง"
+  },
+  {
+    "id": "d8a517db",
+    "date": "2026-08-21",
+    "branch": "PHUKET",
+    "channel": "Appointment",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "I-Shape Sofas"
+    ],
+    "orderClosed": true,
+    "closedDetails": "#LL24893",
+    "hasDraftOrder": true,
+    "draftOrder": "D35400",
+    "customerName": "K.Chun Chang",
+    "notes": "เข้ามาดูโซฟาจริงตามใบเสนอราคา D35400 เพื่อตัดสินใจ"
+  },
+  {
+    "id": "be82b342",
+    "date": "2026-08-21",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bew",
+    "productInterests": [
+      "Rugs"
+    ],
+    "orderClosed": true,
+    "closedDetails": "LL24888",
+    "hasDraftOrder": false,
+    "customerName": "Viacheslav Savvin",
+    "notes": "ลูกค้าซื้อพรม 2 ผืน"
+  },
+  {
+    "id": "7ac61d25",
+    "date": "2026-08-20",
+    "branch": "PHUKET",
+    "channel": "Appointment",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Sideboards",
+      "DINING CHAIRS",
+      "Dining Tables",
+      "Coffee Tables",
+      "Outdoor Tables"
+    ],
+    "orderClosed": true,
+    "closedDetails": "LL24879",
+    "hasDraftOrder": true,
+    "draftOrder": "D34864",
+    "customerName": "Khun Ekaterina Mia",
+    "notes": "ชำระเงิน D34864"
+  },
+  {
+    "id": "64a1aaf3",
+    "date": "2026-08-22",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Bar Chair",
+      "Bar Table",
+      "Beanbag",
+      "Bed",
+      "Benches",
+      "Cabinets",
+      "Cafe Tables",
+      "Ceiling Lamps",
+      "chandelier",
+      "Coffee Tables",
+      "Console Tables",
+      "Curtains",
+      "Cushions",
+      "DayBeds",
+      "Decor Accessories",
+      "Decor Books",
+      "DINING CHAIRS",
+      "Dining Tables",
+      "Dresser",
+      "Floor Lamps",
+      "I-Shape Sofas",
+      "L-Shape Sofas",
+      "Lounge Chair",
+      "Love Seat Sofas",
+      "Mirrors",
+      "Night Tables",
+      "Office",
+      "Ottomans",
+      "Outdoor Lighting",
+      "Outdoor Seats",
+      "Outdoor Tables",
+      "Outlet",
+      "parts",
+      "Pendant Lamps",
+      "Plants",
+      "Poufs",
+      "Rugs",
+      "Sectional Sofas",
+      "service",
+      "Shelf",
+      "Shoes Cabinet",
+      "Side Tables",
+      "Sideboards",
+      "Single Seat Sofas",
+      "Stools",
+      "Table Lamps",
+      "Tableware",
+      "Throws",
+      "Towel",
+      "TV Stands",
+      "U-Shape Sofas",
+      "Vases",
+      "Wall Arts",
+      "Wall Lamps",
+      "Working Chairs",
+      "Working Desks"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "คุณหนิง บริษัท แคปปิตอลซิตี้เรียลเอสเตท ลูกค้าบิว",
+    "notes": "ดูสินค้ารวมๆ"
+  },
+  {
+    "id": "d8785358",
+    "date": "2026-08-22",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Sideboards"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "K.Oksana Makovenko",
+    "notes": "มองหา Sideboard"
+  },
+  {
+    "id": "986f5ad2",
+    "date": "2026-08-22",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Table Lamps"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ต่างชาติหญิง 1 ราย",
+    "notes": "ต้องการโคมไฟตั้งโต๊ะสำหรับตั้งหัวเตียงนอน ยังไม่มีแบบที่ชอบแนะนำให้ดูเพิ่มในเว็บไซต์"
+  },
+  {
+    "id": "943b82b2",
+    "date": "2026-08-22",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Bar Chair"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าต่างชาติผู้ชาย 1 ราย ผู้หญิง  1ราย",
+    "notes": "มองหาเก้าอี้บาร์"
+  },
+  {
+    "id": "aaa713f9",
+    "date": "2026-08-22",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Benches",
+      "Pendant Lamps"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "คุณผู้หญิงไทย 1 ราย(Scott Ashton)",
+    "notes": "มงหาม้านั่งสำหรับใส่รองเท้างานหนังขนาด180*80  และมองหาโคมไฟติดโถงบันได กลับไปวัดพื้นที่และความสูงอีกครั้ง"
+  },
+  {
+    "id": "e9180012",
+    "date": "2026-08-22",
+    "branch": "PHUKET",
+    "channel": "Appointment",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Pendant Lamps"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "K. Luke Anderson",
+    "notes": "มาดูโคมไฟเพิ่มเติม"
+  },
+  {
+    "id": "488d0812",
+    "date": "2026-08-22",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Bed",
+      "DayBeds"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าต่างชาติชายหญิง 2 ราย",
+    "notes": "อยากได้โซฟาปรับนอนได้ขนาดเท่าเตียง6 ฟุต"
+  },
+  {
+    "id": "b3197a61",
+    "date": "2026-08-22",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "L-Shape Sofas"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "K.Bernard",
+    "notes": "สนใจ โซฟา [YI] Stow Sofa Grey"
+  },
+  {
+    "id": "a45be8f5",
+    "date": "2026-08-22",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "I-Shape Sofas"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าต่างชาติผู้หญิง 1 ราย",
+    "notes": "มองหาโซฟาสำหรับใช้ในออฟฟิศ"
+  },
+  {
+    "id": "8461f68b",
+    "date": "2026-08-22",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Sectional Sofas",
+      "L-Shape Sofas"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D35429",
+    "customerName": "คนไทยหญิง 1 ราย",
+    "notes": "หาโซฟาขนาด 3 เมตร ต้องการสีเข้ม เสนอโซฟา [YI] Stow Sofa Grey จะกลับมาดูอีกครั้งพร้อมสามี /D35429"
+  },
+  {
+    "id": "d140214b",
+    "date": "2026-08-22",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "DINING CHAIRS",
+      "Dining Tables",
+      "Sectional Sofas",
+      "L-Shape Sofas"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D35427",
+    "customerName": "คนไทยชายหญิง 2 ราย Khun Yas",
+    "notes": "สนใจโต๊ะทานอาหาร โต๊ะทานอาหาร [OP] Viano L240 Dining Table Matte Beige (Sandstone Ash Leg) สำหรับ 6 ที่นั่ง บ้านกำลัง ตกแต่งภายใน // D35427"
+  },
+  {
+    "id": "7ff9d4ae",
+    "date": "2026-08-22",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Wall Arts"
+    ],
+    "orderClosed": true,
+    "closedDetails": "#LL24895",
+    "hasDraftOrder": false,
+    "customerName": "K.Eric Jolibois",
+    "notes": "ดูภาพวาดตกแต่ง"
+  },
+  {
+    "id": "166c494c",
+    "date": "2026-08-22",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "I-Shape Sofas",
+      "Love Seat Sofas"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าต่างชาติผู้ชาย 1 ราย",
+    "notes": "ลูกค้ามองหาโซฟาหนัง"
+  },
+  {
+    "id": "f582f65b",
+    "date": "2026-08-22",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "L-Shape Sofas"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าต่างชาติผู้ชาย 1 ราย ผู้หญิง 2 ราย",
+    "notes": "มองหาโซฟาที่กันน้ำ และ Pet friendly"
+  },
+  {
+    "id": "41e7bccb",
+    "date": "2026-08-22",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Sideboards",
+      "Coffee Tables",
+      "Bar Chair",
+      "Stools",
+      "Rugs",
+      "Table Lamps",
+      "Night Tables"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D33088",
+    "customerName": "Mr.Soh",
+    "notes": "ดูสินค้าเข้าบ้าน ตอนนี้บ้านเสร็จเรียบร้อยแล้ว ต้องการใช้สินค้ากลางเดือนกันยายน //D33088"
+  },
+  {
+    "id": "93f475c6",
+    "date": "2026-08-24",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Dining Tables"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าชาวไทยผู้ชาย 1 ราย ผู้หญิง 1 ราย",
+    "notes": "มองหาโต๊ะทานข้าวขนาด 200-220 ท็อปเซรามิก"
+  },
+  {
+    "id": "11929a8e",
+    "date": "2026-08-24",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bew",
+    "productInterests": [
+      "DINING CHAIRS",
+      "Dining Tables",
+      "Sideboards"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D35442",
+    "customerName": "Marina",
+    "notes": "D35442 ดูSfera, Malcolm,Arco"
+  },
+  {
+    "id": "3376b28d",
+    "date": "2026-08-24",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Working Desks",
+      "Shelf"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D35444",
+    "customerName": "Evgeniia Lamberova",
+    "notes": "สนใจโต๊ะทำงาน [SZ] Casey Desk Smoke Oak V2 และ ชั้นวางของ [SZ] Homen Bookshelf Black  / D35444"
+  },
+  {
+    "id": "c6ba7541",
+    "date": "2026-08-24",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "DINING CHAIRS",
+      "Dining Tables"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าชาวไทยผู้ชาย 1 ราย ผู้หญิง 1 ราย",
+    "notes": "มองหาโต๊ะทานข้าวขนาด 200 cm + เก้าอี้ 6 ตัว"
+  },
+  {
+    "id": "5738a9cd",
+    "date": "2026-08-24",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Pendant Lamps",
+      "Night Tables"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "คุณชื่น",
+    "notes": "สนใจโคมไฟตั้งโต๊ะ [ME] Ricerca Table Lamp Brown และ โต๊ะข้าง [PA] Sukhada Side Table Wood"
+  },
+  {
+    "id": "e5175e83",
+    "date": "2026-08-24",
+    "branch": "PHUKET",
+    "channel": "Appointment",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Bar Chair"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "K.Guy",
+    "notes": "เข้ามาลองนั่งสินค้าจริงตามแบบเสนอ เก้าอี้เคาน์เตอร์ [BZ] Mirth Counter Stool SH65 Beige (Oak Leg)"
+  },
+  {
+    "id": "40c9e373",
+    "date": "2026-08-24",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Sectional Sofas",
+      "Bed"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "Khun Shawn Tuohy",
+    "notes": "สนใจโซฟา [SF] Balma  และเตียงนอน [YA] Lawson Bed King Size Beige"
+  },
+  {
+    "id": "8881e3fc",
+    "date": "2026-08-24",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Nong",
+    "productInterests": [
+      "Pendant Lamps"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าคนไทย walk in 2 คน",
+    "notes": "ราคาสินค้าเกิน budget"
+  },
+  {
+    "id": "e2dbd2e0",
+    "date": "2026-08-24",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Rugs"
+    ],
+    "orderClosed": true,
+    "closedDetails": "#LL24901",
+    "hasDraftOrder": false,
+    "customerName": "Elliot Costello",
+    "notes": "ดูพรมสีฟ้า น้ำเงิน ขนาด 160*230"
+  },
+  {
+    "id": "5cae49bd",
+    "date": "2026-08-24",
+    "branch": "PHUKET",
+    "channel": "Appointment",
+    "salesperson": "Bew",
+    "productInterests": [
+      "Bed",
+      "Side Tables",
+      "Night Tables",
+      "Table Lamps"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D35439",
+    "customerName": "คุณAldina",
+    "notes": "D35439"
+  },
+  {
+    "id": "bd184b00",
+    "date": "2026-08-24",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bew",
+    "productInterests": [
+      "Outdoor Seats"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าไทย 1 ราย ลูกค้าต่างชาติ 1 ราย",
+    "notes": "ดู sun Lounger 105,000 กับ29,900 บาท"
+  },
+  {
+    "id": "fb97434e",
+    "date": "2026-08-24",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bew",
+    "productInterests": [
+      "Lounge Chair"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าต่างชาติ 2 ราย",
+    "notes": "ดู Lounge Chair 2ตัวแล้วก็ไปดูSKต่อ"
+  },
+  {
+    "id": "8245c4dc",
+    "date": "2026-08-24",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Wall Arts"
+    ],
+    "orderClosed": true,
+    "closedDetails": "#LL24905",
+    "hasDraftOrder": false,
+    "customerName": "Borista A",
+    "notes": "ดูของตกแต่งและภาพวาด"
+  },
+  {
+    "id": "1aea1433",
+    "date": "2026-08-25",
+    "branch": "PHUKET",
+    "channel": "Designer",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Bar Chair",
+      "Bar Table",
+      "Beanbag",
+      "Bed",
+      "Benches",
+      "Cabinets",
+      "Cafe Tables",
+      "Ceiling Lamps",
+      "chandelier",
+      "Coffee Tables",
+      "Console Tables",
+      "Curtains",
+      "Cushions",
+      "DayBeds",
+      "Decor Accessories",
+      "Decor Books",
+      "DINING CHAIRS",
+      "Dining Tables",
+      "Dresser",
+      "Floor Lamps",
+      "I-Shape Sofas",
+      "L-Shape Sofas",
+      "Lounge Chair",
+      "Love Seat Sofas",
+      "Mirrors",
+      "Night Tables",
+      "Office",
+      "Ottomans",
+      "Outdoor Lighting",
+      "Outdoor Seats",
+      "Outdoor Tables",
+      "Outlet",
+      "parts",
+      "Pendant Lamps",
+      "Plants",
+      "Poufs",
+      "Rugs",
+      "Sectional Sofas",
+      "service",
+      "Shelf",
+      "Shoes Cabinet",
+      "Side Tables",
+      "Sideboards",
+      "Single Seat Sofas",
+      "Stools",
+      "Table Lamps",
+      "Tableware",
+      "Throws",
+      "Towel",
+      "TV Stands",
+      "U-Shape Sofas",
+      "Vases",
+      "Wall Arts",
+      "Wall Lamps",
+      "Working Chairs",
+      "Working Desks"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "K.โก้ และโอนเนอร์ AVA Villa",
+    "notes": "พาโอนเนอร์มาเลือกสินค้าตามแบบ Project AVA Villa"
+  },
+  {
+    "id": "62d872b4",
+    "date": "2026-08-25",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bew",
+    "productInterests": [
+      "Dining Tables",
+      "DINING CHAIRS",
+      "Coffee Tables",
+      "I-Shape Sofas"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ตรีสรา",
+    "notes": "ดูสินค้าเข้าห้องอาหารตรีสรา"
+  },
+  {
+    "id": "f7d36193",
+    "date": "2026-08-25",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bew",
+    "productInterests": [
+      "Outdoor Seats"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "คุณ John",
+    "notes": "ดูสินค้าoutdoor แต่มีรายการเหมือนเดิมเลยไม่ดูต่อ"
+  },
+  {
+    "id": "62c622fa",
+    "date": "2026-08-25",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "I-Shape Sofas",
+      "L-Shape Sofas"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "คนไทยหญิง  1 ราย ต่างชาติชาย 1 ราย",
+    "notes": "มองหาโซฟาเข้าบ้าน   จะมา SK"
+  },
+  {
+    "id": "d8dd2db4",
+    "date": "2026-08-25",
+    "branch": "PHUKET",
+    "channel": "Designer",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Working Chairs",
+      "Rugs"
+    ],
+    "orderClosed": true,
+    "closedDetails": "LL24914",
+    "hasDraftOrder": true,
+    "draftOrder": "D35467",
+    "customerName": "K.Irina Trunkova Design",
+    "notes": "มองหาพรมและเก้าอี้ทำงาน #D35467"
+  },
+  {
+    "id": "64bfdefa",
+    "date": "2026-08-25",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bew",
+    "productInterests": [
+      "L-Shape Sofas",
+      "Pendant Lamps"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าต่างชาติ 2 ราย",
+    "notes": "ดูรวมๆ"
+  },
+  {
+    "id": "824e805e",
+    "date": "2026-08-25",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Outdoor Lighting"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าชาวไทยผู้ชาย 1 ราย ผู้หญิง 1 ราย",
+    "notes": "มองหาโคมไฟสำหรับใช้ภายนอก"
+  },
+  {
+    "id": "869d4034",
+    "date": "2026-08-25",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bew",
+    "productInterests": [
+      "Bed",
+      "L-Shape Sofas",
+      "Dining Tables",
+      "DINING CHAIRS",
+      "Outdoor Seats",
+      "Outdoor Tables"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าต่างชาติ 2 ราย",
+    "notes": "ดูสินค้าเข้าวิลล่า อยากได้Outlet เดี๋ยวไปดูเพิ่มเติมที่RM9 ถ้าอยากได้อะไรจะส่งรายการมา"
+  },
+  {
+    "id": "d47633f8",
+    "date": "2026-08-26",
+    "branch": "PHUKET",
+    "channel": "Appointment",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "DINING CHAIRS",
+      "Dining Tables",
+      "Sideboards"
+    ],
+    "orderClosed": true,
+    "closedDetails": "#LL24920",
+    "hasDraftOrder": false,
+    "customerName": "K.Marina (ลูกค้าบิว)",
+    "notes": "เข้ามาดูสินค้าเพิ่มเติมและชำระเงิน"
+  },
+  {
+    "id": "3f3e19c7",
+    "date": "2026-08-26",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Outdoor Seats",
+      "Bar Chair"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ต่างชาติชาย 1 ราย หญิงไทย 1 ราย",
+    "notes": "ดูสินค้ารวมๆ"
+  },
+  {
+    "id": "96ac1dfe",
+    "date": "2026-08-26",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Bed",
+      "L-Shape Sofas",
+      "Sectional Sofas",
+      "Bar Chair",
+      "Dining Tables"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "คนไทยหญิง 2 ราย",
+    "notes": "สนใจโต๊ะทานอาหาร อยากได้ขนาดใหญ่กว่านี้ ดูของเข้าบ้านที่พังงา"
+  },
+  {
+    "id": "fd6af272",
+    "date": "2026-08-26",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Pendant Lamps"
+    ],
+    "orderClosed": true,
+    "closedDetails": "#LL24923",
+    "hasDraftOrder": false,
+    "customerName": "คุณอาทร อึ๋งประเสริฐ",
+    "notes": "มองหาโคมไฟสำหรับตกตแต่งร้านอาหาร"
+  },
+  {
+    "id": "ad71c626",
+    "date": "2026-08-26",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Wall Arts"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าต่างชาติผู้ชาย 1 คน",
+    "notes": "สนใจภาพวาดและของตกแต่ง"
+  },
+  {
+    "id": "9e9f1cdf",
+    "date": "2026-08-26",
+    "branch": "PHUKET",
+    "channel": "Appointment",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Sideboards"
+    ],
+    "orderClosed": true,
+    "closedDetails": "#LL24926",
+    "hasDraftOrder": false,
+    "customerName": "K.Yulia Nichiporuk (ลูกค้าบิว)",
+    "notes": "เข้ามาดูสินค้าและชำระเงิน"
+  },
+  {
+    "id": "c37df5f1",
+    "date": "2026-08-26",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Rugs",
+      "Sideboards"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าต่างชาติผู้หญิง 2 ราย",
+    "notes": "มองหาพรมขนาดเล็กกว่า 160*230 cm"
+  },
+  {
+    "id": "ac6ba443",
+    "date": "2026-08-26",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Bee",
+    "productInterests": [
+      "Bed",
+      "Pendant Lamps"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "คนไทยหญิง 1 ราย",
+    "notes": "สนใจโคมไฟและเตียงนอนค่ะ"
+  },
+  {
+    "id": "7feb0aba",
+    "date": "2026-08-26",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Lounge Chair"
+    ],
+    "orderClosed": true,
+    "closedDetails": "Order Confirmed",
+    "hasDraftOrder": false,
+    "customerName": "K.Peter",
+    "notes": "สนใจ เก้าอี้พักผ่อน [YA] Turina Lounge Chair Yellow แต่จะสั่งซื้อเดือนหน้า เนื่องจากมีแพลนจะใช้ในเดือนตุลาคม"
+  },
+  {
+    "id": "0839de41",
+    "date": "2026-08-26",
+    "branch": "PHUKET",
+    "channel": "Appointment",
+    "salesperson": "Nong",
+    "productInterests": [
+      "Wall Arts",
+      "I-Shape Sofas",
+      "Bed",
+      "Cushions"
+    ],
+    "orderClosed": true,
+    "closedDetails": "#L24932",
+    "hasDraftOrder": true,
+    "draftOrder": "D35059",
+    "customerName": "K.Lana",
+    "notes": "D35059 เข้ามาสรุปรายการสินค้าที่เสรอไว้"
+  },
+  {
+    "id": "a060119a",
+    "date": "2026-08-27",
+    "branch": "PHUKET",
+    "channel": "Walk in",
+    "salesperson": "Ketone",
+    "productInterests": [
+      "Pendant Lamps"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าชาวไทยผู้หญิง 2 ราย",
+    "notes": "ลูกค้าสนใจไฟรายการ โคมไฟเพดาน [NE] Hengele Ring 100 Pendant Lamp V2 Black"
   },
   {
     "id": "293932a7",
@@ -9832,6 +11849,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Manfred Kurr",
     "notes": "ดูสินค้าสำหรับวิลล่าที่หัวหิน  ส่งรายละเอียดผ่านไลน์@แล้ว ลูกค้าจะเชคขนาดพื้นที่"
   },
@@ -9845,6 +11863,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ",
     "notes": "ดูโต๊ะทานอาหาร"
   },
@@ -9860,6 +11879,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24080",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าคนไทย #LL24080",
     "notes": "ดูเก้าอี้ดีเฟค บีเกรด มาดูของจริง เปิดออเดอร์ #LL24080"
   },
@@ -9873,6 +11893,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าคุณดี (Padee Studio)",
     "notes": "ดูโคมไฟสำหรับข้างเตียง ตามแบบที่ผู้ออกแบบเลือก"
   },
@@ -9886,6 +11907,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ",
     "notes": "อยากได้ผ้าสำหรับ Pet-Friendly"
   },
@@ -9900,6 +11922,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Table Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ",
     "notes": "ดูสินค้าโคมไฟ โต๊ะทานอาหารขนาด 80-100 cm"
   },
@@ -9918,6 +11941,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย",
     "notes": "ดูสินค้าใส่คอนโดขนาด 80 ตรม"
   },
@@ -9933,6 +11957,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bed"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Otello Studio",
     "notes": "ลูกค้าเซลปุ๋ย มาหาสินค้าสำหรับบ้านลูกค้า บ้านยังไม่เสร็จแต่เจ้าของบ้านอยากเข้าไปอยู่ก่อนเลยอยากเอาสินค้าบางรายการที่จำเป็นเข้าไปก่อน"
   },
@@ -9954,6 +11979,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Khun Lina",
     "notes": "หาสินค้าสำหรับบ้านเช่าที่จอมเทียนทั้งหลัง 5ห้องนอน"
   },
@@ -9969,6 +11995,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Coffee Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าจาก Abacus",
     "notes": "ลูกค้าจาก Abacus ของเซลติม มาดูโต๊ะทานข้าว เก้าอี้ทานข้าว เก้าอี้บาร์ และโต๊ะกลาง"
   },
@@ -9984,6 +12011,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Sideboards"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "หาโซฟา 2 ที่นั่ง / ตู้ที่ด้านหลังสามารถหันโชว์ได้"
   },
@@ -9999,6 +12027,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ดีไซน์เนอร์ติม",
     "notes": "โต๊ะข้างขนาด 30 / เก้าอี้ขาดำ 5 ตัว"
   },
@@ -10013,6 +12042,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "เชฟอาร์ต",
     "notes": "เตียงแบบหนัง / เก้าอี้หนัง"
   },
@@ -10026,6 +12056,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าดีไซน์เนอร์ติม",
     "notes": "ดูไฟผนัง สอบถามส่วนลด แจ้งให้ติดต่อฝ่ายเซลล์"
   },
@@ -10041,6 +12072,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "chandelier"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "ดูเก้าอี้บาร์ / เก้าอี้ทานอาหาร และโคมไฟโถงแต่งหน้า"
   },
@@ -10056,6 +12088,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "ดูสินค้าลดราคา"
   },
@@ -10069,6 +12102,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "ดูสินค้าทั่วไปในร้าน"
   },
@@ -10083,6 +12117,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Table Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ",
     "notes": "หาโคมไฟเพดานสำหรับห้องรับแขก"
   },
@@ -10098,6 +12133,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Arts"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Designer",
     "notes": "หาโคมไพดานสำหรับห้องนอน ขนาดสำหรับเพดานที่ไม่สูงมาก 260-280 cm"
   },
@@ -10113,6 +12149,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "หาโคมไฟสำหรับบนโต๊ะทานอาหาร 240 cm   แนะนำขนาดที่เรามีนอกเหนือจากที่โชว์  / หาพรมห้องนอน ห้องอาหาร และเก้าอี้ทานอาหาร"
   },
@@ -10131,6 +12168,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Decor Accessories"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณอาร์ม องศาศิลป์",
     "notes": "ลูกค้าผ่านมาเนื่องจากมาดูเฟอร์นิเจอร์ร้านแถวๆนี้ ดูสินค้าหลายอย่างสำหรับงานออกแบบบ้านลูกค้า"
   },
@@ -10145,6 +12183,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Cabinets"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "ลูกค้าดูโต๊ะทานข้าวและตู้เก็บของ"
   },
@@ -10159,6 +12198,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "chandelier"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "ลูกค้าหาไฟสำหรับโถงบันไดสูง 1.6 เมตร"
   },
@@ -10172,6 +12212,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าดีไซเนอร์ Ouratelier",
     "notes": "ลูกค้ามาดูสินค้าโคมไฟสำหรับงานออกแบบบ้านลูกค้า ภายหลังพาเจ้าของบ้านเข้ามาดูสินค้าอีกรอบเวลาประมาณ 13.45"
   },
@@ -10188,6 +12229,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24143",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "ลูกค้าหาสินค้าเก้าอี้ทานข้าว เก้าอี้บาร์ Outlet และตู้วางทีวีแต่ไม่อยากได้รุ่นที่เตี้ยๆ ชอบรุ่น Sutton Sideboard Smoked Oak ขอไปตัดสินใจก่อนว่าจะสูงไปไหมหากวางทีวีจอใหญ่"
   },
@@ -10204,6 +12246,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณแอน",
     "notes": "ลูกค้าดูสินค้าผ่านทางเว็บไซต์มาก่อนแล้ว และมาดูสินค้าจริงที่หน้าร้านก่อนการตัดสินใจ / มาดู Sideboard สี Smoked oak ถามหาสินค้า Outdoor เข้าร่วมโปรหรือไม่"
   },
@@ -10219,6 +12262,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า1",
     "notes": "ดูสินค้าสำหรับร้านอาหาร"
   },
@@ -10233,6 +12277,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24162",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ",
     "notes": "พรมสำหรับบ้าน และดูเก้าอี้สตูลแต่รอหน้างานทำเคาเตอร์ก่อน"
   },
@@ -10249,6 +12294,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24166",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าเอเจน",
     "notes": "ดูสินค้าสำหรับห้องเช่า"
   },
@@ -10265,6 +12311,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24170",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ",
     "notes": "ลูกค้ามาดูสินค้าสำหรับคอนโด"
   },
@@ -10279,6 +12326,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "ลูกค้ามาหาโต๊ะและเก้าอี้ทานข้าวสำหรับบ้านเช่า2หลัง แต่อยากได้สินค้าที่ราคาไม่แพงมากเพราะไม่อยากลงทุนเยอะ พรุ่งนี้จะพาเพื่อนมาดูโต๊ะ Oceano เพื่อนลูกค้าเป็นเจ้าของบ้านเช่าอีกหลังหนึ่ง"
   },
@@ -10293,6 +12341,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "สนใจ โต๊ะทานอาหาร [OP] Viano L240 Dining Table Matte Beige (Dry French Oiled Ash Leg)\n ขอกลับไปวัดหน้างานก่อน แอดไลน์แอดร้านและแจ้งโปรแล้ว"
   },
@@ -10307,6 +12356,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24191",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าอินทีเรียบริษัท บิลท์ อิน แอสเสท จำกัด",
     "notes": "ลูกค้ามาดูสินค้าสำหรับห้องเช่า  ซื้อโต๊ะ outlet ไปก่อน รอกลับไปตรวจเชคโต๊ะข้างเตียง  (ลคพี่หยก)"
   },
@@ -10321,6 +12371,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Night Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "Draft Created",
     "customerName": "คุณน้ำ",
     "notes": "ดูสินค้าจริงตามใบเสนอราคา รอคุยกับอินทีเรียอีกครั้ง"
   },
@@ -10337,6 +12389,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bar Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "กำลังก่อสร้างบ้านที่ชลบุรี ยังไม่ได้แจ้งวันแล้วเสร็จ \nพักอยู่ฝั่งตรงข้าม มองเห็นร้านเลยเดินเข้ามาชมสินค้าก่อน\nแนะนำให้แอดไลน์และดูสินค้าเพิ่มเติมจากหน้าเวปไซต์"
   },
@@ -10350,6 +12403,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "สนใจ sofa หนัง \nแต่ที่เรามีอยู่น้อย เลยยังไม่ชอบแบบ \nจึงเสนอให้ลองเลือกแบบจาก website แล้วจะสอบถามโรงงานให้ว่าสามารถผลิตให้ได้มั้ย ใช้ระยะเวลากี่วัน"
   },
@@ -10364,6 +12418,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Coffee Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "ลูกค้าหาโต๊ะทำงานแต่อยากได้สีอ่อน เพราะตู้ที่บ้านเป็นไม้สีอ่อน ลูกค้าดูโต๊ะกลาง Outlet ตัวสีเงิน อยากได้ไว้สำหรับนั่งที่ห้องแต่งตัว"
   },
@@ -10378,6 +12433,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "P49",
     "notes": "หาโคมไฟที่เน้นสีขาว กับ สีเงิน   ใช้สินค้าช่วงกันยายน"
   },
@@ -10391,6 +12447,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Table Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "ดูโคมไฟตั้งโต๊ะโทนสีขาว สว่าง"
   },
@@ -10404,6 +12461,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ",
     "notes": "ดูเก้าอี้รับประมานอาหาร"
   },
@@ -10418,6 +12476,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24222",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 3",
     "notes": "หาสินค้าสำหรับทำบ้านเช่าที่เชี่ยงใหม่ และภูเก็ต"
   },
@@ -10431,6 +12490,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 5",
     "notes": "ดูโซฟา Balma แต่สีเบจฝั่งขวาหมด"
   },
@@ -10445,6 +12505,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า6",
     "notes": "ดูโซฟาสำหรับพื้นที่ 4.5 เมตร"
   },
@@ -10459,6 +12520,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24235",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาตื",
     "notes": "พรม"
   },
@@ -10477,6 +12539,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "Order Confirmed",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ",
     "notes": "ลูกค้ามาหาสินค้าหลายรายการสำหรับบ้านลูกค้า ลูกค้าไปซื้อที่สุขุมวิทบ่อยๆ แต่สอบถามแล้วว่าชื่ออะไรในการเปิดออเดอร์ ลูกค้าแจ้งว่าไม่แน่ใจ"
   },
@@ -10494,6 +12557,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24254",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า ต ตกแต่ง เซลปุ๋ย",
     "notes": "ลูกค้ามาหาดูสินค้าตัวจริงตามแบบสเปคของดีไซเนอร์ ยังตัดสินใจไม่ได้ และหาโซฟาสำหรับวางหน้าเตียง เก้าอี้บาร์สีเขียว"
   },
@@ -10509,6 +12573,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Stools"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ",
     "notes": "ลูกค้าสอบถามราคาเก้าอี้พักผ่อน โต๊ะกลาง และ Stool"
   },
@@ -10523,6 +12588,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "TV Stands"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ฉานดีไซน์ (ลคติม)",
     "notes": "พาลูกค้ามาดูสินค้าตามสเปค  ทางลูกค้าอยากได้โซฟาหนังเพราะใช้รับรองแขก ง่ายต่อการดูแลรักษา"
   },
@@ -10538,6 +12604,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "ลูกค้ามาหาไฟเพดาน อยากได้แบบโมเดิร์น ลูกค้าแจ้งว่าไปมาหลายร้านมากไม่เจอที่ถูกใจและต้องพรีออเดอร์ทุกร้าน รอของประมาณเกือบ1เดือน และดูเตียงกับโซฟาเพิ่มเติม"
   },
@@ -10552,6 +12619,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ",
     "notes": "ลูกค้าดูพรมกับโต๊ะกลางสำหรับบ้าน"
   },
@@ -10567,6 +12635,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24275",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า",
     "notes": "ดูสินค้า OUTLET"
   },
@@ -10581,6 +12650,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า3",
     "notes": "ลูกค้ากำลังทำออฟฟิต ใช้ผู้ออกแบบ บริษัท อีฟ  จะพาดีไซน์มาดุใหม่"
   },
@@ -10597,6 +12667,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24290",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "ดูสินค้าตกแต่ง โคมไฟ สินค้าลดราคา"
   },
@@ -10612,6 +12683,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24286",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "ดูสินค้า OUTLET ทำคอนโดให้เช่า"
   },
@@ -10629,6 +12701,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "K.Jonny",
     "notes": "ลูกค้าเข้ามาดูสินค้าตัวจริงตามแบบที่นำเสนอรอบที่ 1"
   },
@@ -10644,6 +12717,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Floor Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 1 ราย",
     "notes": "ดูสินค้า Outlet และสินค้าอื่นๆ สำหรับบ้านส่วนตัว ขอวัดพื้นที่ก่อน"
   },
@@ -10658,6 +12732,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 1 ราย",
     "notes": "ลูกค้าเก่า ดูสินค้าเฟอร์แนวโอเรียลทอล"
   },
@@ -10674,6 +12749,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2 ราย",
     "notes": "รอส่งรายละเอียดดีไซเนอร์"
   },
@@ -10691,6 +12767,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Dot2Line",
     "notes": "จะส่งรูปสินค้าที่สนใจให้กับทางเซลอีกครั้ง"
   },
@@ -10706,6 +12783,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Decor Accessories"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณสิริพร",
     "notes": "ลูกค้าเก่า ดูสินค้า Clearance และ Outlet (ยังไม่ถูกใจ รอสินค้าปกติจัดลดราคา)"
   },
@@ -10722,6 +12800,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2 ราย",
     "notes": "สนใจโต๊ะกลาง Crisp 100 แต่อยากได้เป็นหินสีอื่น เสนอเป็น Palermo 132 (Grey) ต้องวัดพื้นที่ก่อน"
   },
@@ -10735,6 +12814,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2 ราย",
     "notes": "หาไฟพระจันทร์กลมขนาด 60-80cm สนใจ Moon แต่ขนาดเล็กไป (40cm)"
   },
@@ -10749,6 +12829,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า",
     "notes": "ลูกค้าจะไปงานบ้านและสวนผ่านมาเลยแวะดูที่ร้าน  ดูชุดโต๊ะหินสีขาวและเก้าอี้ ขนาด 6 ที่นั่งราคาไม่เกินแสน"
   },
@@ -10764,6 +12845,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2 ราย",
     "notes": "ลูกค้าดีไซเนอร์ ริน ลิฟวิ่ง แอนด์ ดีไซน์ งานคลีนิค"
   },
@@ -10780,6 +12862,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "อะโพสฟี่",
     "notes": "ดูสินค้าจริงตามใบเสอนราคา"
   },
@@ -10799,6 +12882,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24307",
+    "hasDraftOrder": false,
     "customerName": "Linda",
     "notes": "ดูสินค้าทั่วไปสำหรับคอนโด"
   },
@@ -10814,6 +12898,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าเก่า ซื้อตอนโปร",
     "notes": "ลูกค้ามาดูของเพิ่ม รอทำห้องเสร็จจะมาอีกที"
   },
@@ -10829,6 +12914,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24315",
+    "hasDraftOrder": false,
     "customerName": "บริษัท ตา โปรดักชั่น",
     "notes": "รับสินค้าพรม ดูไฟตั้งโต๊ะเพิ่มเติม"
   },
@@ -10843,6 +12929,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Sideboards"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 1 ราย",
     "notes": "ลูกค้ามาหาเตียงและตู้สำหรับบ้านตัวเองที่พึ่งรีโนเวทเสร็จ ชอบตู้ Emmitt สีครีมแต่ไม่อยากได้ตัวที่มีรอย ลูกค้าดูสินค้ามาบ้างจากทาง FB อยากมาดูวัสดุจริง"
   },
@@ -10856,6 +12943,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าจากดีไซเนอร์คุณโจ๊ก",
     "notes": "ลูกค้ามาลองนั่งโซฟาตัวจริงที่ดีไซเนอร์เสปคแบบไปให้ ลูกค้าอยากได้โซฟาแบบ Pet friendly"
   },
@@ -10870,6 +12958,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Night Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "ลูกค้ามาหา side table และ night table ดูสินค้ามาทาง IG แต่ตัวที่ลูกค้าชอบไม่มีสต็อกแล้ว (SA) Jacopo"
   },
@@ -10885,6 +12974,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Coffee Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "ลูกค้าเป็นอาจารย์ม.ศิลปากร ทำฟรีแลนซ์ ชื่อ Skylab มาหาสินค้าสำหรับโปรเจคโรงแรมที่ชลบุรี"
   },
@@ -10899,6 +12989,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outlet"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "ลูกค้ามาดูเก้าอี้ทานข้าว Outlet สินค้าเหลือสีที่ไม่เข้ากับบ้าน แนะนำเก้าอี้ Mirth ลูกค้าแจ้งว่านั่งสบาย ส่งสีใหม่ไปให้ดูทางไลน์ ลูกค้าแจ้งว่าไม่ชอบแบบ"
   },
@@ -10913,6 +13004,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "บ้านลูกค้าพึ่งเสร็จ มาหาโคมไฟก่อนเพราะยังไม่อยากนำเฟอร์นิเจอร์เข้าบ้านก่อนการติดตั้งโคมไฟ ลูกค้าอยากได้โคมที่สามารถรวมกลุ่มกันได้หลายๆชิ้น"
   },
@@ -10931,6 +13023,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Sideboards"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Jonny",
     "notes": "ลูกค้าแนะนำจากคุณ Bastien"
   },
@@ -10945,6 +13038,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Side Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 6",
     "notes": "ลูกค้าจาก unknown surface studio มาหาโต๊ะคาเฟ่ 60-70cm และโต๊ข้าง"
   },
@@ -11013,6 +13107,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "ลูกค้ามาหาสินค้าหลากหลายรายการ ปกติซื้อที่สุขุมวิท ลูกค้าไม่ได้ให้เซลเดินตามเพราะมาบ่อยและอยากเดินดูสินค้ากันเอง เป็นลูกค้าดีไซเนอร์เซลติม"
   },
@@ -11029,6 +13124,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Decor Books"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "ลูกค้าอยากให้ไปวัดหน้างานบ้านส่วนตัวของตัวเอง บ้านสร้างเสร็จแล้วแต่อยากจะเปลี่ยนเฟอร์นิเจอร์ใหม่"
   },
@@ -11042,6 +13138,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outlet"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "ดูเก้าอี้ทานข้าวและคอนโซล จะเอาไปใช้ในร้านแว่นของตัวเอง"
   },
@@ -11056,6 +13153,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24363",
+    "hasDraftOrder": false,
     "customerName": "Kiren",
     "notes": "ลูกค้ามาจ่ายเงินและดูเก้าอี้พักผ่อนเพิ่ม"
   },
@@ -11070,6 +13168,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าจากดีไซเนอร์ seven studio ลูกค้าน้องติม",
     "notes": "ลูกค้ามาดูโซฟาตามแบบที่ดีไซเนอร์สเปคงานไปให้"
   },
@@ -11097,6 +13196,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าจาก DIV",
     "notes": "ลูกค้ามาดูสินค้าจริงตามแบบที่ดีไซเนอร์สเปคมา"
   },
@@ -11110,6 +13210,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Designer เซลติม",
     "notes": "ลูกค้าเข้ามาดูเก้าอี้ Mirth ไว้ใช้กับงานโปรเจคร้านคาเฟ่"
   },
@@ -11125,6 +13226,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "ลูกค้าเป็นเจ้าของคลีนิคมาดูสินค้าโต๊ะกลางที่มีขนาดสูงกว่าปกติ เนื่องจากอยากเอาไว้ให้ลูกค้าเซ็นต์เอกสาร และดูเก้าอี้พักผ่อนที่เป็นหนัง"
   },
@@ -11193,6 +13295,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "ลูกค้าเป็นดีไซเนอร์ แต่ยังไม่ยอมบอกชื่อ มาหาสินค้าหลายรายการสำหรับงานบ้านพักส่วนตัว ลูกค้าแจ้งว่าดูหลายรายการและจะเข้ามาใหม่หากสนใจสินค้า"
   },
@@ -11208,6 +13311,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24383",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "ลูกค้ามารับพรม และ ดูของเพิ่ม"
   },
@@ -11221,6 +13325,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outlet"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ไทย 2 ต่างชาติ 2",
     "notes": "ลูกค้ามาดูของไปใส่ห้องเช่า"
   },
@@ -11236,6 +13341,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Decor Accessories"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 1",
     "notes": "มาเดินดูเฉยๆ"
   },
@@ -11254,6 +13360,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Coffee Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2",
     "notes": "หาโซฟา 160 กับ โซฟา L เดี๋ยวกลับไปดูในเวป"
   },
@@ -11267,6 +13374,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ",
     "notes": "ดูเก้าอี้ OUTLET ใช้ 10 ตัวขึ้นไป รอเลือก จะแจ้งทาง FB อีกครั้ง"
   },
@@ -11283,6 +13391,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าดีไซน์เนอร์",
     "notes": "ดูสินค้าสำหรับเข้าออฟฟิต ตึกอับดุลลาฮิม พระราม 4 รอแจ้งว่าจะเอาตัวไหน จะให้ทำราคาอีกครั้ง"
   },
@@ -11300,6 +13409,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 1",
     "notes": "มาดูเก้าอี้ OUTLET ที่สนใจแต่มีเหลือตัวสุดท้าย ลูกค้าต้องการ 4 ตัว และมาดูพรม Last Chance แต่มีอยู่ที่ SKV"
   },
@@ -11313,6 +13423,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Night Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ",
     "notes": "ดูตู้ข้างเตียง"
   },
@@ -11331,6 +13442,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "มายโพเพลเลอร์",
     "notes": "พาลูกค้ามาดูโคมไฟสำหรับบ้าน"
   },
@@ -11346,6 +13458,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24418",
+    "hasDraftOrder": false,
     "customerName": "ลุกค้า ดีไซเนอร์",
     "notes": "มาดูของใส่บ้านเพิ่ม"
   },
@@ -11364,6 +13477,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Sideboards"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2",
     "notes": "ลูกค้ากำลังจะแต่งบ้าน อยากให้สไตล์ลิส แนะนำ"
   },
@@ -11378,6 +13492,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2",
     "notes": "ตามหา Sofa Bed แบบไฟฟ้า"
   },
@@ -11392,6 +13507,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ดีไซเนอร์ ลูกค้าเกด",
     "notes": "มาดูของให้ owner"
   },
@@ -11406,6 +13522,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า ดีไซเนอร์ เกด",
     "notes": "ลูกค้ามาดูสินค้าจริง"
   },
@@ -11423,6 +13540,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณนิว",
     "notes": "หาสินค้าเข้าบ้าน สไตล์มูจิ  ไม้สีโอ๊คเข้ม"
   },
@@ -11436,6 +13554,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า2",
     "notes": "ดูโคมไฟโถง"
   },
@@ -11452,6 +13571,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2",
     "notes": "มาดูของเข้าบ้าน จะเข้าไป สุขุมวิท"
   },
@@ -11465,6 +13585,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outlet"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2",
     "notes": "ลูกค้ามาดูสินค้า outlet"
   },
@@ -11478,6 +13599,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "chandelier"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2",
     "notes": "ลูกค้าอยากได้ไฟ แชนเดอเลีย แต่กลับไปดูหน้าเวปก่อน"
   },
@@ -11492,6 +13614,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2",
     "notes": "ผ่านมาเลยแวะเข้ามาดู"
   },
@@ -11505,6 +13628,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "บ.อยู่เย็น",
     "notes": "โคมไฟโต๊ะอาหาร ยาว 140-160"
   },
@@ -11518,6 +13642,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "ดูโคมไฟ ralp"
   },
@@ -11531,6 +13656,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "โคมไฟโต๊ะอาหารสำหรับโต๊ะ 2 เมตร"
   },
@@ -11546,6 +13672,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24486",
+    "hasDraftOrder": false,
     "customerName": "คุณพิ้ง ลค อันเอ็กส์เปกเต็ด",
     "notes": "ดูสภาพโคมไฟ OUTLET และดูโต๊ะอาหารขนาด 240 แต่ให้ลูกค้าไปเชคขนาดลิฟต์ก่อนว่าใส่ได้ไหม"
   },
@@ -11564,6 +13691,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Arts"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าดีไซน์เนอร์",
     "notes": "ดูสำหรีบห้องเช่า"
   },
@@ -11578,6 +13706,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Cabinets"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "ลูกค้ามาดูตู้วางทีวี"
   },
@@ -11593,6 +13722,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า ดีไซเนอร์ น้องติม",
     "notes": "ลูกค้ามาดูไฟ ข้างเตียง กลับไปวัดพื้นที่ก่อน"
   },
@@ -11607,6 +13737,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Side Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "หา ชุดโต๊ะกาแฟ ฐานสีขาว จะหาเวลาเข้าไป SKV"
   },
@@ -11621,6 +13752,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24498",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "ลูกค้ามาซื้อ เฉด และ หลอดไฟ"
   },
@@ -11635,6 +13767,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 3",
     "notes": "มาหาสินค้าแต่งบ้าน"
   },
@@ -11649,6 +13782,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1 ราย",
     "notes": "ลูกค้าหาโซฟา แต่ลืมวัดพื้นที่มา แต่แอดไลน์และดูคร่าวๆไว้แล้ว"
   },
@@ -11662,6 +13796,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outlet"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "มาดูเก้า outlet"
   },
@@ -11676,6 +13811,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bed"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าคนไทย",
     "notes": "ดูเตียงกับตุ้ลดราคา"
   },
@@ -11689,6 +13825,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Arts"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "แวร์ดีไซน์",
     "notes": "ดูรูปภาพ หน้างานขอนแก่น รอเชคสภาพและส่งภาพจริงวันจันทร์"
   },
@@ -11702,6 +13839,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Cafe Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าดีไซน์เนอร์ติม",
     "notes": "โต๊ะกลางเป็นเซ็ทกับโต๊ะข้าง สำหรับห้องรับแขก  ส่งต่อให้เซลล์ทำราคาแล้ว"
   },
@@ -11723,6 +13861,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bed"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "บริษัท Unterior",
     "notes": "มาดูสินค้าตามเทียบ  / ติดเก้าอี้รุ่น Kin เวลานั่งลูกค้ารู้สึกว่าไม่เหมาะกับการนั่งกินข้าว เวลานั่งแล้วเพราะต่ำกว่ามาตรฐานโต๊ะ ประมาณ 3-5 เซน  จะลองดูแบบอื่นก่อน"
   },
@@ -11738,6 +13877,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Night Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "มาดูไว้ก่อน กำลังทำบ้าน (แอดไลน์ไว้แล้ว)"
   },
@@ -11751,6 +13891,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outlet"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 4",
     "notes": "มาดูเก้า noemi"
   },
@@ -11766,6 +13907,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 3",
     "notes": "มาดูเก้าอี้ โต๊ะ"
   },
@@ -11780,6 +13922,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "มาดู โต๊ะ 8 ที่นั่ง"
   },
@@ -11794,6 +13937,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "มีเวลาน้อย ถ่ายรูปไว้ เดี๋ยวมาดูใหม่"
   },
@@ -11810,6 +13954,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณนิว ดีไซน์เนอร์ (ปุ๋ยดูแล)",
     "notes": "Nordlux 408 full set.ต้องการ (L side) แจ้งว่าต้องสอบถามโรงงานเพื่อสั่งผลิต\nพรม Cole 200x300 Brown soft printed (incoming)\nTomas 2 Wall lamp matt black 3 Pcs\nลูกค้าให้กันค่าสเปค ส่งต่อให้ปุ๋ยดูแล"
   },
@@ -11826,6 +13971,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Floor Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "มาดูของเข้าบ้าน จะไปดูที่ SKV26 ด้วย"
   },
@@ -11840,6 +13986,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "มาดูชุดทานอาหาร"
   },
@@ -11856,6 +14003,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 3",
     "notes": "กำลังหาโซฟา กับ เก้าอี้ จะหาเวลาไปดู สุขุมวิทก่อน"
   },
@@ -11871,6 +14019,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "หาโซฟา กับ โต๊ะ กินข้าว บ้านกำลังรีโนเวท"
   },
@@ -11886,6 +14035,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "chandelier"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Rodena",
     "notes": "มาดูไว้ก่อน วันจันทร์จะพาลูกค้ามา"
   },
@@ -11902,6 +14052,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "แอดวานซ์ ลีฟวิ่ง",
     "notes": "มาดูหลายรายการ เดี๋ยวไปให้ลูกค้าเลือก"
   },
@@ -11916,6 +14067,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24599",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "เปิดออเดอร์ LL24599"
   },
@@ -11933,6 +14085,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 3",
     "notes": "มาดูไฟ คล้ายพวงองุ่น มีถ่ายรูปไป แต่ ต้องถามซินแส ก่อนว่า ได้ไหม"
   },
@@ -11953,6 +14106,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24603",
+    "hasDraftOrder": false,
     "customerName": "MDL Maison",
     "notes": "มาเช็คสินค้าจริงอีกครั้ง ก่อนจัดส่ง"
   },
@@ -11970,6 +14124,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "กำลังทำออฟฟิต หาเฟอร์นิเจอร์"
   },
@@ -11985,6 +14140,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "มาดูของเข้าบ้าน"
   },
@@ -11999,6 +14155,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24608",
+    "hasDraftOrder": false,
     "customerName": "Phanwara Pengcharoen",
     "notes": "เดี่ยวมาดูสินค้าอื่นเพิ่ม เพื่อนแนะนำมา"
   },
@@ -12014,6 +14171,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "ผ่านมาเลยแวะดูของ กำลังทำคอนโด"
   },
@@ -12032,6 +14190,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "Order Confirmed",
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 2",
     "notes": "ลูกค้าผ่านมาเห็นและเเวะเข้ามา เเจ้งจะดูสินค้าและแจ้งให้เซลทราบอีกครั้ง / ลูกค้าจะซื้อสินค้าเพื่อไปตกแต่งบ้านที่ UAE ค่ะ"
   },
@@ -12049,6 +14208,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24610",
+    "hasDraftOrder": false,
     "customerName": "แอดวานซ์ ลีฟวิ่ง",
     "notes": "เปิดออเดอร์ LL24610"
   },
@@ -12067,6 +14227,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าปุ๋ย",
     "notes": "มาดูของตามลิส"
   },
@@ -12082,6 +14243,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24613",
+    "hasDraftOrder": false,
     "customerName": "คุณฟิลม์ บริษัท วาริน เอสเตท",
     "notes": "ขอสินค้าราคาไม่แพง สำหรับโรงแรมขนาดเล็ก 7 ห้อง ที่สุขขุมวิท 31  เสนอตัว OUTLET และ เก้าอี้ Mirth ที่ราคาในงบให้ลูกค้า"
   },
@@ -12095,6 +14257,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า1",
     "notes": "หาโซฟา 220-250 cm แลลที่ขาโปร่งให้เครื่องดูดฝุ่นโรบอทเข้าได้"
   },
@@ -12111,6 +14274,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Decor Accessories"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 2",
     "notes": "มาดูของเพื่อตกแต่งบ้าน"
   },
@@ -12125,6 +14289,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Stools"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34998",
     "customerName": "บริษัท ยู เอกมัย จำกัด",
     "notes": "ลูกค้าติมมาดูสินค้าเก้าอี้ม้านั่ง สตูล #D34998"
   },
@@ -12138,6 +14304,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ2",
     "notes": "หาอิเลคทริค โซฟา  ขนาด 2 ที่นั่งแบบผ้า"
   },
@@ -12152,6 +14319,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Floor Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ",
     "notes": "ดูสินค้าทั่งไปในร้าน   สนใจงาน outdoor"
   },
@@ -12165,6 +14333,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "หาเก้าอี้ทานอาหารราคาไม่แพง"
   },
@@ -12180,6 +14349,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าบ้าน",
     "notes": "ดูโต๊ะกินข้าวหิน 220 cm พร้อมโคมไฟ และโคมไฟโถงกลาง"
   },
@@ -12198,6 +14368,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "Order Confirmed",
+    "hasDraftOrder": true,
+    "draftOrder": "D34935",
     "customerName": "ลูกค้า เคมิสตี้ คุณพนิดา",
     "notes": "มาดูสินค้าตามใบเสนอราคา #D34935 และจะชำระเงิน แบบบัตรเครดิตแสกนคิวอาร์ แต่เนื่องจากเครื่องเราทำชำระไม่ได้ รอลูกค้ากลับมาที่ร้านอีกครั้ง"
   },
@@ -12211,6 +14383,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outlet"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ",
     "notes": "ดูโซฟาสีชมพู โคมไฟกลมดำ ทอง เก้าอี้  ขอกลับไปเชคพื้นที่  แจ้งให้ลูกค้าแอดไลน์ร้านมาแล้ว"
   },
@@ -12225,6 +14398,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24625",
+    "hasDraftOrder": false,
     "customerName": "คุณพนิดา",
     "notes": "มาดูพรมเพิ่ม และมาชำระเงินรุดบัตร"
   },
@@ -12238,6 +14412,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "บ.สหปราจีนบุรีอุตสาหกรรมอาหาร",
     "notes": "ดูโคมไฟสำหรับโปรเจคโรงแรม / otello ออกแบบ"
   },
@@ -12254,6 +14429,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ",
     "notes": "ดูสินค้าทั่วไป"
   },
@@ -12269,6 +14445,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ - Mahan Architects",
     "notes": "Mahan Architects ดูสินค้าโปรเจคงานที่อินเดีย  สอบถามจะให้ทางเราจัดส่งไปหน้างานที่อินเดีย"
   },
@@ -12283,6 +14460,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า2",
     "notes": "ดูเก้าอี้พักผ่อน แบบลดราคา 70%"
   },
@@ -12298,6 +14476,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Night Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2",
     "notes": "ดูรวมๆ ยังไม่มีที่ถูกใจ"
   },
@@ -12311,6 +14490,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outlet"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "มาดูเก้า 1500"
   },
@@ -12325,6 +14505,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "Order Confirmed",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "มาดูของเพิ่ม เปิดออเดอร์ 24622"
   },
@@ -12341,6 +14522,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "มาดูของเข้าบ้าน อยากได้พรม แต่กลับไปวัดขนาด"
   },
@@ -12355,6 +14537,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "Order Confirmed",
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 1",
     "notes": "เปิดออเดอร์ 24664 + 24665 + 24666"
   },
@@ -12368,6 +14551,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outlet"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "มาดูสินค้า outlet"
   },
@@ -12384,6 +14568,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "owner",
     "notes": "หาของจัดบ้านตัวอย่าง"
   },
@@ -12399,6 +14584,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Benches"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "มาดูของเข้าบ้าน"
   },
@@ -12415,6 +14601,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24703",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "ดูสินค้าตัวโชว์ และดูรายการอื่นๆ"
   },
@@ -12429,6 +14616,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outlet"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "ดูสินค้า outlet  ทำบ้านเช่าอยู่ที่ภูเก็ต"
   },
@@ -12443,6 +14631,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24719",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "ทำบ้านตัวอย่าง"
   },
@@ -12511,6 +14700,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณออม และทีม แลนด์แอนเฮาส์ (คอนโด)",
     "notes": "มาดูสินค้าเพื่อนำไปลงสเปคงานคอนโด"
   },
@@ -12528,6 +14718,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "Order Confirmed",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2 ราย คุณดิ้ว",
     "notes": "เคยซื้อสินค้า ดีไซน์เนอร์ WVS มาดูสินค้าของจริงเพิ่มเติม"
   },
@@ -12544,6 +14735,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24735",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า1",
     "notes": "ดูโต๊ะและของตกแต่งออฟฟิดกับห้องนอน"
   },
@@ -12559,6 +14751,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าสามราย",
     "notes": "เคยมาดูแล้ว มาดูเพิ่มเติม"
   },
@@ -12574,6 +14767,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2 ราย ลูกค้าพี่ปุ๋ย คุณแปม",
     "notes": "ลูกค้าพี่ปุ๋ยมาดูสินค้าจริงและoutlet"
   },
@@ -12595,6 +14789,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D35172",
     "customerName": "designer",
     "notes": "ดูสินค้าให้ลุกค้า เสนอราคาให้แล้ว#D35172"
   },
@@ -12608,6 +14804,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outlet"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "มาดูสินค้า outlet"
   },
@@ -12627,6 +14824,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Floor Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "มาเดินดูเฉย ถ่ายรูปไว้ไปให้ภรรยาดู"
   },
@@ -12642,6 +14840,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "ผ่านมาหลายรอบเลยแวะเข้ามาดู"
   },
@@ -12656,6 +14855,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24755",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "มาดูไฟ"
   },
@@ -12670,6 +14870,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณกิ๊ฟ มาสเตอร์พีช",
     "notes": "มารับโคมไฟ และดูโคมไฟที่ลดราคา"
   },
@@ -12686,6 +14887,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2 (ลูกค้าปุ๋ย)",
     "notes": "มาดูของตามแบบดีไซเนอร์"
   },
@@ -12699,6 +14901,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outlet"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "มาดูสินค้า outlet"
   },
@@ -12714,6 +14917,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Love Seat Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 4",
     "notes": "มาดู โซฟา ลูกค้าเกด"
   },
@@ -12727,6 +14931,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outlet"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1",
     "notes": "มาดูสินค้า outlet"
   },
@@ -12743,6 +14948,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Night Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "กำลังทำบ้าน มาดูสินค้าไว้ก่อน อีก 3-4 เดือนบ้านเสร็จ"
   },
@@ -12756,6 +14962,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลค1",
     "notes": "ดูโซฟา"
   },
@@ -12770,6 +14977,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Plants"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ",
     "notes": "ดูเตียงไม้"
   },
@@ -12788,6 +14996,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "LL24815",
+    "hasDraftOrder": false,
     "customerName": "PIA & AWC",
     "notes": "ดูสินค้าโครงการ Fairmont Bangkok Sukhumvit"
   },
@@ -12804,6 +15013,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 1",
     "notes": "ตั้งใจมาดู Outlet แต่สภาพแย่กว่าที่คิด เปลี่ยนใจมาดูสินค้าปกติมาประเมินสินค้าจริงก่อนแล้วจะแจ้งตามหลัง"
   },
@@ -12817,6 +15027,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า2",
     "notes": "ดูโคมไฟเพดาน แชนเดอเรีย"
   },
@@ -12831,6 +15042,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 3",
     "notes": "ดูเซทโต๊ะ เก้าอี้"
   },
@@ -12845,8 +15057,482 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24817",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า1",
     "notes": "สตูล"
+  },
+  {
+    "id": "7c290732",
+    "date": "2026-08-15",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Pui",
+    "productInterests": [
+      "I-Shape Sofas",
+      "Coffee Tables",
+      "Rugs"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้า2",
+    "notes": "ดูโซฟาขนาด 220-250 และสอบถามค่าการเสียดสีของวัสดุผ้า"
+  },
+  {
+    "id": "44246fd0",
+    "date": "2026-08-15",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Pui",
+    "productInterests": [
+      "Outlet"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้า",
+    "notes": "ดูสินค้าลดราคา"
+  },
+  {
+    "id": "06311cd3",
+    "date": "2026-08-15",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Pui",
+    "productInterests": [
+      "Dining Tables"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้า",
+    "notes": "โต๊ะทานอาหาร แต่อยากได้แบบสั่งผลิตตามขนาด"
+  },
+  {
+    "id": "b190ac54",
+    "date": "2026-08-15",
+    "branch": "RM9",
+    "channel": "Phone / Line",
+    "salesperson": "Pui / Aliss",
+    "productInterests": [
+      "Bed",
+      "Rugs",
+      "Cushions"
+    ],
+    "orderClosed": true,
+    "closedDetails": "#LL24823",
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าต่างชาติ",
+    "notes": "ดูสินค้าโปร เตียง"
+  },
+  {
+    "id": "e3d0bda6",
+    "date": "2026-08-17",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Pui",
+    "productInterests": [
+      "Bar Chair"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าต่างชาติ",
+    "notes": "ดูเก้าอี้บาร์"
+  },
+  {
+    "id": "961a0836",
+    "date": "2026-08-17",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Tim",
+    "productInterests": [
+      "Coffee Tables",
+      "Decor Accessories",
+      "DINING CHAIRS",
+      "L-Shape Sofas",
+      "Night Tables"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้า 2",
+    "notes": "ลูกค้าเป็น ดีไซเนอร์ จะพาลูกค้าเข้ามาดูใหม่"
+  },
+  {
+    "id": "bc6c5349",
+    "date": "2026-08-17",
+    "branch": "RM9",
+    "channel": "Designer",
+    "salesperson": "Tim",
+    "productInterests": [
+      "DINING CHAIRS",
+      "Dining Tables"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้า 2",
+    "notes": "มาดุของที่ ดีไซเนอร์ แนะนำ"
+  },
+  {
+    "id": "c63efcf9",
+    "date": "2026-08-19",
+    "branch": "RM9",
+    "channel": "Appointment",
+    "salesperson": "Pui",
+    "productInterests": [
+      "Dining Tables",
+      "DINING CHAIRS",
+      "I-Shape Sofas"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าดีไซน์เนอร์",
+    "notes": "ดูโต๊ะทานอาหารแบบกลม และเก้าอี้  โซฟาไม่เกิน 2.5 เมตร"
+  },
+  {
+    "id": "02e4d253",
+    "date": "2026-08-19",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Pui",
+    "productInterests": [
+      "Pendant Lamps",
+      "Sideboards"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้า",
+    "notes": "โคมไฟแชนเดอเรีย"
+  },
+  {
+    "id": "64c8e215",
+    "date": "2026-08-20",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Kate",
+    "productInterests": [
+      "Coffee Tables",
+      "Dining Tables",
+      "DINING CHAIRS",
+      "Lounge Chair",
+      "Working Chairs",
+      "Working Desks"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้าคนไทย 2 ราย",
+    "notes": "มาเดินดูสินค้า แพลนใช้เร็วๆนี้จะมาดูอีกครั้ง"
+  },
+  {
+    "id": "614f30c1",
+    "date": "2026-08-20",
+    "branch": "RM9",
+    "channel": "Appointment",
+    "salesperson": "Kate",
+    "productInterests": [
+      "Bar Chair",
+      "Bar Table",
+      "Beanbag",
+      "Bed",
+      "Benches",
+      "Cabinets",
+      "Cafe Tables",
+      "Ceiling Lamps",
+      "chandelier",
+      "Coffee Tables",
+      "Console Tables",
+      "Curtains",
+      "Cushions",
+      "DayBeds",
+      "Decor Accessories",
+      "Decor Books",
+      "DINING CHAIRS",
+      "Dining Tables",
+      "Dresser",
+      "Floor Lamps",
+      "I-Shape Sofas",
+      "L-Shape Sofas",
+      "Lounge Chair",
+      "Love Seat Sofas",
+      "Mirrors",
+      "Night Tables",
+      "Office",
+      "Ottomans",
+      "Outdoor Lighting",
+      "Outdoor Seats",
+      "Outdoor Tables",
+      "Outlet",
+      "parts",
+      "Pendant Lamps",
+      "Plants",
+      "Poufs",
+      "Rugs",
+      "Sectional Sofas",
+      "service",
+      "Shelf",
+      "Shoes Cabinet",
+      "Side Tables",
+      "Sideboards",
+      "Single Seat Sofas",
+      "Stools",
+      "Table Lamps",
+      "Tableware",
+      "Throws",
+      "Towel",
+      "TV Stands",
+      "U-Shape Sofas",
+      "Vases",
+      "Wall Arts",
+      "Wall Lamps",
+      "Working Chairs",
+      "Working Desks"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "คุณแก้ว ลูกค้าเกด",
+    "notes": "มาเดินดูสินค้ารวมไปใช้ในโครงการ"
+  },
+  {
+    "id": "3cbb80f0",
+    "date": "2026-08-21",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Tim",
+    "productInterests": [
+      "DayBeds",
+      "Bed"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้า 1",
+    "notes": "มาดูของไว้บ้านเช่า"
+  },
+  {
+    "id": "2d1aba7c",
+    "date": "2026-08-21",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Tim",
+    "productInterests": [
+      "Coffee Tables",
+      "L-Shape Sofas",
+      "Outlet"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้า 1",
+    "notes": "มาเดินดูของเฉยๆ เห็นป้ายลนราคา"
+  },
+  {
+    "id": "6f9d8262",
+    "date": "2026-08-21",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Tim",
+    "productInterests": [
+      "Outlet"
+    ],
+    "orderClosed": true,
+    "closedDetails": "#LL24828",
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้า 2",
+    "notes": "มารับสินค้า LL24828 + มาดูของเพิ่ม"
+  },
+  {
+    "id": "bc6a6775",
+    "date": "2026-08-21",
+    "branch": "RM9",
+    "channel": "Designer",
+    "salesperson": "Tim",
+    "productInterests": [
+      "I-Shape Sofas",
+      "L-Shape Sofas"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้า ปุ๋ย",
+    "notes": "มาดูโซฟา ตามคำแนะนำ ดีไซเนอร์"
+  },
+  {
+    "id": "e3757b44",
+    "date": "2026-08-21",
+    "branch": "RM9",
+    "channel": "Designer",
+    "salesperson": "Tim",
+    "productInterests": [
+      "Pendant Lamps"
+    ],
+    "orderClosed": true,
+    "closedDetails": "#LL24870",
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้า 1",
+    "notes": "มารับของ LL24870"
+  },
+  {
+    "id": "fff9fda0",
+    "date": "2026-08-21",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Tim",
+    "productInterests": [
+      "Outdoor Lighting",
+      "Outdoor Seats",
+      "Outdoor Tables",
+      "Sectional Sofas"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้า 1",
+    "notes": "สนใจหลายตัวแต่กลับไปดูพื้นที่ก่อน"
+  },
+  {
+    "id": "347978fd",
+    "date": "2026-08-22",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Pui",
+    "productInterests": [
+      "Lounge Chair"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้า",
+    "notes": "ดูเก้าอี้พักผ่อน Outlet สตูล สำหรับบ้านตากอากาศที่น่าน"
+  },
+  {
+    "id": "b44f197a",
+    "date": "2026-08-22",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Pui",
+    "productInterests": [
+      "Night Tables"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้า2",
+    "notes": "ดูข้างเตียง และสินค้าลดราคา"
+  },
+  {
+    "id": "57d7003d",
+    "date": "2026-08-24",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Tim",
+    "productInterests": [
+      "Pendant Lamps",
+      "Wall Arts"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้า 1",
+    "notes": "มาดูไฟ โต๊ะกินข้าว ผนัง"
+  },
+  {
+    "id": "8429ebca",
+    "date": "2026-08-25",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Tim",
+    "productInterests": [
+      "I-Shape Sofas",
+      "L-Shape Sofas",
+      "Night Tables"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้า 3",
+    "notes": "มาดูของเข้าบ้าน แอดไลน์ไว้ กลับไปวัดพื้นที่"
+  },
+  {
+    "id": "349425ce",
+    "date": "2026-08-25",
+    "branch": "RM9",
+    "channel": "Facebook / IG",
+    "salesperson": "Tim",
+    "productInterests": [
+      "Wall Arts"
+    ],
+    "orderClosed": true,
+    "closedDetails": "#LL24911",
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้า 2",
+    "notes": "ดู รูปไปแต่งบ้าน LL24911"
+  },
+  {
+    "id": "1d657569",
+    "date": "2026-08-25",
+    "branch": "RM9",
+    "channel": "Phone / Line",
+    "salesperson": "Tim",
+    "productInterests": [
+      "L-Shape Sofas"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้า 2 (ต่างชาติ)",
+    "notes": "มาดูโซฟา"
+  },
+  {
+    "id": "454ebd61",
+    "date": "2026-08-25",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Tim",
+    "productInterests": [
+      "Bar Chair",
+      "Coffee Tables",
+      "Dining Tables",
+      "L-Shape Sofas",
+      "Night Tables"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้า 3 (ต่างชาติ)",
+    "notes": "มาดูของเข้าบ้าน"
+  },
+  {
+    "id": "0eecdfa0",
+    "date": "2026-08-26",
+    "branch": "RM9",
+    "channel": "Appointment",
+    "salesperson": "Pui",
+    "productInterests": [
+      "Cafe Tables",
+      "DINING CHAIRS",
+      "Floor Lamps",
+      "Night Tables"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ดีไซน์เนอร์ impartia",
+    "notes": "ดูสินค้าเข้าบ้านลูกค้า"
+  },
+  {
+    "id": "de32bdf0",
+    "date": "2026-08-26",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Pui",
+    "productInterests": [
+      "chandelier",
+      "Pendant Lamps",
+      "Dining Tables"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้า อินทีเรียใต้ไทร (คุณบิ๊ก)",
+    "notes": "ดูแชนเดอเรียโถง และ ไฟเพดานสำหรับเคาเตอร์"
+  },
+  {
+    "id": "84822019",
+    "date": "2026-08-26",
+    "branch": "RM9",
+    "channel": "Walk in",
+    "salesperson": "Pui",
+    "productInterests": [
+      "Cafe Tables"
+    ],
+    "orderClosed": false,
+    "hasDraftOrder": false,
+    "customerName": "ลูกค้า2",
+    "notes": "โต๊ะกลางไม้"
   },
   {
     "id": "e72697ba",
@@ -12859,6 +15545,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ",
     "notes": "เดินผ่านร้าน"
   },
@@ -12875,6 +15562,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24072",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ",
     "notes": "ซื้อพรม เปิดออเดอร์ #LL24072"
   },
@@ -12888,6 +15576,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bar Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ",
     "notes": "เดินผ่านร้าน เดินดูสินค้าทั่วไป"
   },
@@ -12903,6 +15592,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bed"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ+คนไทย",
     "notes": "ดูเฟอร์เข้าบ้าน บ้านเสร็จประมาณเดือนหน้า"
   },
@@ -12916,6 +15606,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าโปรเจคต่างชาติ",
     "notes": "ดูสินค้าเฟอร์ใช้งานโครงการที่จอมเทียน พัทยา (ไปดูสินค้าที่พระราม 9 ต่อ)"
   },
@@ -12931,6 +15622,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย",
     "notes": "สอบถามเรื่องสั่งสินค้ากรณีสินค้าสต็อกไม่พอ"
   },
@@ -12946,6 +15638,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24082",
+    "hasDraftOrder": false,
     "customerName": "K. Daniel Pell",
     "notes": "ลูกค้าเก่า เปิดออเดอร์ #LL24082"
   },
@@ -12959,6 +15652,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณหนูดี",
     "notes": "ดีไซเนอร์จากเดคโค่รูม (หยกดูแล)"
   },
@@ -12973,6 +15667,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Sideboards"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณเอก",
     "notes": "ดีไซเนอร์-ปุ๋ย ดูไฟสำหรับโต๊ะทานข้าว โต๊ะขนาด 3 เมตร ฝ้าสูงประมาณ 3 เมตรกว่า"
   },
@@ -12986,6 +15681,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณเจนวิทย์",
     "notes": "ดูโซฟาขนาด 3 เมตร จะไปดูสินค้าที่ Rama 9 เพิ่มเติม (Line: Jenvit)"
   },
@@ -13000,6 +15696,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24065",
+    "hasDraftOrder": false,
     "customerName": "คุณแพรว",
     "notes": "ดูของตกแต่งอ้างอิงออเดอร์ #LL24065 เข้ามาชำระพร้อมรับสินค้า"
   },
@@ -13013,6 +15710,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bar Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "K.Tim ต่างชาติ+ไทย",
     "notes": "ดูเก้าอี้บาร์ สนใจ Mirth - Grey ใช้สินค้า 6 ตัว (สต็อกมีแค่ 5) เช็คแล้วไม่มีเข้ามาเพิ่ม (Line: Inv Ink Tim)"
   },
@@ -13026,6 +15724,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Coffee Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ",
     "notes": "ดู Coffee table จะไปดูสินค้าเพิ่มเติมที่ Rama 9 วันพุธที่ 3/6/69"
   },
@@ -13042,6 +15741,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Love Seat Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ",
     "notes": "ดูเฟอร์สำหรับคอนโด จะเข้าไปดูสินค้าที่ Rama 9 เพิ่มเติม"
   },
@@ -13057,6 +15757,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Cafe Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ดีไซเนอร์",
     "notes": "ดีไซเนอร์ freelance ดูสินค้าเข้าบ้านลูกค้า"
   },
@@ -13070,6 +15771,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย",
     "notes": "เดินผ่านร้าน เดินดูสินค้าทั่วไป"
   },
@@ -13084,6 +15786,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "TV Stands"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ",
     "notes": "ถ่ายรูปไป รอตัดสินใจอีกที"
   },
@@ -13098,6 +15801,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ดีไซเนอร์",
     "notes": "ดีไซเนอร์ (ลูกค้าเซลหยก) พาลูกค้ามาดูสินค้าไฟ (Line: Corgi)"
   },
@@ -13114,6 +15818,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Side Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณบี Line:BEE9895",
     "notes": "ลูกค้าเก่า (Suwat Thongrompo) ดูสินค้าลดราคา"
   },
@@ -13130,6 +15835,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ",
     "notes": "ดูสินค้าสำหรับคอนโด จะเข้ามาดูอีกครั้งพร้อมดีไซเนอร์"
   },
@@ -13144,6 +15850,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24144",
+    "hasDraftOrder": false,
     "customerName": "คุณบี",
     "notes": "(บริษัท สไตลิสต์ ช็อป กรุ๊ป จำกัด) ชำระและรับสินค้า"
   },
@@ -13159,6 +15866,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Vinod (Line:Vinod Muthukumar)",
     "notes": "สนใจเตียง Velluto king size รอวัดพื้นที่และเช็คระยะจัดส่ง (นิชดาธานี)"
   },
@@ -13175,6 +15883,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ",
     "notes": "ดูสินค้าลดราคา"
   },
@@ -13189,6 +15898,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ",
     "notes": "สนใจสินค้าลดราคา ลูกค้าเห็นป้ายลด 60%"
   },
@@ -13210,6 +15920,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Console Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ",
     "notes": "มาดูทั่วๆไป"
   },
@@ -13225,6 +15936,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bar Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย+ต่างชาติ",
     "notes": "ดูสินค้าเพิ่มเติมใส่คอนโด"
   },
@@ -13238,6 +15950,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "ดูโซฟาสำหรับคอนโด ขนาด 3 เมตร (Stow, Twine right) จะเข้าไปดูสินค้าที่ Rama 9 เพิ่มเติม"
   },
@@ -13252,6 +15965,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Coffee Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย",
     "notes": "เห็นป้าย ลด 60% เลยแวะเข้ามาดู"
   },
@@ -13269,6 +15983,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย",
     "notes": "เห็นป้าย 60% เลยแวะเข้ามาดู จะไปดูที่พระราม 9 วันหลัง"
   },
@@ -13282,6 +15997,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ  1 ราย",
     "notes": "เดินดูสินค้าทั่วไป เห็นป้ายจัดลด 60%"
   },
@@ -13296,6 +16012,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outdoor Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "สนใจ Haven 1S Lounge Chair แต่ไม่แน่ใจเรื่องขนาดว่าลงพื้นที่ได้มั้ย จะเข้าไปดูสินค้าจริงที่ Rama 9"
   },
@@ -13314,6 +16031,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24179",
+    "hasDraftOrder": false,
     "customerName": "Vinod Muthukumar",
     "notes": "ดูสินค้าเพิ่มพร้อมชำระเงิน"
   },
@@ -13327,6 +16045,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ",
     "notes": "ลูกค้ารอกลับไปวัดขนาดห้อง จะกลับมาดูอีกครั้ง"
   },
@@ -13341,6 +16060,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Cabinets"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "ลูกค้าผ่านร้านเลยเดินเข้ามาดู สอบถามส่งสินค้าไปคอสตาริก้า"
   },
@@ -13355,6 +16075,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ",
     "notes": "ผ่านมาเลยแวะเข้ามาดู"
   },
@@ -13368,6 +16089,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 1 ราย",
     "notes": "เดินดูสินค้าทั่วไป ลูกค้าเดินผ่านร้านเลยเข้ามาดูสินค้า"
   },
@@ -13386,6 +16108,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Night Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 2 ราย",
     "notes": "ลูกค้าคุณบาสเตียน (หยกดูแล)"
   },
@@ -13401,6 +16124,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 2 ราย",
     "notes": "มาเดินดูหาของเข้าบ้าน"
   },
@@ -13417,6 +16141,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย",
     "notes": "จะมาดูที่ลด 60%"
   },
@@ -13432,6 +16157,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 1 ราย",
     "notes": "เดินผ่านร้าน เห็นป้ายลด 60% เลยเข้ามาดู"
   },
@@ -13448,6 +16174,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "บ.CCW",
     "notes": "มารับสินค้า และ ดูไฟเพิ่ม"
   },
@@ -13463,6 +16190,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย",
     "notes": "ลูกค้ากลับไปวัดพื้นที่ก่อน"
   },
@@ -13477,6 +16205,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24221",
+    "hasDraftOrder": false,
     "customerName": "Carole brun",
     "notes": "ลูกค้าเก่า ดูพรม Saanvi ไปแทนผืนเดิม"
   },
@@ -13496,6 +16225,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "บ.Nirin",
     "notes": "มาดูของให้ลูกค้าเพิ่ม"
   },
@@ -13509,6 +16239,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Benches"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 2 ราย",
     "notes": "สนใจ [TG] Cobalt Rope Bench (พื้นที่จำกัด)"
   },
@@ -13522,6 +16253,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 2 ราย",
     "notes": "เดินผ่านร้าน สนใจ Willow chair (ราคาลดแล้วยังสูงอยู่)"
   },
@@ -13536,6 +16268,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย",
     "notes": "ดูมาจากเวปเลยมาดูของจริง"
   },
@@ -13550,6 +16283,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24224",
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 2 ราย",
     "notes": "เข้ามาดูแล้วรอบนึง กลับไปวัดพื้นที่และกลับมาซื้อ (อยู่ในซอย)"
   },
@@ -13564,6 +16298,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ",
     "notes": "ตั้งใจมาดู 60%"
   },
@@ -13579,6 +16314,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Floor Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 1 ราย",
     "notes": "ลูกค้าเดินผ่านร้าน เข้ามาดูสินค้าลดราคา"
   },
@@ -13594,6 +16330,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าของ มายโพล",
     "notes": "ขอกลับไปปรึกษา อินทีเรียก่อน"
   },
@@ -13607,6 +16344,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า1",
     "notes": "ดูไฟส่องภาพ"
   },
@@ -13621,6 +16359,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ไทปันน์",
     "notes": "จะพาลูกค้ามาดูวันเสาร์20 เพิ่ม (ให้ไปที่พระรามเก้า)"
   },
@@ -13635,6 +16374,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Side Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "A49 phuket",
     "notes": "ลูกค้ามาดูสินค้า ตามคำแนะนำน้องบิว โครงการ Sea Theatre"
   },
@@ -13649,6 +16389,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 1 + ไทย 1",
     "notes": "ราคาสินค้าค่อนข้างสูง"
   },
@@ -13664,6 +16405,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24258",
+    "hasDraftOrder": false,
     "customerName": "คุณ รัตน์ (ลูกค้าปุ๋ย)",
     "notes": "ซื้อเก้าอี้ 2 ชุด"
   },
@@ -13679,6 +16421,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณ ออม LH",
     "notes": "มาดูไฟตามแบบที่สเปค (ลูกค้าพี่หยก)"
   },
@@ -13694,6 +16437,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Side Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "walk in",
     "notes": "ลูกค้าเข้ามาดูก่อน รอห้องเสร็จจะมาอีกที"
   },
@@ -13708,6 +16452,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Chairs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณอ๊อน",
     "notes": "ดีไซเนอร์ ดูเฟอร์ใช้งานโครงการ"
   },
@@ -13721,6 +16466,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 1 ราย",
     "notes": "เดินผ่านร้านเลยแวะเข้ามาดู ไม่ได้สนใจสินค้ารายการไหนเป็นพิเศษ"
   },
@@ -13734,6 +16480,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Khun Vara Watganai",
     "notes": "สนใจเก้าอี้ Glimmer - White ใช้สินค้า 6 ตัว (สต็อกมี 5) รอสินค้าได้บ้านยังไม่เสร็จ"
   },
@@ -13748,6 +16495,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Chairs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 1 ราย",
     "notes": "หาเก้าอี้ไม้สำหรับโต๊ะทำงาน จะพาภรรยามาดูอีกครั้ง สนใจ Corah แต่ราคาสูงไป"
   },
@@ -13763,6 +16511,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "walk in คนไทย",
     "notes": "มาดู ไว้ก่อนรอบ้านเสร็จ"
   },
@@ -13778,6 +16527,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Table Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย",
     "notes": "แวะเข้ามาดูก่อน ขอกลับไปวัดพื้นที่และจะเข้ามาใหม่"
   },
@@ -13793,6 +16543,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 2 ราย",
     "notes": "ดูสินค้ามาจากหน้าเว็ป เข้ามาดูสินค้าจริง (สินค้า wall art ส่วนใหญ่ไม่มีโชว์)"
   },
@@ -13808,6 +16559,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 2 คน",
     "notes": "อยากได้เก้าอี้ที่หมุน 360 องศาได้"
   },
@@ -13821,6 +16573,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 3 ราย",
     "notes": "ดูไฟ Caboche ตามแบบสเป็ค (แสงไม่สว่าง)"
   },
@@ -13835,6 +16588,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2 คน",
     "notes": "มาดูก่อนเดี๋ยวกลับไปสรุป"
   },
@@ -13849,6 +16603,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณฮิม",
     "notes": "ลูกค้าดีไซเนอร์ - ติม ดูไฟ Wall lamp, pendant lamp"
   },
@@ -13865,6 +16620,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24342",
+    "hasDraftOrder": false,
     "customerName": "คุณวชิรคณา (คุณหมอ)",
     "notes": "ลูกค้าดีไซเนอร์-ปุ๋ย (ลูกค้าเก่า)"
   },
@@ -13878,6 +16634,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณโปเต้",
     "notes": "ดูโซฟาสีเทา ขนาดไม่เกิน 2 เมตร (Line: Potay)"
   },
@@ -13894,6 +16651,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Side Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "Unknown surface studio",
     "notes": "ดูสินค้าสำหรับคาเฟ่"
   },
@@ -13908,6 +16666,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 1 ราย",
     "notes": "ขอกลับไปวัดพื้นที่ก่อน"
   },
@@ -13921,6 +16680,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย+ต่างชาติ",
     "notes": "ดูไฟ Liesel pendant lamp (อยากเห็นสินค้าจริง)"
   },
@@ -13935,6 +16695,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 3",
     "notes": "มีบ้านอยู่หัวหิน ขอกลับไปวัดพื้นที่"
   },
@@ -13949,6 +16710,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Stools"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า2",
     "notes": "ดูโต๊ะแต่งหน้า ขนาด 120"
   },
@@ -13963,6 +16725,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 1",
     "notes": "ขอกลับไปปรึกษากะแฟน จะพาแฟนเข้ามาดูอีกครั้ง"
   },
@@ -13976,6 +16739,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณจอร์นี่",
     "notes": "ดูพรมเพิ่มเติม"
   },
@@ -13997,6 +16761,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "TV Stands"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1",
     "notes": "มาลองเดินดู กำลังจะย้ายเข้าคอนโด"
   },
@@ -14031,6 +16796,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "TV Stands"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ4 (ครอบครัว)",
     "notes": "ลคเคยติดต่อที่PK มาดูของเข้าคอนโดกรุงเทพ"
   },
@@ -14047,6 +16813,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Sectional Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 1",
     "notes": "ลูกค้าเคยติดต่อคุณบิวที่PK  หน้างานPK"
   },
@@ -14063,6 +16830,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL5550",
+    "hasDraftOrder": false,
     "customerName": "Sahar Alyas",
     "notes": "ลูกค้าเก่า (ซื้อผ่านเอเจ้น-คุณแบงค์) LL5550 มาดูสินค้าเพิ่มเติมจะส่งไปบ้านที่อังกฤษ (ต้นปีหน้าลูกค้าย้ายกลับ รอโปรโมชั่น)"
   },
@@ -14078,6 +16846,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณฟิลม์",
     "notes": "ดูสินค้าสำหรับร้านอาหาร (รอราคาโปร)"
   },
@@ -14094,6 +16863,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณแต้ว",
     "notes": "เพื่อนพี่ชายแนะนำมา ดูพรมกะโซฟาเป็นหลักใช้ที่บ้าน"
   },
@@ -14109,6 +16879,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24414",
+    "hasDraftOrder": false,
     "customerName": "K.Vitaly (ต่างชาติ 2)",
     "notes": "ดูสตูลสำหรับโต๊ะเครื่องแป้งและไฟตั้งโต๊ะ"
   },
@@ -14123,6 +16894,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Benches"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 2 ราย",
     "notes": "เดินผ่านร้าน เดินดูสินค้าทั่วไป สอบถามสินค้าผลิตที่ไหน"
   },
@@ -14137,6 +16909,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Coffee Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณทศ+ลูกค้า (3 ราย)",
     "notes": "ดีไซเนอร์มาดูสินค้ากับลูกค้า (รู้จักกับลูกค้า หจก.พณิตา)"
   },
@@ -14155,6 +16928,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "L-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณตาน / interior คุณตี้คุณปัด",
     "notes": "สนใจโต๊ะกลาง เคยมาดูแล้วที่พระราม9"
   },
@@ -14169,6 +16943,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Arts"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย+ต่างชาติ",
     "notes": "เคยมาดูหลายครั้งแล้ว เข้ามาดูสินค้าใหม่ ๆ"
   },
@@ -14186,6 +16961,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างขาติ 1 ราย",
     "notes": "สนใจสินค้าหลายอย่าง อาจจะไปดูเพิ่มที่ พระราม9"
   },
@@ -14200,6 +16976,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Floor Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 1 ราย",
     "notes": "สนใจ Bukce Side table Matt coffee และ ไฟ Rowell floor lamp (รอเช็คสภาพสินค้าที่คลัง)"
   },
@@ -14214,6 +16991,8 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": true,
+    "draftOrder": "D34771",
     "customerName": "คุณเนย์",
     "notes": "D34771 หน้างานอยู่นครราชสีมา รอเช็คค่าจัดส่งสินค้า"
   },
@@ -14231,6 +17010,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Sideboards"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าญี่ปุ่น 2 ราย",
     "notes": "มาเดินดูของเข้าห้อง สนใจโซฟา แนะนำให้ไปดูพระราม9 เพิ่มเติม"
   },
@@ -14244,6 +17024,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าดีไซเนอร์ (มาจากคุณมิ้ง-ปุ๋ย)",
     "notes": "ลูกค้าเข้ามาดูไฟตามแบบพร้อมกับดีไซเนอร์ (Grace 120)"
   },
@@ -14259,6 +17040,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL6352",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย Pooja Natani",
     "notes": "ลูกค้าเคยมาซื้อแล้ว LL6352, LL6426 ต้องการสอบถามโปรโมชั่นโซฟา1แถม1จะมีมาอีกมั้ย สอบถามการทำความสะอาดสินค้าที่เคยซื้อไปก่อนหน้านี้"
   },
@@ -14272,6 +17054,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Wall Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณเมี้ยว (ลูกค้าดีไซเนอร์-ติม)",
     "notes": "ดู wall lamp ตามแบบที่ดีไซเนอร์เลือก"
   },
@@ -14286,6 +17069,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DayBeds"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "K.Daniel",
     "notes": "ดูโซฟาขนาดเล็ก, daybed ไปดูสินค้าที่พระราม 9 เพิ่มเติม"
   },
@@ -14300,6 +17084,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Table Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณเอก a49",
     "notes": "ดูโซฟา size 240,โคมไฟ"
   },
@@ -14315,6 +17100,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Bed"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2 ราย",
     "notes": "ดูไฟ Meara และสินค้าเฟอร์อื่นเพิ่มเติม สำหรับบ้านและคลินิค"
   },
@@ -14328,6 +17114,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Coffee Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2 ราย ของ designr abacus",
     "notes": "ลูกค้าdesigner ของคุณติม มาดูโต๊ะกาแฟ"
   },
@@ -14342,6 +17129,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Lounge Chair"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 2 ราย (สถาปนิก)",
     "notes": "เป็นสถาปนิก รอส่งนามบัตรเพื่อเช็คเซลที่ดูแล (บริษัท อาเรย์ จำกัด)"
   },
@@ -14356,6 +17144,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Coffee Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 4 ราย",
     "notes": "กำลังทำบ้าน ดูสินค้าโคมไฟ อยากได้โปรลดราคา ใช้ดีไซน์เนอร์ของ perspace"
   },
@@ -14370,6 +17159,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24537",
+    "hasDraftOrder": false,
     "customerName": "คุณฟิลม์",
     "notes": "ชำระค่าพรม Ajay 160x230 Multi (Printed)"
   },
@@ -14384,6 +17174,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24547",
+    "hasDraftOrder": false,
     "customerName": "Khun Matt",
     "notes": "สนใจพรม GM Bruce, Marcos เข้ามาดูสินค้าและสั่งซื้อ"
   },
@@ -14400,6 +17191,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24549",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2 ราย (คุณอาทิตย์) ดีไซน์เนอร์ บริษัท เดค.คอน.ไนน์ จำกัด",
     "notes": "ซื้อสินค้าและชำระแล้วรอจัดส่ง (ลูกค้าพี่ปุ๋ย)"
   },
@@ -14414,6 +17206,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24556",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "ลูกค้ามาซื้อ Stools รับกลับเรียบร้อย"
   },
@@ -14482,6 +17275,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าจีน 2 ราย",
     "notes": "ดูรวมๆ"
   },
@@ -14495,6 +17289,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "67 ดีไซน์",
     "notes": "มาดูพรมให้ลูกค้า กลับไปวัดขนาดก่อนจะติดต่อเซลล์ที่ดูแลเอง"
   },
@@ -14510,6 +17305,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24578",
+    "hasDraftOrder": false,
     "customerName": "Janet HSU",
     "notes": "ดูเก้าอี้สำหรับโต๊ะหนังสือและพรม"
   },
@@ -14525,6 +17321,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24585",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าคนไทย 1 ราย คุณแนน ลูกค้าพี่ปุ๋ย",
     "notes": "มาชำระและรับพรม สนใจดูโคมไฟเพิ่มเติม"
   },
@@ -14541,6 +17338,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Sideboards"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 4 ราย",
     "notes": "มาดูหลายครั้งแล้ว กำลังสร้างวิลล่าที่ภูเก็ต หน้างานดีเลย์หลายเดือน"
   },
@@ -14609,6 +17407,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "เดินดูทั่วไป"
   },
@@ -14622,6 +17421,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 1 ราย",
     "notes": "เพื่อนลูกค้าแนะนำ มาดูเก้าอี้ทานข้าวแบบที่มีน้ำหนักเบา"
   },
@@ -14639,6 +17439,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Coffee Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าพี่ติม 1 คน คุณเมธิน A49",
     "notes": "มาดู console และเดินดูของเพิ่มเติม"
   },
@@ -14655,6 +17456,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณแคท สตูดิโอฟรีแฮนด์",
     "notes": "ดีไซเนอร์เซลปุ๋ย พาลูกค้ามาดูสินค้าตามแบบสเป็ค (สินค้าส่วนใหญ่อยู่ rama9)"
   },
@@ -14669,6 +17471,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24591",
+    "hasDraftOrder": false,
     "customerName": "คุณสุชัย",
     "notes": "เคยมาดูแล้ว ดูของตกแต่งสำหรับห้องปล่อยเช่า"
   },
@@ -14705,6 +17508,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Working Desks"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าสองราย คุณบิว คุณตุ้ย ทักมาในLine@",
     "notes": "ไปดูRM9 มาแล้ว มาดูสินค้าที่SKVเพิ่มเติม อยากให้เลือกเฟอร์นิเจอร์เพิ่มให้เข้ากับบ้าน"
   },
@@ -14719,6 +17523,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คุณกิ๊ฟ",
     "notes": "มาดู Console Ulike (สินค้าหมดจะเข้ามาเดือนสค.)"
   },
@@ -14732,6 +17537,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 1 ราย ลูกค้าพี่ปุ๋ย",
     "notes": "มาดูไฟวง rosalind กะ hengele"
   },
@@ -14749,6 +17555,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Coffee Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 3 ราย",
     "notes": "จะซื้อ Spirito Table Lamp แต่ขอดูของตกแต่งอื่นด้วย แอดline@แล้ว"
   },
@@ -14763,6 +17570,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Pendant Lamps"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "คนไทย 1 ราย",
     "notes": "ดูสินค้าลดราคา จะเข้าไปดูสินค้าที่สาขา Rama 9 เพิ่มเติม"
   },
@@ -14776,6 +17584,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ (ญี่ปุ่น) 2 ราย",
     "notes": "ดูพรมแฮนเมด AT จะไปดูสินค้าเพิ่มที่ Rama 9"
   },
@@ -14790,6 +17599,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Outlet"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2",
     "notes": "ลูกค้าจะมาดูสินค้า outlet จะเข้าไป พระราม 9"
   },
@@ -14806,6 +17616,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Console Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าไทย 2 ราย",
     "notes": "มาเดินดูของเข้าคอนโด อยากได้เฟอร์นิเจอร์เข้า set"
   },
@@ -14820,6 +17631,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Sideboards"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า IG",
     "notes": "ดูตู้เก็บของตัวโชว์"
   },
@@ -14834,6 +17646,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "Order Confirmed",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 1 ราย",
     "notes": "เคยซื้อสินค้าแล้ว มาดูเพิ่ม"
   },
@@ -14849,6 +17662,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 1 ราย",
     "notes": "เดินผ่านร้านเลยเข้ามาดูสินค้าให้ลูกค้าที่ภูเก็ต จะเข้าไปดูสินค้าในเว็ปเพิ่มเติมเนื่องจากรีบดูเพราะมีนัดต่อ"
   },
@@ -14865,6 +17679,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24677",
+    "hasDraftOrder": false,
     "customerName": "คุณออย",
     "notes": "โทรมาสอบถามสินค้าและทักมาขอรูปเพิ่มทางFB เข้ามาดูสินค้าจริง"
   },
@@ -14879,6 +17694,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Rugs"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 1 ราย",
     "notes": "ดูโต๊ะกาแฟท็อปกระจกขาเงิน (แบบที่มียังไม่ถูกใจ) หาพรมขนาด 200x300cm ขอกลับไปดูรายการสินค้าหน้าเว็ปกับที่บ้านเพิ่มเติมก่อน"
   },
@@ -14893,6 +17709,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 3",
     "notes": "ลูกค้ามาดู โต๊ะ Viano"
   },
@@ -14909,6 +17726,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "DINING CHAIRS"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ต่างชาติ 2",
     "notes": "มาดูของเข้าบ้าน สนใจเก้าอี้ 2500"
   },
@@ -14925,6 +17743,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
     ],
     "orderClosed": true,
     "closedDetails": "#LL24732",
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า1ราย",
     "notes": "มาดูสินค้าซื้อแล้วรับกลับบางส่วน"
   },
@@ -14939,6 +17758,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Coffee Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้า 2 ราย ไทย 1ต่างชาติ 1",
     "notes": "มาดูสินค้าคร่าวๆ"
   },
@@ -14953,6 +17773,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Benches"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าคนไทย2",
     "notes": "สนใจพรมไซส์ใหญ่"
   },
@@ -14967,6 +17788,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Dining Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าคนไทย 1 ราย",
     "notes": "อยากได้โต๊ะทานข้าว ออกขาว ทอง ขนาด180-200 กับโซฟา โทนขาว เหลือง ดูรุ่น bowy 2s ไว้"
   },
@@ -14980,6 +17802,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "Coffee Tables"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าคนไทย 1 ราย",
     "notes": "ดูโต๊ะกาแฟ ไว้ เดี๋ยวเค้าไปดู outlet/clearance ที่ RM9 เพิ่ม"
   },
@@ -14996,6 +17819,7 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าคนไทย 1 ราย (คุณก้อง)",
     "notes": "สนใจสินค้าไฟผนัง โคมไฟ สนใจเซทเฟอร์นิเจอร์"
   },
@@ -15009,157 +17833,21 @@ export const REAL_GOOGLE_SHEET_RECORDS: VisitorRecord[] = [
       "I-Shape Sofas"
     ],
     "orderClosed": false,
+    "hasDraftOrder": false,
     "customerName": "ลูกค้าต่างชาติ 2 ราย",
     "notes": "อยากได้ โซฟาหนัง แบบrecliner"
   },
   {
-    "id": "76d638f7",
-    "date": "2026-08-08",
-    "branch": "SKV",
-    "channel": "Walk in",
-    "salesperson": "Kate",
-    "productInterests": [
-      "Rugs"
-    ],
-    "orderClosed": false,
-    "customerName": "ลูกค้าต่างชาติ4 คน",
-    "notes": "เคยซื้อแล้ว มาดูพรมเพิ่มเติม"
-  },
-  {
-    "id": "d79f4a37",
-    "date": "2026-08-10",
-    "branch": "SKV",
-    "channel": "Designer",
-    "salesperson": "Aom",
-    "productInterests": [
-      "Bed",
-      "L-Shape Sofas",
-      "Coffee Tables",
-      "Night Tables",
-      "Benches",
-      "Decor Accessories"
-    ],
-    "orderClosed": false,
-    "customerName": "คุณรัตน์",
-    "notes": "ลูกค้าปุ๋ย มาดูสินค้าเพิ่มสำหรับบ้านที่ภูเก็ต D35212"
-  },
-  {
-    "id": "871cfbb3",
-    "date": "2026-08-10",
-    "branch": "SKV",
-    "channel": "Designer",
-    "salesperson": "Aom",
-    "productInterests": [
-      "Lounge Chair",
-      "Coffee Tables",
-      "Floor Lamps"
-    ],
-    "orderClosed": false,
-    "customerName": "คุณวาวา Nord design studio",
-    "notes": "ดีไซเนอร์ ดูสินค้าตามแบบสเป็ค จะเข้าไปดูสินค้าที่ Rama 9 เพิ่มเติมอีกครั้ง"
-  },
-  {
-    "id": "3bbb623b",
-    "date": "2026-08-10",
-    "branch": "SKV",
-    "channel": "Designer",
-    "salesperson": "Aom",
-    "productInterests": [
-      "Table Lamps",
-      "Decor Accessories"
-    ],
-    "orderClosed": true,
-    "closedDetails": "LL24774",
-    "customerName": "คุณรัตน์",
-    "notes": "(ลูกค้าปุ๋ย) เข้ามาเลือกสินค้าไฟเพิ่มและชำระบิล"
-  },
-  {
-    "id": "a8c56cce",
-    "date": "2026-08-10",
-    "branch": "SKV",
-    "channel": "Walk in",
-    "salesperson": "Kate",
-    "productInterests": [
-      "Pendant Lamps"
-    ],
-    "orderClosed": false,
-    "customerName": "ลูกค้าคนไทย 2 คน",
-    "notes": "มาดูไฟของจริง รุ่น rondo"
-  },
-  {
-    "id": "b1ed6ac6",
-    "date": "2026-08-11",
-    "branch": "SKV",
-    "channel": "Designer",
-    "salesperson": "Aom",
-    "productInterests": [
-      "Pendant Lamps",
-      "Wall Lamps"
-    ],
-    "orderClosed": false,
-    "customerName": "คนไทย 2 ราย",
-    "notes": "มาดูสินค้าแบบใหม่ ๆ"
-  },
-  {
-    "id": "d104be0d",
-    "date": "2026-08-11",
-    "branch": "SKV",
-    "channel": "Google",
-    "salesperson": "Aom",
-    "productInterests": [
-      "I-Shape Sofas",
-      "L-Shape Sofas",
-      "Sideboards"
-    ],
-    "orderClosed": false,
-    "customerName": "คนไทย+ต่างชาติ 2 ราย",
-    "notes": "หาโซฟาขนาดประมาณ 240cm หน้าร้านมีสินค้าโชว์ไม่ครบทุกรายการ"
-  },
-  {
-    "id": "34ccef9d",
-    "date": "2026-08-11",
-    "branch": "SKV",
-    "channel": "Walk in",
-    "salesperson": "Kate",
-    "productInterests": [
-      "Dresser",
-      "Working Desks"
-    ],
-    "orderClosed": false,
-    "customerName": "ลูกค้าต่างชาติ 1 คน",
-    "notes": "มาดูสินค้าโต๊ะเครื่องแป้งและโต๊ะทำงาน"
-  },
-  {
-    "id": "93c2a3af",
-    "date": "2026-08-11",
-    "branch": "SKV",
-    "channel": "Walk in",
-    "salesperson": "Kate",
-    "productInterests": [
-      "Sectional Sofas",
-      "Rugs",
-      "Bed",
-      "Lounge Chair"
-    ],
-    "orderClosed": false,
-    "customerName": "ลูกค้าต่างชาติ 3 คน (แม่ลูก2)",
-    "notes": "อยากได้โซฟาsectional สีออกเทา (ดูdejanไป อยากดูของจริงเลยแนะนำให้ไปดูที่พระราม9) ดูพรม, สนใจเตียงกับเก้าอี้loungeโปรวันแม่"
-  },
-  {
-    "id": "a77e8501",
-    "date": "2026-08-15",
-    "branch": "SKV",
-    "channel": "Google",
-    "salesperson": "Aom",
-    "productInterests": [
-      "Bed",
-      "Sideboards",
-      "DINING CHAIRS",
-      "Console Tables",
-      "Rugs"
-    ],
-    "orderClosed": false,
-    "customerName": "ลูกค้าต่างชาติ 2 ราย",
-    "notes": "มาดูสินค้าเฟอร์บ้านกำลังทำอยู่ (รอย้ายเข้า)"
-  }
-];
+    "id": "7x��[oo���OqЫKS��C�{��Xg�p;k_}q$���4D��0�=!N��U�e��t�aXQ��k��6�(�{�'RԝLY�m��HG��x����qݮW�Q��%���	*�e��Q�A?�����ͮm>�\Z����F���S��ĕ �$�!�����Gl���NǷw�p�I�a@����k�[A	~|���wl�Yv����F�I�l�`����3vG�~�t�q�'�N�hG{qԍ��ч8�.��/q�*�~�"vK��������9\����8�V�1챥��3:��9�G���6¦��?���O�������1�j�7,�Fө��\���<z6rL��vH҃�/~�}���w����˾���`�>!^omm�c�	�uv`�X~-Y	��"Wf@�����xi�R�5��$�5��7��� �^<�v���ʈ~��Ƚ����q�x�;�I����������(S�C��H��04�1��m!Ϛ��m���[�K��ק<X���!�gp���NG6�,
+�]��K`?0�L�=&����H�6#���[z�|0v�L
+�O0�/�>�VL(�6p�&��Y`	Q9��r�TLӬ��x���jJ"�,[!!n���ښ^5�ji6MVw'k�{hv�6��)3,�=����~t�?�Ḡ�þ~�ѹ�r�qê��9��|l�c���)��`t�.U�J��U� 
+C� ��� ��0顎�پ��M��ulՕg�]�����P�(��q��O�����ȄP����)=f�1�P�VZ�j��=����[.���W徔���l���qǾH~��/���d<���}��x$���ҫe��`ZO�I�:#6�>l�j^��1l��w�{�O��VVX�*ՅNs���:\�#�xK_���-oQ�z���
+)J9dt�W���`�e���;)�M��b���v7�P6+��+ع-Pn+l�v��an& �FXY��f��$`�� 	�d�~OB�A�>@��e\��g�A0<`�L g�Q�-���r��/���0Y6����{�ez�2�2��d��ax�^(%�-���P.��Ϸۃ�^
+7�6u ���-	�����=��0���;��{��Txh�A����q�:��=3f(u�W�W�?E�\Z���Fy^��a���xf�8����o4f�u
+���;`��]x*$���@���VM7���gg��Ύ���6��5ۓ��f�=;砌a-��2v�oT���+�N�6�"�*��S���,"A���E��ꚮ[F�]�"�1|�O&�[ꄷ[#�� זAC��[�
+m�o�^j�R�πr$|f��@�z��HZ	��V8��)��4ԞеZ��HgQ�O�@�.:F��<�O]�}(�=H���ǳ�]@���pT����*��z��!��S.���VO̘���K�IyjE[��q��l����6���l��1%\r��<���q�%���!v�=�n�ɒ���0�fM3@���{��d�"&��=��(Ԟ��j�vE���U/U�	��GІ�:h���굢P�i�$�s�%��/P�L���VaQ���F٠�\I}>�|��(�N`�eE�FsH��ȳ��+�"Q�!L�'��� �=�!��4^*�F�3AZ�*9�ZӴ�z��hp��
+�;���t��hdq
+�tΙ�}0�jr9SZ^�pa\��ZM�k���m�#�c���f�^��Ό��]E��Z!�_����H}E��]�7��?���B�A��Q`D�h�B��pj�S�s�t�z	KO-D*�)J����B�H��,o�2�'ǉ4tCӍ9X�K���V��c���}��z�*�6��xFfH��S��,K3�����8 �_g�����t���R��B��{�"~B*$��3��ὐ���xc�U��q�Z3*��+��I�
+g�st
+��)���DD�Ε��/� Z�6������G6cbp����ܼ"3f���N����������ֈ��ǐ;u������<�z�)��U^�nΓ��9o��b|�P��r��+S�Ł��R��n��7��gFXkb;eM����0J��o��)����ZUW��l*,���VsǑz/"��&c4t?^��бv����3
+Z��t�$f�Y�װ�lB����"��`�A�>��#"�hsI�e�cX�:���M�T��Z���*ςґ#mjI'�?��p�⤖�"�E�6è+�ъ3`>���F�٪�����+�端�>co�ҷB	�s&���>ٞާ�-K޳a����j������  �� ���

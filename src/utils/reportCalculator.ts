@@ -169,13 +169,16 @@ export function calculateWeeklyReport(
   });
 
   // 3. Visitors Handled by Salesperson
-  const salesMap = new Map<string, { count: number; closed: number }>();
+  const salesMap = new Map<string, { count: number; closed: number; quoted: number }>();
   filtered.forEach(r => {
     const sp = r.salesperson || 'Unassigned';
-    const curr = salesMap.get(sp) || { count: 0, closed: 0 };
+    const curr = salesMap.get(sp) || { count: 0, closed: 0, quoted: 0 };
     curr.count += 1;
     if (r.orderClosed) {
       curr.closed += 1;
+    }
+    if (r.hasDraftOrder) {
+      curr.quoted += 1;
     }
     salesMap.set(sp, curr);
   });
@@ -194,6 +197,8 @@ export function calculateWeeklyReport(
     count: data.count,
     closedCount: data.closed,
     conversionRate: data.count > 0 ? Math.round((data.closed / data.count) * 100) : 0,
+    quotedCount: data.quoted,
+    quoteRate: data.count > 0 ? Math.round((data.quoted / data.count) * 100) : 0,
     color: salesPalette[idx] || CHART_THEME_COLORS.salesperson.dark
   }));
 

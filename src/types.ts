@@ -17,6 +17,8 @@ export interface VisitorRecord {
   orderClosed: boolean;
   orderAmount?: number; // THB
   closedDetails?: string;
+  hasDraftOrder?: boolean;
+  draftOrder?: string;
   customerName?: string;
   notes?: string;
 }
@@ -33,6 +35,8 @@ export interface SalespersonStat {
   count: number;
   closedCount: number;
   conversionRate: number;
+  quotedCount: number;
+  quoteRate: number;
   color: string;
 }
 

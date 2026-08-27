@@ -433,6 +433,8 @@ export const AnalyticsView: React.FC<AnalyticsViewProps> = ({ reportData }) => {
                 <tr className="border-b border-slate-200 text-xs font-bold text-slate-400 uppercase tracking-wider">
                   <th className="pb-3">Salesperson</th>
                   <th className="pb-3">Visitors</th>
+                  <th className="pb-3">Quoted</th>
+                  <th className="pb-3">Quote%</th>
                   <th className="pb-3">Closed</th>
                   <th className="pb-3">Conv.</th>
                   <th className="pb-3 text-right">Performance</th>
@@ -446,9 +448,15 @@ export const AnalyticsView: React.FC<AnalyticsViewProps> = ({ reportData }) => {
                       {sp.salesperson}
                     </td>
                     <td className="py-2.5 font-medium text-slate-700">{sp.count}</td>
+                    <td className="py-2.5 font-semibold text-amber-600">{sp.quotedCount}</td>
+                    <td className="py-2.5">
+                      <span className="px-2 py-0.5 text-xs font-bold bg-amber-50 text-amber-800 rounded-md">
+                        {sp.quoteRate}%
+                      </span>
+                    </td>
                     <td className="py-2.5 font-semibold text-emerald-600">{sp.closedCount}</td>
                     <td className="py-2.5">
-                      <span className="px-2 py-0.5 text-xs font-bold bg-slate-100 text-slate-800 rounded-md">
+                      <span className="px-2 py-0.5 text-xs font-bold bg-emerald-50 text-emerald-800 rounded-md">
                         {sp.conversionRate}%
                       </span>
                     </td>

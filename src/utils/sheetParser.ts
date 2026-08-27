@@ -212,6 +212,7 @@ export function parseSheetDataToRecords(csvOrTsvText: string, defaultBranch = 'P
   let amountCol = -1;
   let nameCol = -1;
   let notesCol = -1;
+  let draftOrderCol = -1;
 
   headers.forEach((h, idx) => {
     const col = h.toLowerCase().trim();
@@ -221,6 +222,7 @@ export function parseSheetDataToRecords(csvOrTsvText: string, defaultBranch = 'P
     else if (channelCol === -1 && (col.includes('channel') || col.includes('ช่องทาง') || col.includes('source') || col.includes('contact'))) channelCol = idx;
     else if (saleCol === -1 && (col === 'sale' || col.includes('sale') || col.includes('staff') || col.includes('พนักงาน') || col.includes('rep') || col.includes('person'))) saleCol = idx;
     else if (prodCol === -1 && (col === 'type' || col.includes('product') || col.includes('สินค้า') || col.includes('interest') || col.includes('item') || col.includes('หมวด') || col.includes('type'))) prodCol = idx;
+    else if (draftOrderCol === -1 && (col.includes('draft order') || col.includes('draft') || col.includes('quotation'))) draftOrderCol = idx;
     else if (closedCol === -1 && (col === 'order' || col.includes('order') || col.includes('close') || col.includes('ปิด') || col.includes('status') || col.includes('deal'))) closedCol = idx;
     else if (amountCol === -1 && (col.includes('amount') || col.includes('price') || col.includes('ยอด') || col.includes('thb') || col.includes('baht') || col.includes('มูลค่า'))) amountCol = idx;
     else if (nameCol === -1 && (col.includes('name') || col.includes('customer') || col.includes('ลูกค้า') || col.includes('ชื่อ'))) nameCol = idx;
@@ -263,6 +265,21 @@ export function parseSheetDataToRecords(csvOrTsvText: string, defaultBranch = 'P
 
     const customerName = nameCol >= 0 && row[nameCol] ? row[nameCol].trim() : undefined;
     const notes = notesCol >= 0 && row[notesCol] ? row[notesCol].trim() : undefined;
+
+    // Draft order detection
+    let hasDraftOrder = false;
+    let draftOrder: string | undefined = undefined;
+    if (draftOrderCol >= 0 && row[draftOrderCol] && row[draftOrderCol].trim().length > 0) {
+      hasDraftOrder = true;
+      draftOrder = row[draftOrderCol].trim();
+    } else if (notes) {
+      const nLower = notes.toLowerCase();
+      if (nLower.includes('d3') || nLower.includes('ใบเสนอราคา') || /d\d{4,5}/i.test(notes)) {
+        hasDraftOrder = true;
+        const dMatch = notes.match(/d\d{4,5}/i);
+        draftOrder = dMatch ? dMatch[0].toUpperCase() : 'Draft Created';
+      }
+    }
 
     // Closed status & details detection
     let orderClosed = false;
@@ -320,6 +337,8 @@ export function parseSheetDataToRecords(csvOrTsvText: string, defaultBranch = 'P
       orderClosed,
       orderAmount,
       closedDetails,
+      hasDraftOrder,
+      draftOrder,
       customerName,
       notes
     });

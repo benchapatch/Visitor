@@ -515,11 +515,18 @@ export const ReportSlideView: React.FC<ReportSlideViewProps> = ({ reportData, on
                       <span>{sp.salesperson}:</span>
                       <span className="font-semibold">{sp.count} visitor{sp.count > 1 ? 's' : ''}</span>
                     </div>
-                    {sp.closedCount > 0 && (
-                      <span className="text-xs font-semibold px-2 py-0.5 bg-emerald-50 text-emerald-700 rounded">
-                        {sp.closedCount} closed ({sp.conversionRate}%)
-                      </span>
-                    )}
+                    <div className="flex items-center gap-1.5">
+                      {sp.quotedCount > 0 && (
+                        <span className="text-xs font-semibold px-2 py-0.5 bg-amber-50 text-amber-700 rounded">
+                          {sp.quotedCount} quoted ({sp.quoteRate}%)
+                        </span>
+                      )}
+                      {sp.closedCount > 0 && (
+                        <span className="text-xs font-semibold px-2 py-0.5 bg-emerald-50 text-emerald-700 rounded">
+                          {sp.closedCount} closed ({sp.conversionRate}%)
+                        </span>
+                      )}
+                    </div>
                   </li>
                 ))}
                 {salespersonBreakdown.length === 0 && (
