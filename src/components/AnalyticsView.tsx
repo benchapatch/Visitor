@@ -103,6 +103,34 @@ export const AnalyticsView: React.FC<AnalyticsViewProps> = ({ reportData }) => {
     }
   };
 
+  const maxDailyVisitors = Math.max(...dailyTrend.map(d => d.visitors), 4);
+  const dailyAxisMaxAnalytics = Math.ceil(maxDailyVisitors * 1.25) + 2;
+
+  const maxProductMentionsAnalytics = Math.max(...topProducts.map(p => p.mentions), 4);
+  const productAxisMaxAnalytics = Math.ceil(maxProductMentionsAnalytics * 1.25) + 2;
+
+  const renderPieSliceLabel = ({ cx, cy, midAngle, innerRadius, outerRadius, percent, value }: any) => {
+    if (!value || percent < 0.03) return null;
+    const RADIAN = Math.PI / 180;
+    const radius = innerRadius + (outerRadius - innerRadius) * 0.5;
+    const x = cx + radius * Math.cos(-midAngle * RADIAN);
+    const y = cy + radius * Math.sin(-midAngle * RADIAN);
+
+    return (
+      <text 
+        x={x} 
+        y={y} 
+        fill="#ffffff" 
+        textAnchor="middle" 
+        dominantBaseline="central" 
+        fontSize={11} 
+        fontWeight={800}
+      >
+        {value}
+      </text>
+    );
+  };
+
   return (
     <div className="space-y-4">
       {/* Action Bar */}
@@ -260,7 +288,7 @@ export const AnalyticsView: React.FC<AnalyticsViewProps> = ({ reportData }) => {
           </div>
           <div className="h-[280px] w-full">
             <ResponsiveContainer width="100%" height="100%">
-              <LineChart data={dailyTrend} margin={{ top: 10, right: 20, left: -10, bottom: 5 }}>
+              <LineChart data={dailyTrend} margin={{ top: 22, right: 20, left: -10, bottom: 5 }}>
                 <defs>
                   <linearGradient id="analyticsTrendLine" x1="0" y1="0" x2="1" y2="0">
                     <stop offset="0%" stopColor="#573523" />
@@ -276,7 +304,7 @@ export const AnalyticsView: React.FC<AnalyticsViewProps> = ({ reportData }) => {
                     return parts.length === 3 ? `${parts[1]}/${parts[2]}` : val;
                   }}
                 />
-                <YAxis tick={{ fontSize: 11, fill: '#64748b' }} />
+                <YAxis domain={[0, dailyAxisMaxAnalytics]} tick={{ fontSize: 11, fill: '#64748b' }} />
                 <Tooltip 
                   formatter={(val: any) => [`${val} visitors`, 'Traffic']}
                   labelFormatter={(label) => formatDailyTrendDate(String(label)) || `Date: ${label}`}
@@ -293,9 +321,9 @@ export const AnalyticsView: React.FC<AnalyticsViewProps> = ({ reportData }) => {
                   <LabelList 
                     dataKey="visitors" 
                     position="top" 
-                    fill="#1e293b" 
+                    fill="#0f172a" 
                     fontSize={11} 
-                    fontWeight={700} 
+                    fontWeight={800} 
                     offset={8}
                     formatter={(val: any) => (Number(val) > 0 ? val : '')}
                   />
@@ -327,8 +355,10 @@ export const AnalyticsView: React.FC<AnalyticsViewProps> = ({ reportData }) => {
                     cx="50%"
                     cy="50%"
                     outerRadius={85}
-                    innerRadius={50}
+                    innerRadius={48}
                     paddingAngle={3}
+                    label={renderPieSliceLabel}
+                    labelLine={false}
                   >
                     {channelBreakdown.map((entry, index) => (
                       <Cell key={`cell-${index}`} fill={entry.color} />
@@ -378,10 +408,10 @@ export const AnalyticsView: React.FC<AnalyticsViewProps> = ({ reportData }) => {
                 <BarChart
                   layout="vertical"
                   data={[...topProducts.slice(0, 10)].reverse()}
-                  margin={{ top: 5, right: 30, left: 10, bottom: 5 }}
+                  margin={{ top: 5, right: 38, left: 10, bottom: 5 }}
                 >
                   <CartesianGrid strokeDasharray="3 3" horizontal={false} stroke="#f1f5f9" />
-                  <XAxis type="number" tick={{ fontSize: 11, fill: '#64748b' }} />
+                  <XAxis type="number" domain={[0, productAxisMaxAnalytics]} tick={{ fontSize: 11, fill: '#64748b' }} />
                   <YAxis 
                     type="category" 
                     dataKey="category" 
@@ -399,9 +429,9 @@ export const AnalyticsView: React.FC<AnalyticsViewProps> = ({ reportData }) => {
                     <LabelList 
                       dataKey="mentions" 
                       position="right" 
-                      fill="#1e293b" 
+                      fill="#0f172a" 
                       fontSize={10.5} 
-                      fontWeight={700} 
+                      fontWeight={800} 
                       offset={6}
                       formatter={(val: any) => (Number(val) > 0 ? val : '')}
                     />

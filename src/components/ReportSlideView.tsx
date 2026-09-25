@@ -114,15 +114,15 @@ export const ReportSlideView: React.FC<ReportSlideViewProps> = ({ reportData, on
 
   // Max value for daily trend axis scaling (with headroom for labels)
   const maxDaily = Math.max(...dailyTrend.map(d => d.visitors), 4);
-  const dailyAxisMax = Math.max(Math.ceil(maxDaily / 2) * 2, maxDaily + 2);
+  const dailyAxisMax = Math.ceil(maxDaily * 1.25) + 2;
 
   // Max value for salesperson axis scaling (with headroom for labels)
   const maxSales = Math.max(...salespersonBreakdown.map(s => s.count), 4);
-  const salesAxisMax = Math.max(Math.ceil(maxSales / 5) * 5, maxSales + 2);
+  const salesAxisMax = Math.ceil(maxSales * 1.25) + 2;
 
   // Max value for channels axis scaling (with headroom for labels)
   const maxChannel = Math.max(...channelBreakdown.map(c => c.count), 4);
-  const channelAxisMax = Math.max(Math.ceil(maxChannel / 5) * 5, maxChannel + 2);
+  const channelAxisMax = Math.ceil(maxChannel * 1.25) + 2;
 
   // Top products limited to top 10 for clean single-frame chart
   const topProductsChart = topProducts.slice(0, 10).map(p => ({
@@ -132,7 +132,7 @@ export const ReportSlideView: React.FC<ReportSlideViewProps> = ({ reportData, on
   })).reverse(); // reverse so #1 is at the top of horizontal chart
 
   const maxProductMentions = Math.max(...topProductsChart.map(p => p.mentions), 4);
-  const productAxisMax = Math.max(Math.ceil(maxProductMentions / 2) * 2, maxProductMentions + 1);
+  const productAxisMax = Math.ceil(maxProductMentions * 1.25) + 2;
 
   return (
     <div className="space-y-4">
@@ -242,7 +242,7 @@ export const ReportSlideView: React.FC<ReportSlideViewProps> = ({ reportData, on
                 <ResponsiveContainer width="100%" height="100%">
                   <BarChart
                     data={dailyChartData}
-                    margin={{ top: 15, right: 10, left: -15, bottom: 25 }}
+                    margin={{ top: 22, right: 10, left: -15, bottom: 25 }}
                   >
                     <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#e2e8f0" />
                     <XAxis 
@@ -271,9 +271,9 @@ export const ReportSlideView: React.FC<ReportSlideViewProps> = ({ reportData, on
                       <LabelList 
                         dataKey="visitors" 
                         position="top" 
-                        fill="#1e293b" 
+                        fill="#0f172a" 
                         fontSize={11} 
-                        fontWeight={700} 
+                        fontWeight={800} 
                         offset={4}
                         formatter={(val: any) => (Number(val) > 0 ? val : '')}
                       />
@@ -295,7 +295,7 @@ export const ReportSlideView: React.FC<ReportSlideViewProps> = ({ reportData, on
                 <ResponsiveContainer width="100%" height="100%">
                   <BarChart
                     data={salespersonBreakdown}
-                    margin={{ top: 15, right: 10, left: -15, bottom: 25 }}
+                    margin={{ top: 22, right: 10, left: -15, bottom: 25 }}
                   >
                     <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#e2e8f0" />
                     <XAxis 
@@ -324,9 +324,9 @@ export const ReportSlideView: React.FC<ReportSlideViewProps> = ({ reportData, on
                       <LabelList 
                         dataKey="count" 
                         position="top" 
-                        fill="#1e293b" 
+                        fill="#0f172a" 
                         fontSize={11} 
-                        fontWeight={700} 
+                        fontWeight={800} 
                         offset={4}
                         formatter={(val: any) => (Number(val) > 0 ? val : '')}
                       />
@@ -350,7 +350,7 @@ export const ReportSlideView: React.FC<ReportSlideViewProps> = ({ reportData, on
                     <BarChart
                       layout="vertical"
                       data={topProductsChart}
-                      margin={{ top: 4, right: 28, left: 5, bottom: 4 }}
+                      margin={{ top: 4, right: 35, left: 5, bottom: 4 }}
                     >
                       <CartesianGrid strokeDasharray="3 3" horizontal={false} stroke="#e2e8f0" />
                       <XAxis 
@@ -378,9 +378,9 @@ export const ReportSlideView: React.FC<ReportSlideViewProps> = ({ reportData, on
                         <LabelList 
                           dataKey="mentions" 
                           position="right" 
-                          fill="#1e293b" 
+                          fill="#0f172a" 
                           fontSize={10} 
-                          fontWeight={700} 
+                          fontWeight={800} 
                           offset={5}
                           formatter={(val: any) => (Number(val) > 0 ? val : '')}
                         />
@@ -407,7 +407,7 @@ export const ReportSlideView: React.FC<ReportSlideViewProps> = ({ reportData, on
                 <ResponsiveContainer width="100%" height="100%">
                   <BarChart
                     data={channelBreakdown}
-                    margin={{ top: 15, right: 10, left: -15, bottom: 25 }}
+                    margin={{ top: 22, right: 10, left: -15, bottom: 25 }}
                   >
                     <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#e2e8f0" />
                     <XAxis 
@@ -435,9 +435,9 @@ export const ReportSlideView: React.FC<ReportSlideViewProps> = ({ reportData, on
                       <LabelList 
                         dataKey="count" 
                         position="top" 
-                        fill="#1e293b" 
+                        fill="#0f172a" 
                         fontSize={11} 
-                        fontWeight={700} 
+                        fontWeight={800} 
                         offset={4}
                         formatter={(val: any) => (Number(val) > 0 ? val : '')}
                       />
