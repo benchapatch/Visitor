@@ -112,19 +112,85 @@ export const AnalyticsView: React.FC<AnalyticsViewProps> = ({ reportData }) => {
   const renderPieSliceLabel = ({ cx, cy, midAngle, innerRadius, outerRadius, percent, value }: any) => {
     if (!value || percent < 0.03) return null;
     const RADIAN = Math.PI / 180;
-    const radius = innerRadius + (outerRadius - innerRadius) * 0.5;
-    const x = cx + radius * Math.cos(-midAngle * RADIAN);
-    const y = cy + radius * Math.sin(-midAngle * RADIAN);
+    const radius = (Number(innerRadius) || 0) + ((Number(outerRadius) || 0) - (Number(innerRadius) || 0)) * 0.5;
+    const x = (Number(cx) || 0) + radius * Math.cos(-midAngle * RADIAN);
+    const y = (Number(cy) || 0) + radius * Math.sin(-midAngle * RADIAN);
 
     return (
       <text 
         x={x} 
         y={y} 
         fill="#ffffff" 
+        fontSize="11"
+        fontWeight="800"
+        fontFamily="sans-serif, system-ui, -apple-system"
         textAnchor="middle" 
         dominantBaseline="central" 
-        fontSize={11} 
-        fontWeight={800}
+        style={{
+          fill: '#ffffff',
+          fontSize: '11px',
+          fontWeight: '800',
+          fontFamily: 'sans-serif, system-ui, -apple-system',
+          visibility: 'visible',
+          opacity: 1
+        }}
+      >
+        {value}
+      </text>
+    );
+  };
+
+  const renderLinePointLabel = (props: any) => {
+    const { x, y, value } = props;
+    if (value === undefined || value === null || Number(value) <= 0) return null;
+    const cx = Number(x) || 0;
+    const cy = (Number(y) || 0) - 8;
+    return (
+      <text
+        x={cx}
+        y={cy}
+        fill="#0f172a"
+        fontSize="11"
+        fontWeight="800"
+        fontFamily="sans-serif, system-ui, -apple-system"
+        textAnchor="middle"
+        style={{
+          fill: '#0f172a',
+          fontSize: '11px',
+          fontWeight: '800',
+          fontFamily: 'sans-serif, system-ui, -apple-system',
+          visibility: 'visible',
+          opacity: 1
+        }}
+      >
+        {value}
+      </text>
+    );
+  };
+
+  const renderHorizontalBarLabelAnalytics = (props: any) => {
+    const { x, y, width, height, value } = props;
+    if (value === undefined || value === null || Number(value) <= 0) return null;
+    const cx = (Number(x) || 0) + (Number(width) || 0) + 6;
+    const cy = (Number(y) || 0) + (Number(height) || 0) / 2;
+    return (
+      <text
+        x={cx}
+        y={cy}
+        fill="#0f172a"
+        fontSize="10.5"
+        fontWeight="800"
+        fontFamily="sans-serif, system-ui, -apple-system"
+        textAnchor="start"
+        dominantBaseline="central"
+        style={{
+          fill: '#0f172a',
+          fontSize: '10.5px',
+          fontWeight: '800',
+          fontFamily: 'sans-serif, system-ui, -apple-system',
+          visibility: 'visible',
+          opacity: 1
+        }}
       >
         {value}
       </text>
@@ -320,12 +386,7 @@ export const AnalyticsView: React.FC<AnalyticsViewProps> = ({ reportData }) => {
                 >
                   <LabelList 
                     dataKey="visitors" 
-                    position="top" 
-                    fill="#0f172a" 
-                    fontSize={11} 
-                    fontWeight={800} 
-                    offset={8}
-                    formatter={(val: any) => (Number(val) > 0 ? val : '')}
+                    content={renderLinePointLabel}
                   />
                 </Line>
               </LineChart>
@@ -428,12 +489,7 @@ export const AnalyticsView: React.FC<AnalyticsViewProps> = ({ reportData }) => {
                     ))}
                     <LabelList 
                       dataKey="mentions" 
-                      position="right" 
-                      fill="#0f172a" 
-                      fontSize={10.5} 
-                      fontWeight={800} 
-                      offset={6}
-                      formatter={(val: any) => (Number(val) > 0 ? val : '')}
+                      content={renderHorizontalBarLabelAnalytics}
                     />
                   </Bar>
                 </BarChart>

@@ -1,4 +1,5 @@
 import { toPng } from 'html-to-image';
+import html2canvas from 'html2canvas';
 import { jsPDF } from 'jspdf';
 
 export interface PDFExportOptions {
@@ -28,9 +29,43 @@ function loadImageDimensions(dataUrl: string): Promise<{ width: number; height: 
 }
 
 /**
+ * Captures a DOM element to a high-resolution PNG data URL.
+ * Prefers html2canvas (which extracts DOM text directly) and falls back to html-to-image toPng.
+ */
+async function captureElementToDataUrl(targetElement: HTMLElement, scale = 2): Promise<string> {
+  try {
+    const canvas = await html2canvas(targetElement, {
+      scale,
+      useCORS: true,
+      logging: false,
+      backgroundColor: '#ffffff',
+      ignoreElements: (element) =>
+        element.classList.contains('print:hidden') && element.id !== targetElement.id
+    });
+    const dataUrl = canvas.toDataURL('image/png', 0.98);
+    if (dataUrl && dataUrl.length > 5000) {
+      return dataUrl;
+    }
+  } catch (err) {
+    console.warn('html2canvas capture encountered an issue, falling back to toPng:', err);
+  }
+
+  return await toPng(targetElement, {
+    quality: 0.98,
+    pixelRatio: scale,
+    backgroundColor: '#ffffff',
+    cacheBust: true,
+    filter: (node) => {
+      if (node instanceof HTMLElement && node.classList.contains('print:hidden') && node.id !== targetElement.id) {
+        return false;
+      }
+      return true;
+    }
+  });
+}
+
+/**
  * Exports a DOM element or container to a high-resolution PDF file.
- * Uses html-to-image to natively render the element (including OKLCH colors and SVGs).
- * When fitToSinglePage is true, it scales the element to fit precisely inside 1 A4 page.
  */
 export async function exportElementToPDF(
   elementOrId: HTMLElement | string,
@@ -47,23 +82,7 @@ export async function exportElementToPDF(
       return false;
     }
 
-    // Capture using browser-native SVG foreignObject renderer via html-to-image
-    const dataUrl = await toPng(targetElement, {
-      quality: 0.98,
-      pixelRatio: options.scale || 2,
-      backgroundColor: '#ffffff',
-      cacheBust: true,
-      filter: (node) => {
-        // Exclude elements marked as print:hidden or export-exclude
-        if (node instanceof HTMLElement) {
-          if (node.classList.contains('print:hidden') && node.id !== targetElement.id) {
-            return false;
-          }
-        }
-        return true;
-      }
-    });
-
+    const dataUrl = await captureElementToDataUrl(targetElement, options.scale || 2);
     const { width: canvasWidth, height: canvasHeight } = await loadImageDimensions(dataUrl);
     const aspectRatio = canvasWidth / canvasHeight;
 
@@ -74,7 +93,6 @@ export async function exportElementToPDF(
     } else if (options.orientation === 'portrait') {
       orientation = 'portrait';
     } else {
-      // Auto: if wider than tall by 10%, choose landscape
       orientation = aspectRatio >= 1.1 ? 'landscape' : 'portrait';
     }
 
@@ -94,7 +112,6 @@ export async function exportElementToPDF(
     });
 
     if (options.fitToSinglePage) {
-      // Fit completely and proportionally onto 1 Page A4
       const scaleX = printableWidth / canvasWidth;
       const scaleY = printableHeight / canvasHeight;
       const scaleFactor = Math.min(scaleX, scaleY);
@@ -102,22 +119,18 @@ export async function exportElementToPDF(
       const finalImgWidth = canvasWidth * scaleFactor;
       const finalImgHeight = canvasHeight * scaleFactor;
 
-      // Center within printable margins
       const xOffset = margin + (printableWidth - finalImgWidth) / 2;
       const yOffset = margin + (printableHeight - finalImgHeight) / 2;
 
       pdf.addImage(dataUrl, 'PNG', xOffset, yOffset, finalImgWidth, finalImgHeight, undefined, 'FAST');
     } else {
-      // Calculate image dimensions on PDF page
       const imgPdfWidth = printableWidth;
       const imgPdfHeight = (printableWidth / canvasWidth) * canvasHeight;
 
       if (imgPdfHeight <= printableHeight) {
-        // Fits on a single page naturally
         const yOffset = margin + Math.max(0, (printableHeight - imgPdfHeight) / 2);
         pdf.addImage(dataUrl, 'PNG', margin, yOffset, imgPdfWidth, imgPdfHeight, undefined, 'FAST');
       } else {
-        // Multi-page slicing for taller dashboards (e.g. Analytics View)
         let remainingHeight = imgPdfHeight;
         let position = margin;
         let page = 1;
@@ -159,7 +172,6 @@ export async function exportElementToPDF(
 
 /**
  * Prints a DOM element cleanly using a hidden iframe.
- * Avoids sandbox restrictions and prints crisp visual rendering with full styling.
  */
 export async function printElement(
   elementOrId: HTMLElement | string,
@@ -180,21 +192,8 @@ export async function printElement(
     const orientation = options.orientation || 'landscape';
     const title = options.title || 'Visitor Log Report';
 
-    // Capture crisp image of the element with high pixel ratio
-    const dataUrl = await toPng(targetElement, {
-      quality: 0.98,
-      pixelRatio: 2,
-      backgroundColor: '#ffffff',
-      cacheBust: true,
-      filter: (node) => {
-        if (node instanceof HTMLElement && node.classList.contains('print:hidden') && node.id !== targetElement.id) {
-          return false;
-        }
-        return true;
-      }
-    });
+    const dataUrl = await captureElementToDataUrl(targetElement, 2);
 
-    // Create a temporary hidden iframe for clean printing
     const iframe = document.createElement('iframe');
     iframe.style.position = 'fixed';
     iframe.style.right = '0';

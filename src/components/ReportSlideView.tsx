@@ -134,6 +134,63 @@ export const ReportSlideView: React.FC<ReportSlideViewProps> = ({ reportData, on
   const maxProductMentions = Math.max(...topProductsChart.map(p => p.mentions), 4);
   const productAxisMax = Math.ceil(maxProductMentions * 1.25) + 2;
 
+  const renderVerticalBarLabel = (props: any) => {
+    const { x, y, width, value } = props;
+    if (value === undefined || value === null || Number(value) <= 0) return null;
+    const cx = (Number(x) || 0) + (Number(width) || 0) / 2;
+    const cy = (Number(y) || 0) - 5;
+    return (
+      <text
+        x={cx}
+        y={cy}
+        fill="#0f172a"
+        fontSize="11"
+        fontWeight="800"
+        fontFamily="sans-serif, system-ui, -apple-system"
+        textAnchor="middle"
+        style={{
+          fill: '#0f172a',
+          fontSize: '11px',
+          fontWeight: '800',
+          fontFamily: 'sans-serif, system-ui, -apple-system',
+          visibility: 'visible',
+          opacity: 1
+        }}
+      >
+        {value}
+      </text>
+    );
+  };
+
+  const renderHorizontalBarLabel = (props: any) => {
+    const { x, y, width, height, value } = props;
+    if (value === undefined || value === null || Number(value) <= 0) return null;
+    const cx = (Number(x) || 0) + (Number(width) || 0) + 6;
+    const cy = (Number(y) || 0) + (Number(height) || 0) / 2;
+    return (
+      <text
+        x={cx}
+        y={cy}
+        fill="#0f172a"
+        fontSize="10.5"
+        fontWeight="800"
+        fontFamily="sans-serif, system-ui, -apple-system"
+        textAnchor="start"
+        dominantBaseline="central"
+        style={{
+          fill: '#0f172a',
+          fontSize: '10.5px',
+          fontWeight: '800',
+          fontFamily: 'sans-serif, system-ui, -apple-system',
+          visibility: 'visible',
+          opacity: 1
+        }}
+      >
+        {value}
+      </text>
+    );
+  };
+
   return (
     <div className="space-y-4">
       {/* Action Bar */}
@@ -270,12 +327,7 @@ export const ReportSlideView: React.FC<ReportSlideViewProps> = ({ reportData, on
                       ))}
                       <LabelList 
                         dataKey="visitors" 
-                        position="top" 
-                        fill="#0f172a" 
-                        fontSize={11} 
-                        fontWeight={800} 
-                        offset={4}
-                        formatter={(val: any) => (Number(val) > 0 ? val : '')}
+                        content={renderVerticalBarLabel}
                       />
                     </Bar>
                   </BarChart>
@@ -323,12 +375,7 @@ export const ReportSlideView: React.FC<ReportSlideViewProps> = ({ reportData, on
                       ))}
                       <LabelList 
                         dataKey="count" 
-                        position="top" 
-                        fill="#0f172a" 
-                        fontSize={11} 
-                        fontWeight={800} 
-                        offset={4}
-                        formatter={(val: any) => (Number(val) > 0 ? val : '')}
+                        content={renderVerticalBarLabel}
                       />
                     </Bar>
                   </BarChart>
@@ -377,12 +424,7 @@ export const ReportSlideView: React.FC<ReportSlideViewProps> = ({ reportData, on
                         ))}
                         <LabelList 
                           dataKey="mentions" 
-                          position="right" 
-                          fill="#0f172a" 
-                          fontSize={10} 
-                          fontWeight={800} 
-                          offset={5}
-                          formatter={(val: any) => (Number(val) > 0 ? val : '')}
+                          content={renderHorizontalBarLabel}
                         />
                       </Bar>
                     </BarChart>
@@ -434,12 +476,7 @@ export const ReportSlideView: React.FC<ReportSlideViewProps> = ({ reportData, on
                       ))}
                       <LabelList 
                         dataKey="count" 
-                        position="top" 
-                        fill="#0f172a" 
-                        fontSize={11} 
-                        fontWeight={800} 
-                        offset={4}
-                        formatter={(val: any) => (Number(val) > 0 ? val : '')}
+                        content={renderVerticalBarLabel}
                       />
                     </Bar>
                   </BarChart>
